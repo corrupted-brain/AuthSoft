@@ -25,5 +25,13 @@ export const softwareList: Software[] = [
     link: "https://figma.com",
     remarks: "Standard design tool"
   },
+  {
+    "type": "AWS Related",
+    "name": "WorkSpaces",
+    "purpose": "Fully managed desktop computing service in the cloud .",
+    "licenseType": "Free",
+    "link": "https://clients.amazonworkspaces.com/",
+    "remarks": "#227325"
+  },
   // Add more items as needed
 ];
