@@ -157,7 +157,7 @@ export const softwareList: Software[] = [
   {
     "type": "Basic CentOS software",
     "name": "dpkg.x86_64",
-    "purpose": "Package maintenance system for Debian Linux",
+    "purpose": "Package mainte" "ce system for Debian Linux",
     "licenseType": "Free",
     "link": "https://pkgs.org/download/dpkg",
     "remarks": " "
@@ -3628,10 +3628,10 @@ export const softwareList: Software[] = [
   },
   {
     "type":"Browser Service",
-    "name":"Mozilla Maintenance Service",
+    "name":"Mozilla Mainte" "ce Service",
     "purpose":"Enables automatic allows application updates to occur in the background",
     "licenseType":"Free",
-    "link":"https://support.mozilla.org/en-US/kb/what-mozilla-maintenance-service",
+    "link":"https://support.mozilla.org/en-US/kb/what-mozilla-mainte" "ce-service",
     "remarks":" "
   },
   {
@@ -8219,588 +8219,372 @@ export const softwareList: Software[] = [
     "remarks":" "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "icpgjfneehieebagbmdbhnlpiopdcmna",
+    "name": "New Tab Redirect",
+    "purpose": "Allows a user to provide the URL of the page that loads in a new tab.",
+    "licenseType": "Chrome",
+    "link": "#NAME?",
+    "remarks": " "
+  },
+  {
+    "type": "fploionmjgeclbkemipmkogoaohcdbig",
+    "name": "Page load time",
+    "purpose": "Displays page load time in the toolbar",
+    "licenseType": "Chrome",
+    "link": "#NAME?",
+    "remarks": " "
+  },
+  {
+    "type": "fhbjgbiflinjbdggehcddcbncdddomop",
+    "name": "Postman",
+    "purpose": "Simplify each step of building an API and streamline collaboration so you can create better APIs\u2014faster.",
+    "licenseType": "Chrome",
+    "link": "#NAME?",
+    "remarks": " "
+  },
+  {
+    "type": "felcaaldnbdncclmgdcncolpebgiejap",
+    "name": "Sheets",
+    "purpose": "Create and edit spreadsheets",
+    "licenseType": "Chrome",
+    "link": "#NAME?",
+    "remarks": " "
+  },
+  {
+    "type": "aapocclcgogkmnckokdopfmhonfmgoek",
+    "name": "Slides",
+    "purpose": "Create and edit presentations",
+    "licenseType": "Chrome",
+    "link": "#NAME?",
+    "remarks": " "
+  },
+  {
+    "type": "mgjhkhhbkkldiihlajcnlfchfcmhipmn",
+    "name": "TruePath",
+    "purpose": "TruePath generates the relative XPath on click",
+    "licenseType": "Chrome",
+    "link": "#NAME?",
+    "remarks": " "
+  },
+  {
+    "type": "jabopobgcpjmedljpbcaablpmlmfcogm",
+    "name": "WhatFont",
+    "purpose": "The easiest way to identify fonts on web pages.",
+    "licenseType": "Chrome",
+    "link": "#NAME?",
+    "remarks": " "
+  },
+  {
+    "type": "kkelicaakdanhinjdeammmilcgefonfh",
+    "name": "Window Resizer",
+    "purpose": "Resize the browser window to emulate various screen resolutions.",
+    "licenseType": "Chrome",
+    "link": "#NAME?",
+    "remarks": " "
+  },
+  {
+    "type": "hmbjbjdpkobdjplfobhljndfdfdipjhg",
+    "name": "Zoom",
+    "purpose": "Zoom Cloud Meetings for Chrome",
+    "licenseType": "Chrome",
+    "link": "#NAME?",
+    "remarks": " "
+  },
+  {
+    "type": "kgjfgplpablkjnlkjmjdecgdpfankdle",
+    "name": "Zoom Scheduler",
+    "purpose": "Schedule Zoom meetings directly from Google Calendar",
+    "licenseType": "Chrome",
+    "link": "#NAME?",
+    "remarks": " "
+  },
+  {
+    "type": "jid1-NIfFY2CA8fy1tg@jetpack",
+    "name": "AdBlock \u2014 best ad blocker",
+    "purpose": "Block ads and pop-ups on YouTube, Facebook, Twitch, and your favorite websites.",
+    "licenseType": "Firefox",
+    "link": "https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox/",
+    "remarks": " "
+  },
+  {
+    "type": "{83efb7a7-cf21-4f94-840a-316f651053ef}",
+    "name": "ChroPath",
+    "purpose": "ChroPath helps to generate and validate selectors like relative xpath, cssSelector etc with iframe support.",
+    "licenseType": "Firefox",
+    "link": "https://addons.mozilla.org/en-US/firefox/addon/chropath-for-firefox/",
+    "remarks": " "
+  },
+  {
+    "type": "firefox-compact-dark@mozilla.org",
+    "name": "Dark",
+    "purpose": "A theme with a dark color scheme.",
+    "licenseType": "Firefox",
+    "link": " ",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "default-theme@mozilla.org",
+    "name": "Default",
+    "purpose": "A theme with the operating system color scheme.",
+    "licenseType": "Firefox",
+    "link": " ",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "doh-rollout@mozilla.org",
+    "name": "DoH Roll-Out",
+    "purpose": "Mozilla add-on that supports the roll-out of DoH",
+    "licenseType": "Firefox",
+    "link": " ",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "ddg@search.mozilla.org",
+    "name": "DuckDuckGo",
+    "purpose": "Search DuckDuckGo",
+    "licenseType": "Firefox",
+    "link": "https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-search",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "{c748f1fa-f022-428c-9276-8dff4b830d33}",
+    "name": "Forcepoint Endpoint",
+    "purpose": "Forcepoint Endpoint Extension.",
+    "licenseType": "Firefox",
+    "link": " ",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "google@search.mozilla.org",
+    "name": "Google",
+    "purpose": "Google Search",
+    "licenseType": "Firefox",
+    "link": " ",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "{bda65ea0-2465-43b6-9b66-d396988c24aa}",
+    "name": "Google Hangouts",
+    "purpose": "Google Hangouts brings conversations to life with photos, emoji, and even group video calls for free.",
+    "licenseType": "Firefox",
+    "link": "https://addons.mozilla.org/en-US/firefox/addon/google-hangout",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "{c4c8bd04-e508-46df-a109-92af7ea4992b}",
+    "name": "Google Hangouts Web Messenger",
+    "purpose": "Google Hangouts Web Messenger brings Google Hangouts right into your browser to chat with your friends.",
+    "licenseType": "Firefox",
+    "link": "https://addons.mozilla.org/en-US/firefox/addon/google-hangouts-web-messenger",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "87677a2c52b84ad3a151a4a72f5bd3c4@jetpack",
+    "name": "Grammarly for Firefox",
+    "purpose": "Enhance your written communication everywhere you type!",
+    "licenseType": "Firefox",
+    "link": "https://addons.mozilla.org/en-US/firefox/addon/grammarly-1",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "jsonview@brh.numbera.com",
+    "name": "JSONView",
+    "purpose": "View JSON documents in the browser.",
+    "licenseType": "Firefox",
+    "link": " ",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "support@lastpass.com",
+    "name": "LastPass: Free Password Manager",
+    "purpose": "Last Password you will ever need",
+    "licenseType": "Firefox",
+    "link": "https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "firefox-compact-light@mozilla.org",
+    "name": "Light",
+    "purpose": "A theme with a light color scheme.",
+    "licenseType": "Firefox",
+    "link": " ",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "firefox@getpocket.com",
+    "name": "Pocket",
+    "purpose": "When you find something you want to view later, put it in Pocket.",
+    "licenseType": "Firefox",
+    "link": " ",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "webcompat@mozilla.org",
+    "name": "Web Compat",
+    "purpose": "Urgent post-release fixes for web compatibility.",
+    "licenseType": "Firefox",
+    "link": " ",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "webcompat-reporter@mozilla.org",
+    "name": "WebCompat Reporter",
+    "purpose": "Report site compatibility issues on webcompat.com",
+    "licenseType": "Firefox",
+    "link": " ",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "{bf855ead-d7c3-4c7b-9f88-9a7e75c0efdf}",
+    "name": "Zoom Scheduler",
+    "purpose": "Schedule Zoom meetings directly from Google Calendar",
+    "licenseType": "Firefox",
+    "link": "https://addons.mozilla.org/en-US/firefox/addon/zoom-new-scheduler",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "npjkkakdacjaihjaoeliacmecofghagh",
+    "name": "IE Tab",
+    "purpose": "IE Tab exactly emulates Internet Explorer, and enables users to test web pages",
+    "licenseType": "Microsoft Edge",
+    "link": "https://microsoftedge.microsoft.com/addons/detail/ie-tab/npjkkakdacjaihjaoeliacmecofghagh",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "hehijbfgiekmjfkfjpbkbammjbdenadd",
+    "name": "IE Tab",
+    "purpose": "IE Tab exactly emulates Internet Explorer, and enables users to test web pages",
+    "licenseType": "Chrome",
+    "link": "https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "jpmkfafbacpgapdghgdpembnojdlgkdl",
+    "name": "AWS Extend Switch Roles",
+    "purpose": "Extend your AWS IAM switching roles. You can set the configuration like aws config format",
+    "licenseType": "Chrome",
+    "link": "https://chrome.google.com/webstore/detail/aws-extend-switch-roles/jpmkfafbacpgapdghgdpembnojdlgkdl?hl=en",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "aws-extend-switch-roles@toshi.tiflin.com",
+    "name": "AWS Extend Switch Roles",
+    "purpose": "Extend your AWS IAM switching roles. You can set the configuration like aws config format",
+    "licenseType": "Firefox",
+    "link": "https://addons.mozilla.org/en-US/firefox/addon/aws-extend-switch-roles3/",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "gpaiobkfhnonedkhhfjpmhdalgeoebfa",
+    "name": "Microsoft Editor",
+    "purpose": "Editor provides grammar, spelling, and style suggestions across multiple sites (1) so you can confidently write clear, concise posts and emails. ",
+    "licenseType": "Chrome",
+    "link": "https://chrome.google.com/webstore/detail/microsoft-editor-spelling/gpaiobkfhnonedkhhfjpmhdalgeoebfa?hl=en",
+    "remarks": " "
   },
   {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
-  },
-  {
-    "type":" ",
-    "name":" ",
-    "purpose":" ",
-    "licenseType":" ",
-    "link":" ",
-    "remarks":" "
+    "type": "Mobile App",
+    "name": "AWS Console",
+    "purpose": "AWS Console Mobile Application is provided by Amazon Web Services",
+    "licenseType": "Mobile App",
+    "link": "AWS Amazon",
+    "remarks": " "
+  },
+  {
+    "type": "Mobile App",
+    "name": "JuiceSSH",
+    "purpose": "Free SSH client for Android",
+    "licenseType": "Mobile App",
+    "link": "Google Play",
+    "remarks": " "
+  },
+  {
+    "type": "Mobile App",
+    "name": "LastPass",
+    "purpose": "Password Manager & Secure Private Vault. Store passwords & guard identity.",
+    "licenseType": "Mobile App",
+    "link": "Google Play",
+    "remarks": " "
+  },
+  {
+    "type": "Mobile App",
+    "name": "Meraki",
+    "purpose": "Cisco Meraki dashboard",
+    "licenseType": "Mobile App",
+    "link": "Google Play",
+    "remarks": " "
+  },
+  {
+    "type": "Mobile App",
+    "name": "OpenVPN",
+    "purpose": "OpenVPN for Android is an open source client based on the open source OpenVPN project.",
+    "licenseType": "Mobile App",
+    "link": "Google Play",
+    "remarks": " "
+  },
+  {
+    "type": "Mobile App",
+    "name": "PagerDuty",
+    "purpose": "PagerDuty turns any signal into insight and action to improve agility and visibility across organizations.",
+    "licenseType": "Mobile App",
+    "link": "Google Play",
+    "remarks": " "
+  },
+  {
+    "type": "Mobile App",
+    "name": "Shelly",
+    "purpose": "Free SSH client for IOS",
+    "licenseType": "Mobile App",
+    "link": "App Store",
+    "remarks": " "
+  },
+  {
+    "type": "Mobile App",
+    "name": "Microsoft Teams",
+    "purpose": "Hub for teamwork",
+    "licenseType": "Mobile App",
+    "link": "Google Play",
+    "remarks": " "
+  },
+  {
+    "type": "Mobile App",
+    "name": "Termius",
+    "purpose": "Termius is an SSH client that works on Desktop and Mobile",
+    "licenseType": "Mobile App",
+    "link": "Website",
+    "remarks": " "
+  },
+  {
+    "type": "Mobile App",
+    "name": "Termux",
+    "purpose": "Termux is a terminal emulator application for Android as well as a Linux environment that runs on Android",
+    "licenseType": "Mobile App",
+    "link": "Google Play",
+    "remarks": " "
+  },
+  {
+    "type": "Mobile App",
+    "name": "Zoom",
+    "purpose": "Free HD meeting app with video and screen sharing for up to 100 people.",
+    "licenseType": "Mobile App",
+    "link": "Google Play",
+    "remarks": " "
+  },
+  {
+    "type": "Addon",
+    "name": "Zoom for Gmail",
+    "purpose": "Zoom\u2019s native integration with Gmail",
+    "licenseType": "Addon",
+    "link": "Zoom App Marketplace",
+    "remarks": " "
+  },
+  {
+    "type": "Addon",
+    "name": "Zoom for Hangouts",
+    "purpose": "Instantly start a Zoom video collaboration session from a chat and meet with anyone on desktops, mobile devices, and conference rooms",
+    "licenseType": "Addon",
+    "link": "Zoom App Marketplace",
+    "remarks": " "
   }
 
   // Add more items as needed
