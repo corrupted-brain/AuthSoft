@@ -1,11 +1,13 @@
 import React, { useState, useMemo } from 'react';
-import { Database } from 'lucide-react';
+import { Database, ChevronLeft, ChevronRight } from 'lucide-react';
 import { SearchBar } from './components/SearchBar';
 import { SoftwareTable } from './components/SoftwareTable';
 import { softwareList } from './types';
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 12;
 
   const filteredSoftware = useMemo(() => {
     const searchLower = searchTerm.toLowerCase();
@@ -15,6 +17,10 @@ function App() {
         software.type.toLowerCase().includes(searchLower)
     );
   }, [searchTerm]);
+
+  const totalPages = Math.ceil(filteredSoftware.length / itemsPerPage);
+  const startIndex = (currentPage - 1) * itemsPerPage;
+  const paginatedSoftware = filteredSoftware.slice(startIndex, startIndex + itemsPerPage);
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -32,14 +38,39 @@ function App() {
         <div className="mt-8 flex justify-center">
           <SearchBar 
             searchTerm={searchTerm}
-            onSearchChange={setSearchTerm}
+            onSearchChange={(value) => {
+              setSearchTerm(value);
+              setCurrentPage(1); // Reset to first page on search
+            }}
           />
         </div>
 
-        <SoftwareTable software={filteredSoftware} />
+        <SoftwareTable software={paginatedSoftware} />
         
-        <div className="mt-4 text-center text-sm text-gray-500">
-          {filteredSoftware.length} software applications found
+        <div className="mt-6 flex items-center justify-between">
+          <div className="text-sm text-gray-500">
+            Showing {startIndex + 1} to {Math.min(startIndex + itemsPerPage, filteredSoftware.length)} of {filteredSoftware.length} applications
+          </div>
+          
+          <div className="flex items-center space-x-2">
+            <button
+              onClick={() => setCurrentPage(prev => Math.max(prev - 1, 1))}
+              disabled={currentPage === 1}
+              className="p-2 rounded-md border border-gray-300 disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-50"
+            >
+              <ChevronLeft className="h-5 w-5 text-gray-600" />
+            </button>
+            <span className="text-sm text-gray-700">
+              Page {currentPage} of {totalPages}
+            </span>
+            <button
+              onClick={() => setCurrentPage(prev => Math.min(prev + 1, totalPages))}
+              disabled={currentPage === totalPages}
+              className="p-2 rounded-md border border-gray-300 disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-50"
+            >
+              <ChevronRight className="h-5 w-5 text-gray-600" />
+            </button>
+          </div>
         </div>
       </div>
     </div>
