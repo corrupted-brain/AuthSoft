@@ -6402,7 +6402,2406 @@ export const softwareList: Software[] = [
     "Link":"https:\/\/www.python.org\/downloads\/",
     "Remarks":null
   },
-  
+  {
+    "Type":"Remote Connection",
+    "Name":"SSH Secure Shell",
+    "Purpose":"SSH ",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.ssh.com\/ssh\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"PuTTY",
+    "Purpose":"Network file transfer application",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.putty.org\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"OpenVPN",
+    "Purpose":"Secure connection",
+    "License Type ":"Free",
+    "Link":"https:\/\/openvpn.net\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"OpenVPN Connect",
+    "Purpose":"Secure connection",
+    "License Type ":"Free",
+    "Link":"https:\/\/openvpn.net\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"Uninstall OpenVPN Connect",
+    "Purpose":"Secure connection",
+    "License Type ":"Free",
+    "Link":"https:\/\/openvpn.net\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"TAP-Windows 9.24.2",
+    "Purpose":"Secure connection",
+    "License Type ":"Free",
+    "Link":"https:\/\/openvpn.net\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"Progeny Authenticator",
+    "Purpose":"Progeny Authenticator is an application created by Progeny for 2 factor authentication for access to their application called 'Baby Trax 1.5",
+    "License Type ":"Free",
+    "Link":"https:\/\/dev.babytrax.net\/progenyauthenticator\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"MobaXterm",
+    "Purpose":"Better tool for SSH from Windows machines. ",
+    "License Type ":"Free",
+    "Link":"https:\/\/mobaxterm.mobatek.net\/download.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"NordVPN IKE",
+    "Purpose":"VPN connect",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/nordvpn.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"TeamViewer",
+    "Purpose":"Remote desktop software",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.teamviewer.com\/en\/download\/windows\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"Tunnelblick",
+    "Purpose":"OpenVPN VPN client server",
+    "License Type ":"Free",
+    "Link":"https:\/\/tunnelblick.net\/downloads.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"Viscosity",
+    "Purpose":"OpenVPN VPN client server",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.ovpn.com\/en\/guides\/mac-viscosity",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"Microsoft Remote Desktop Beta",
+    "Purpose":"Remote desktop software",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.drivers.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"Microsoft Remote Desktop",
+    "Purpose":"Remote desktop software",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.drivers.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"openvpn",
+    "Purpose":"virtual private network daemon",
+    "License Type ":"Free",
+    "Link":"http:\/\/www.openvpn.net\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection ",
+    "Name":"Cisco AnyConnect ",
+    "Purpose":"Provides VPN access through SSL and IPsec IKEv2",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cisco.com\/c\/en\/us\/support\/security\/anyconnect-secure-mobility-client-v4-x\/model.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection ",
+    "Name":"vpndownloader",
+    "Purpose":"Download Cisco vpn",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cisco.com\/c\/en\/us\/support\/security\/anyconnect-secure-mobility-client\/tsd-products-support-series-home.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Revision Control",
+    "Name":"CVS",
+    "Purpose":"Version control system",
+    "License Type ":"Free",
+    "Link":"http:\/\/cvs.nongnu.org\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Revision Control",
+    "Name":"Git Bash",
+    "Purpose":"Command line programs which allow you to interface with the underlying git progra",
+    "License Type ":"Free",
+    "Link":"https:\/\/git-scm.com\/downloads",
+    "Remarks":null
+  },
+  {
+    "Type":"Revision Control",
+    "Name":"GIT ",
+    "Purpose":"Software to handle project processes with efficiency and speed",
+    "License Type ":"Free",
+    "Link":"https:\/\/git-scm.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Revision Control",
+    "Name":"git",
+    "Purpose":"Fast Version Control System",
+    "License Type ":"Free",
+    "Link":"https:\/\/git-scm.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Revision Control",
+    "Name":"Meld",
+    "Purpose":"Compare files, directories, and version controlled projects",
+    "License Type ":"Free",
+    "Link":"http:\/\/meldmerge.org\/",
+    "Remarks":"#96693"
+  },
+  {
+    "Type":"Revision Control",
+    "Name":"WinMerge",
+    "Purpose":"differencing and merging tool for Windows",
+    "License Type ":"Free",
+    "Link":"http:\/\/winmerge.org\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Revision Control",
+    "Name":"subversion",
+    "Purpose":"A Modern Concurrent Version Control System",
+    "License Type ":"Free",
+    "Link":"https:\/\/sourceforge.net\/projects\/subversion\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Screenshot",
+    "Name":"Snagit",
+    "Purpose":"Take Screenshot",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.techsmith.com\/store\/snagit?utm_source=google&utm_medium=cpc&utm_campaign=1524774662&utm_content=58548122295&utm_term=snagit&gclid=EAIaIQobChMI78GU_fGi4QIVjLbICh25eA1kEAAYASAAEgL-dvD_BwE",
+    "Remarks":null
+  },
+  {
+    "Type":"Security",
+    "Name":"EncryptMe",
+    "Purpose":"Used for encryption in MAC",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.encrypt.me\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Security",
+    "Name":"GNU Privacy Assistant",
+    "Purpose":"encrypt the client dump files using keys provided by different clients",
+    "License Type ":"Free",
+    "Link":"https:\/\/gnupg.org\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Security",
+    "Name":"OWASP Zed Attack Proxy 2.7.0",
+    "Purpose":"Rind security vulnerabilities in the web applications while developing and testing the application",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.owasp.org\/index.php\/OWASP_Zed_Attack_Proxy_Project",
+    "Remarks":null
+  },
+  {
+    "Type":"Software Platform",
+    "Name":"Java",
+    "Purpose":"System for developing and deploying application software",
+    "License Type ":"Free",
+    "Link":"https:\/\/java.com\/en\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Software Platform",
+    "Name":"JDK",
+    "Purpose":"Java development kit",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.oracle.com\/technetwork\/java\/javase\/downloads\/jdk8-downloads-2133151.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Software Platform",
+    "Name":"java-common",
+    "Purpose":"Base package for Java runtimes",
+    "License Type ":"Free",
+    "Link":"https:\/\/java.com\/en\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Software Service ",
+    "Name":"Google Update Helper",
+    "Purpose":"Checks for software updates and automatically downloads and install ",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.google.com\/about\/products\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Sotware API SDK",
+    "Name":"Dolby Audio X2 Windows API SDK",
+    "Purpose":"Registry entry that runs on each Windows boot for all user logins",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.dolby.com",
+    "Remarks":null
+  },
+  {
+    "Type":"Sotware Service ",
+    "Name":"Google Update",
+    "Purpose":"Keeps Google based software up to date",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.google.co.in\/chrome\/index.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Sync tool",
+    "Name":"Rclone",
+    "Purpose":"Syncing to team drive",
+    "License Type ":"Free",
+    "Link":"https:\/\/rclone.org\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Terminal Program",
+    "Name":"guake",
+    "Purpose":"Terminal",
+    "License Type ":"Free",
+    "Link":"https:\/\/github.com\/Guake\/guake",
+    "Remarks":null
+  },
+  {
+    "Type":"Terminal Program",
+    "Name":"iterm",
+    "Purpose":"Terminal for Mac",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.iterm2.com\/downloads.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Terminal Program",
+    "Name":"iTerm2",
+    "Purpose":"Terminal for Mac",
+    "License Type ":"Free",
+    "Link":"https:\/\/iterm2.com\/downloads\/stable\/latest",
+    "Remarks":null
+  },
+  {
+    "Type":"Terminal Program",
+    "Name":"MiniTerm",
+    "Purpose":"Terminal Program",
+    "License Type ":"Free",
+    "Link":"https:\/\/gist.github.com\/bewest\/4632563",
+    "Remarks":null
+  },
+  {
+    "Type":"Testing Tool",
+    "Name":"Katalon Studio",
+    "Purpose":"Performing automated tests",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.katalon.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Text Editor",
+    "Name":"Notepad++",
+    "Purpose":"Editing text also used for source code edit",
+    "License Type ":"Free",
+    "Link":"https:\/\/notepad-plus-plus.org\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Text Editor",
+    "Name":"notepadqq",
+    "Purpose":"Source code editor and Notepad replacement",
+    "License Type ":"Free",
+    "Link":"https:\/\/notepadqq.com\/s\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Text Editor",
+    "Name":"Sublime Text",
+    "Purpose":"Editing text also used for source code edit",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.sublimetext.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Text Editor",
+    "Name":"sublime-text        ",
+    "Purpose":"Sublime Text 2        ",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.sublimetext.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Text Editor",
+    "Name":"EDI notepad",
+    "Purpose":"EDI file reader",
+    "License Type ":"Free",
+    "Link":"my ",
+    "Remarks":null
+  },
+  {
+    "Type":"Text Editor",
+    "Name":"EmEditor",
+    "Purpose":"Text Editor",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.emeditor.com\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Adobe Flash Player",
+    "Purpose":"Used to view multimedia content",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.adobe.com\/products\/flashplayer.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Adobe Refresh Manager",
+    "Purpose":"Launch adobe softwares on boot through a Windows Schedule Task ",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.adobe.com",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Adobe Shockwave Player",
+    "Purpose":"Software plug-in for viewing multimedia and video games in web pages",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.adobe.com\/products\/shockwaveplayer.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Google Input",
+    "Purpose":"Input method editor to enter text in any of the supported languages",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.google.com\/inputtools\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"adobe-flashplugin",
+    "Purpose":"needed for web browser (Ubuntu)",
+    "License Type ":"Free",
+    "Link":"https:\/\/get.adobe.com\/flashplayer\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"artha",
+    "Purpose":"Needed as offline dictionary for English words (Ubuntu)",
+    "License Type ":"Free",
+    "Link":"http:\/\/artha.sourceforge.net\/wiki\/index.php\/Download",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"banshee",
+    "Purpose":"Music Player (Ubuntu)",
+    "License Type ":"Free",
+    "Link":"http:\/\/banshee.fm\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"banshee-extension-soundmenu",
+    "Purpose":"Music Player (Ubuntu)",
+    "License Type ":"Free",
+    "Link":"http:\/\/banshee.fm\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"clementine",
+    "Purpose":"https:\/\/adoptopenjdk.net\/",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.clementine-player.org\/downloads",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Spotify",
+    "Purpose":"Music Player (Ubuntu)",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.spotify.com",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"cryptsetup",
+    "Purpose":"disk encryption (Ubuntu)",
+    "License Type ":"Free",
+    "Link":"https:\/\/packages.ubuntu.com\/trusty\/admin\/cryptsetup",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"cryptsetup-bin",
+    "Purpose":"disk encryption (Ubuntu)",
+    "License Type ":"Free",
+    "Link":"https:\/\/packages.ubuntu.com\/trusty\/admin\/cryptsetup",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"audacity",
+    "Purpose":"Audio editor.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.audacityteam.org\/download\/linux\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"audacity-data",
+    "Purpose":"Audio editor.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.audacityteam.org\/download\/linux\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"KolourPaint",
+    "Purpose":"Same as windows paint, a small image editing tool",
+    "License Type ":"Free",
+    "Link":"http:\/\/kolourpaint.org\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Application Verifier",
+    "Purpose":"detect and help debug memory corruptions and critical security vulnerabilities",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=20028",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Color Cop",
+    "Purpose":"free multi-purpose color picker",
+    "License Type ":"Free",
+    "Link":"http:\/\/colorcop.net\/license\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"mythes",
+    "Purpose":"English thesaurus",
+    "License Type ":"Free",
+    "Link":"https:\/\/github.com\/hunspell\/mythes",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"madan-fonts",
+    "Purpose":"Font for Nepali language",
+    "License Type ":"Free",
+    "Link":"https:\/\/download.com.np\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Virtualization",
+    "Name":"VMware",
+    "Purpose":"For virtual machines",
+    "License Type ":"Free",
+    "Link":"https:\/\/my.vmware.com\/en\/web\/vmware\/evalcenter?p=free-esxi6",
+    "Remarks":null
+  },
+  {
+    "Type":"Vulnaribility Scanner",
+    "Name":"Burp",
+    "Purpose":"Web vulnerability scanner",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/portswigger.net\/burp",
+    "Remarks":null
+  },
+  {
+    "Type":"Web based Development platform",
+    "Name":"XAMPP",
+    "Purpose":"Apache distribution containing MariaDB, PHP, and Perl",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.apachefriends.org\/index.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Web based Development platform",
+    "Name":"connect",
+    "Purpose":"Installed by XAMPP in mac",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.apachefriends.org\/index.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Web based Development platform",
+    "Name":"Tomcat",
+    "Purpose":"Implements Java Servlet, JavaServer Pages (JSP)",
+    "License Type ":"Free",
+    "Link":"http:\/\/tomcat.apache.org\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Web based Development platform",
+    "Name":"Apache",
+    "Purpose":"Software to develop and maintain an open-source HTTP server",
+    "License Type ":"Free",
+    "Link":"https:\/\/httpd.apache.org\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Web based Development platform",
+    "Name":"Web Deploy",
+    "Purpose":"Required for web deployment of  ASP.NET applications ",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.iis.net\/downloads\/microsoft\/web-deploy",
+    "Remarks":null
+  },
+  {
+    "Type":"Web based Development platform",
+    "Name":"IIS",
+    "Purpose":"Microsoft's web server",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=48264",
+    "Remarks":null
+  },
+  {
+    "Type":"Web based Development platform",
+    "Name":"Microsoft Web Platform Installer",
+    "Purpose":"For adding Web Deploy component for IIS.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/web\/downloads\/platform.aspx",
+    "Remarks":null
+  },
+  {
+    "Type":"Web based Development platform",
+    "Name":"MAMP",
+    "Purpose":"Local webserver",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.mamp.info\/en\/downloads\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Web based Service",
+    "Name":"LastPass",
+    "Purpose":"Web based password management service ",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.lastpass.com\/business-password-manager",
+    "Remarks":null
+  },
+  {
+    "Type":"Web Development platform",
+    "Name":"WAMP",
+    "Purpose":"Software stack to create web applications",
+    "License Type ":"Free",
+    "Link":"http:\/\/www.wampserver.com\/en\/",
+    "Remarks":null
+  },
+  {
+    "Type":"WebDriver and Remote Control",
+    "Name":"Selenium ",
+    "Purpose":"Selenium automates browsers",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.seleniumhq.org\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Microsoft Windows 10 ",
+    "Purpose":"Operating System",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.microsoft.com\/en-gb\/evalcenter\/evaluate-windows-10-enterprise",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Microsoft Windows Server 2016",
+    "Purpose":"Operating System",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.microsoft.com\/en-in\/evalcenter\/evaluate-windows-server-2016",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Office 16 Click-to-Run",
+    "Purpose":"Mircrosoft Office installer",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.microsoft.com",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"osrss",
+    "Purpose":"Microsoft update patch",
+    "License Type ":"Free",
+    "Link":"https:\/\/support.microsoft.com\/en-us\/help\/3159635\/windows-10-update-assistant",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Update KB",
+    "Purpose":"Mircosoft periodic patches and updates",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.microsoft.com",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Windows 10 Update Assistant",
+    "Purpose":"Windows 10 update assistant",
+    "License Type ":"Free",
+    "Link":"https:\/\/support.microsoft.com\/en-us\/help\/3159635\/windows-10-update-assistant",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Update for Windows",
+    "Purpose":"Windows updates",
+    "License Type ":"Free",
+    "Link":"https:\/\/support.microsoft.com\/en-us\/help\/3159635\/windows-10-update-assistant",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Windows SDK",
+    "Purpose":"Software development kits (SDKs) from Microsoft",
+    "License Type ":"Free",
+    "Link":"https:\/\/developer.microsoft.com\/en-us\/windows\/downloads\/windows-10-sdk",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Microsoft Help Viewer",
+    "Purpose":"Offline help system (local help) developed by Microsoft",
+    "License Type ":"Free",
+    "Link":"https:\/\/docs.microsoft.com\/en-us\/visualstudio\/ide\/microsoft-help-viewer",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Microsoft MPI",
+    "Purpose":"Microsoft implementation of the Message Passing Interface standard",
+    "License Type ":"Free",
+    "Link":"https:\/\/docs.microsoft.com\/en-us\/message-passing-interface\/microsoft-mpi",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Microsoft Application Error Reporting",
+    "Purpose":"Crash reporting technology by Microsoft",
+    "License Type ":"Free",
+    "Link":"https:\/\/social.microsoft.com\/Forums\/en-US\/268910ec-9107-4c89-bb2a-7ded1b6a9ad6\/install-microsoft-application-error-reporting-tool?forum=crmdeployment",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Microsoft Portable Library",
+    "Purpose":"Targeting Pack for Microsoft .NET Framework",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=27757",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Microsoft Windows Communication Foundation",
+    "Purpose":"Framework for building service-oriented applications by Microsoft",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=21459",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Microsoft Build Tools",
+    "Purpose":"Essential tools for building managed applications.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=48159",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"SDK",
+    "Purpose":"provides the latest headers, libraries, metadata, and tools for building Windows 10 apps",
+    "License Type ":"Free",
+    "Link":"https:\/\/developer.microsoft.com\/en-us\/windows\/downloads\/windows-10-sdk",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Microsoft Sync Framework Runtime",
+    "Purpose":"enabling collaboration and offline scenarios for applications, services and devices",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=17616",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Windows App Certification",
+    "Purpose":"test your app for Windows",
+    "License Type ":"Free",
+    "Link":"https:\/\/developer.microsoft.com\/en-us\/windows\/develop\/app-certification-kit",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Windows Software Development Kit",
+    "Purpose":"provides the latest headers, libraries, metadata, and tools for building Windows 10 apps",
+    "License Type ":"Free",
+    "Link":"https:\/\/developer.microsoft.com\/en-us\/windows\/downloads\/windows-10-sdk",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Kits Configuration Installer",
+    "Purpose":"provides the latest headers, libraries, metadata, and tools for building Windows 10 apps",
+    "License Type ":"Free",
+    "Link":"https:\/\/developer.microsoft.com\/en-us\/windows\/downloads\/windows-10-sdk",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"WinAppDeploy",
+    "Purpose":"command line tool that can use to deploy a Universal Windows Platform (UWP) app from a Windows 10 PC",
+    "License Type ":"Free",
+    "Link":"https:\/\/winappdeploy.updatestar.com\/en",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Operating System",
+    "Name":"Microsoft Web Platform Installer",
+    "Purpose":"WebPI provides a simplified installation workflow for installing common open source web applications and web platform technologies",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/web\/downloads\/platform.aspx",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Chrysanth Cheque Writer [Free] for Nepal",
+    "Purpose":"For check printing",
+    "License Type ":"Free",
+    "Link":"https:\/\/en.freedownloadmanager.org\/Windows-PC\/Chrysanth-Cheque-Writer-FREE.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Printer Driver",
+    "Name":"EPSON LQ-310 ESC\/P2 Printer Utility Uninstall",
+    "Purpose":"Printer Driver",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.epson.com.sg\/Support\/Printers\/Dot-Matrix-Printers\/LQ-Series\/Epson-LQ-310\/s\/SPT_C11CC25301?review-filter=Windows+7+32-bit",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Windows Admin Center",
+    "Purpose":"browser-based app for managing servers, clusters, hyper-converged infrastructure, and Windows 10 PCs",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/en-us\/cloud-platform\/windows-admin-center",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Startups VMS",
+    "Purpose":"remote connection for NVR",
+    "License Type ":"Free",
+    "Link":"http:\/\/muinintl.com\/downloads\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Cinema 4D R21",
+    "Purpose":"package for all 3D artists (installed by adobe)",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.maxon.net\/en-us\/support\/downloads\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"ACCFinderBundleLoader",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"CC Troubleshooter",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"CCXProcess",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Analyze Documents",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"ATFViewer",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"c4dpy",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Cineware",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Commandline",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Contact Sheets",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Export Flash Animation",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Make Calendar",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"naib",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Template",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Web Gallery",
+    "Purpose":"installed by adobe",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
+    "Remarks":null
+  },
+  {
+    "Type":"Management application",
+    "Name":"RVM",
+    "Purpose":"Command-line tool to manage ruby environments",
+    "License Type ":"Free",
+    "Link":"https:\/\/github.com\/rvm\/ubuntu_rvm",
+    "Remarks":null
+  },
+  {
+    "Type":"Management application",
+    "Name":"Bundler",
+    "Purpose":"Manages an application's dependencies through its entire life.",
+    "License Type ":"Free",
+    "Link":"https:\/\/rubygems.org\/gems\/bundler\/versions\/2.0.2",
+    "Remarks":null
+  },
+  {
+    "Type":"CCTV Camera Software ",
+    "Name":"VMS",
+    "Purpose":"For CCTV streaming and storing videos",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.unifore.net\/analog-surveillance\/xmeye-for-windows-mac-pc-software-vms.html",
+    "Remarks":null
+  },
+  {
+    "Type":"CCTV Camera Software ",
+    "Name":"CMS",
+    "Purpose":"For CCTV streaming and storing videos",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.unifore.net\/analog-surveillance\/xmeye-for-windows-mac-pc-software-vms.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Forcepoint DLP Endpoint",
+    "Purpose":"Data Loss Prevention (DLP) tool",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/support.forcepoint.com\/Login?startURL=%2FDownloads",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"FORCEPOINT ONE ENDPOINT",
+    "Purpose":"Data Loss Prevention (DLP) tool",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/support.forcepoint.com\/Login?startURL=%2FDownloads",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Forcepoint Decryption Utility",
+    "Purpose":"Data Loss Prevention (DLP) tool",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/support.forcepoint.com\/Login?startURL=%2FDownloads",
+    "Remarks":null
+  },
+  {
+    "Type":"Database ",
+    "Name":"redis",
+    "Purpose":"in-memory data structure store",
+    "License Type ":"Free",
+    "Link":"dbforge-sq-decrypter-3.1.24-installer_I0-B5J1.exe",
+    "Remarks":null
+  },
+  {
+    "Type":"Angular",
+    "Name":"Angular ",
+    "Purpose":"an app-design framework and development platform",
+    "License Type ":"Free",
+    "Link":"https:\/\/angular.io\/",
+    "Remarks":null
+  },
+  {
+    "Type":"IDE",
+    "Name":"VisualVM",
+    "Purpose":"All-in-One Java Troubleshooting Tool",
+    "License Type ":"Free",
+    "Link":"https:\/\/visualvm.github.io\/download.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Webex Client",
+    "Name":"voipclientmac",
+    "Purpose":"Call with Comcast",
+    "License Type ":"Free",
+    "Link":"https:\/\/conferencebridge.comcast.com\/webexclients\/VoIP-Client-Mac-1.3.pkg.zip",
+    "Remarks":null
+  },
+  {
+    "Type":"Extension",
+    "Name":"Adblock Plus",
+    "Purpose":"Extension to block ads",
+    "License Type ":"Free",
+    "Link":"https:\/\/chrome.google.com\/webstore\/detail\/adblock-plus-free-ad-bloc\/cfhdojbkjhnklbpkdaibdccddilifddb",
+    "Remarks":null
+  },
+  {
+    "Type":"Network",
+    "Name":"AlienVault",
+    "Purpose":"Central log server",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/cybersecurity.att.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Project Management",
+    "Name":"Merlin Project",
+    "Purpose":"Project Management Tool",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.projectwizards.net\/en",
+    "Remarks":null
+  },
+  {
+    "Type":"Database ",
+    "Name":"Rally",
+    "Purpose":"to benchmark Elasticsearch",
+    "License Type ":"Free",
+    "Link":"https:\/\/esrally.readthedocs.io\/en\/stable\/",
+    "Remarks":"#423838"
+  },
+  {
+    "Type":"Productivity",
+    "Name":"JProfiler",
+    "Purpose":"Java application profiling tool",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.ej-technologies.com\/download\/jprofiler\/files",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Profile Creator",
+    "Purpose":"build configuration profiles using GUI",
+    "License Type ":"Free",
+    "Link":"https:\/\/github.com\/ProfileCreator\/ProfileCreator",
+    "Remarks":"#474368"
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Apple configurator 2",
+    "Purpose":"build configuration profiles using GUI",
+    "License Type ":"Free",
+    "Link":"https:\/\/apps.apple.com\/us\/app\/apple-configurator-2\/id1037126344?mt=12",
+    "Remarks":null
+  },
+  {
+    "Type":"Medicare",
+    "Name":"Medicare Severity Grouper\/Medicare Code Editor (MSGMCE)",
+    "Purpose":"compare the DRG-classification by SE-feature",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cms.gov\/files\/zip\/ms-drg-grouper-mce-v38-0-r1-icd-10-pc-software.zip",
+    "Remarks":null
+  },
+  {
+    "Type":"Medicare",
+    "Name":"ESRD PC Pricer",
+    "Purpose":"Allows to predict reimbursement to a renal dialysis facility",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer\/ESRD_Pricer",
+    "Remarks":null
+  },
+  {
+    "Type":"Medicare",
+    "Name":"Home Health Prospective Payment System (HH PPS) PC Pricer",
+    "Purpose":"Medicare pricer",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
+    "Remarks":null
+  },
+  {
+    "Type":"Medicare",
+    "Name":"Hospice PPS PC Pricer",
+    "Purpose":"Medicare pricer",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
+    "Remarks":null
+  },
+  {
+    "Type":"Medicare",
+    "Name":"Inpatient PPS PC Pricer",
+    "Purpose":"Medicare pricer",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
+    "Remarks":null
+  },
+  {
+    "Type":"Medicare",
+    "Name":"Inpatient Psychiatric Facility Prospective Payment System (IPF PPS) PC Pricer",
+    "Purpose":"Medicare pricer",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
+    "Remarks":null
+  },
+  {
+    "Type":"Medicare",
+    "Name":"Inpatient Rehabilitation Facility PPS PC Pricer",
+    "Purpose":"Medicare pricer",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
+    "Remarks":null
+  },
+  {
+    "Type":"Medicare",
+    "Name":"Long-Term Care Hospital PPS PC Pricer",
+    "Purpose":"Medicare pricer",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
+    "Remarks":null
+  },
+  {
+    "Type":"Medicare",
+    "Name":"Skilled Nursing Facilities (SNF PPS) PC Pricer",
+    "Purpose":"Medicare pricer",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"FortiClient",
+    "Purpose":"Secure connection",
+    "License Type ":"Free",
+    "Link":"https:\/\/filestore.fortinet.com\/forticlient\/downloads\/FortiClientVPNOnlineInstaller_6.4.dmg",
+    "Remarks":null
+  },
+  {
+    "Type":"Testing Tool",
+    "Name":"Stress stimulus",
+    "Purpose":"A load, stress and performance testing tool for websites, web applications, web API and mobile apps of any complexity",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.stresstimulus.com\/download",
+    "Remarks":"#529691"
+  },
+  {
+    "Type":"VPN",
+    "Name":"Perimeter 81",
+    "Purpose":"VPN client",
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":"Productivity",
+    "Name":"KACE",
+    "Purpose":"Unified endpoint management",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/kace1.gha-lan.net\/userui",
+    "Remarks":"#564338"
+  },
+  {
+    "Type":"Productivity",
+    "Name":"Microsoft CRM",
+    "Purpose":"Project Field is built on top of Microsoft CRM. CRM stands for customer relationship management. We cannot run Project Field without Microsoft CRM.",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/s3.console.aws.amazon.com\/s3\/buckets\/dw-field?region=us-east-1&prefix=CGT+Software+Installs\/CRM2016\/&showversions=false",
+    "Remarks":"Setup file was provided by CG"
+  },
+  {
+    "Type":"Productivity",
+    "Name":"Microsoft BizTalk",
+    "Purpose":"Project Field needs Microsoft BizTalk in its workflow process. Without Microsoft, the workflow of Project Field will be incomplete. Microsoft BizTalk Server allows connecting diverse software, then graphically creating and modifying process logic that uses that software.\u00a0",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/s3.console.aws.amazon.com\/s3\/buckets\/dw-field?region=us-east-1&prefix=CGT+Software+Installs\/&showversions=false",
+    "Remarks":"Setup file was provided by CG"
+  },
+  {
+    "Type":"Productivity",
+    "Name":"Mongo DB Compass",
+    "Purpose":"It is a GUI for connecting to the MongoDB. The MongoDB Compass allows you to make smarter decisions about document structure, querying, indexing, document validation, and more.\u00a0",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.mongodb.com\/try\/download\/compass",
+    "Remarks":null
+  },
+  {
+    "Type":"Productivity",
+    "Name":"Microsoft SQL Server 2016 Developer Edition",
+    "Purpose":"This is a free version of Microsoft SQL Server for Development and QA environment",
+    "License Type ":"Free",
+    "Link":"https:\/\/s3.console.aws.amazon.com\/s3\/buckets\/dw-field?region=us-east-1&prefix=CGT+Software+Installs\/SQL+Intall+Files\/&showversions=false",
+    "Remarks":"Setup file was provided by CG"
+  },
+  {
+    "Type":"Development tool",
+    "Name":"Silverlight",
+    "Purpose":"Silverlight is a powerful development tool for creating engaging, interactive user experiences for Web and mobile applications. Silverlight is a free plug-in, powered by the .NET framework and compatible with multiple browsers, devices and operating systems, bringing a new level of interactivity wherever the Web works. Project Field will use Internet Explorer so this is a must.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/Silverlight\/",
+    "Remarks":null
+  },
+  {
+    "Type":"EDI toolkit",
+    "Name":"Framework EDI",
+    "Purpose":"EDI parser and constructor",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.edidev.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Reporting Tool",
+    "Name":"Crystal Report 13",
+    "Purpose":"Used in Project Valley",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.crystalreports.com\/reports\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Reporting Tool",
+    "Name":"SAP Crystal Reports",
+    "Purpose":"Used in Project Valley",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.crystalreports.com\/reports\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Reporting Tool",
+    "Name":"EDIFRedi",
+    "Purpose":"Used in Project Valley",
+    "License Type ":"Licensed",
+    "Link":"One drive location",
+    "Remarks":null
+  },
+  {
+    "Type":"Driver",
+    "Name":"ExpressConnect Drivers & Services",
+    "Purpose":"Dell Driver",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.dell.com\/support\/home\/us\/en\/04\/drivers\/driversdetails?driverid=1jw07",
+    "Remarks":null
+  },
+  {
+    "Type":"VPN",
+    "Name":"GlobalProtect",
+    "Purpose":"To connect to office network",
+    "License Type ":"Free",
+    "Link":"https:\/\/docs.paloaltonetworks.com\/globalprotect\/4-1\/globalprotect-app-user-guide\/globalprotect-app-for-windows\/download-and-install-the-globalprotect-app-for-windows.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Microsoft Document Explorer 2008",
+    "Purpose":"This is installed by Visual Studio 2008. It's the help viewer used with Visual Studio 2008.",
+    "License Type ":"Free",
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Microsoft Sync Framework Services v1.0 SP1 (x64)",
+    "Purpose":"Installed by Visual Studio. Microsoft Sync Framework is a comprehensive synchronization platform for enabling collaboration and offline scenarios for applications, services and devices.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=17616",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Microsoft Team Foundation Server 2010 Object Model - ENU",
+    "Purpose":"Installed by Visual Studio. Used for developing applications that integrate with TFS 2010.",
+    "License Type ":"Free",
+    "Link":"https:\/\/marketplace.visualstudio.com\/items?itemName=EdH-MSFT.TeamFoundationServer2010SP1ObjectModelInstaller",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Dotfuscator Software Services - Community Edition",
+    "Purpose":"Installed with Visual Studio 2019. Used to harden, protect, and prune desktop, mobile, server, and embedded applications to help secure trade secrets and other intellectual property (IP), reduce piracy and counterfeiting, and protect against tampering and unauthorized debugging.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.preemptive.com\/products\/dotfuscator\/downloads",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"WCF RIA Services V1.0 SP2",
+    "Purpose":"Installed by Visual Studio. The WCF RIA Services is a framework that provides a pattern to write application logic that runs on the mid-tier and controls access to data for queries, changes and custom.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.shouldiremoveit.com\/WCF-RIA-Services-V-SP2-11010-program.aspx",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Windows Phone 8.1 Emulators - ENU",
+    "Purpose":"This is installed by Visual Studio. The Windows Phone 8.1 Emulators package provides emulator images for use with Visual Studio 2013 Update 2 or later.",
+    "License Type ":"Free",
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Lenovo Quick Clean",
+    "Purpose":"Installed by Lenovo. Lenovo Quick Clean application allows healthcare professionals to lock keyboard and mouse input so the laptop keyboard can be wiped down to sanitize the device. This is provided by default in the Lenovo laptop.This package updates the Lenovo Quick Clean application to fix problems, add new functions, or expand function.",
+    "License Type ":"Free",
+    "Link":"https:\/\/support.lenovo.com\/np\/en\/downloads\/ds540666-lenovo-quick-clean-for-windows-10-thinkpad",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"LINQ to XSD Preview Alpha 0.2",
+    "Purpose":"Provide .NET developers with support for typed XML programming on top of LINQ to XML.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/en-pk\/download\/search.aspx?q=visual+studio&p=2&r=10&t=1185&s=Relevancy%7EDescending&first=851",
+    "Remarks":null
+  },
+  {
+    "Type":"Open Source",
+    "Name":"setroubleshoot-plugins.noarch",
+    "Purpose":"This package provides a set of analysis plugins for use with setroubleshoot. Each plugin has the capacity to analyze SELinux AVC data and system data to provide user friendly reports describing how to interpret SELinux AVC denials.",
+    "License Type ":"Free",
+    "Link":"Centos Base Repo",
+    "Remarks":null
+  },
+  {
+    "Type":"Open Source",
+    "Name":"setroubleshoot-server.x86_64",
+    "Purpose":"Provides tools to help diagnose SELinux problems. When AVC messages are generated an alert can be generated that will give information about the problem and help track its resolution. Alerts can be configured to user preference. The same tools can be run on existing log files.",
+    "License Type ":"Free",
+    "Link":"Centos Base Repo",
+    "Remarks":null
+  },
+  {
+    "Type":"Open Source",
+    "Name":"aide.x86_64",
+    "Purpose":"AIDE (Advanced Intrusion Detection Environment) is a file integrity checker and intrusion detection program.",
+    "License Type ":"Free",
+    "Link":"Centos Base Repo",
+    "Remarks":null
+  },
+  {
+    "Type":"Open Source",
+    "Name":"telnet.x86_64",
+    "Purpose":"Telnet is a popular protocol for logging into remote systems over the Internet. The package provides a command line Telnet client",
+    "License Type ":"Free",
+    "Link":"Centos Base Repo",
+    "Remarks":null
+  },
+  {
+    "Type":"Propriotory",
+    "Name":"amazon-ssm-agent.x86_64",
+    "Purpose":"AWS Systems Manager Agent (SSM Agent) is Amazon software that can be installed and configured on an EC2 instance, an on-premises server, or a virtual machine (VM). SSM Agent makes it possible for Systems Manager to update, manage, and configure these resources. The agent processes requests from the Systems Manager service in the AWS Cloud, and then runs them as specified in the request. SSM Agent then sends status and execution information back to the Systems Manager service by using the Amazon Message Delivery Service (service prefix: ec2messages).",
+    "License Type ":"Free",
+    "Link":"https:\/\/docs.aws.amazon.com\/systems-manager\/latest\/userguide\/sysman-manual-agent-install.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Propriotory",
+    "Name":"newrelic-infra.x86_64",
+    "Purpose":"Infrastructure Monitoring in New Relic provides deep visibility into your entire estate, in one place. Capture your hosts' health and performance along with the services, containers, and resources into your overall monitoring needs. This will provide the richest set of metrics, events, logs, and configuration changes for application troubleshooting context. With New Relic, you get observability to tame the complexity of operating your entire infrastructure.",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/docs.newrelic.com\/docs\/using-new-relic\/cross-product-functions\/install-configure\/install-new-relic\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Propriotory",
+    "Name":"cloudhealth-agent.x86_64",
+    "Purpose":"The CloudHealth Linux Agent allows us to collect instance-level metrics.",
+    "License Type ":"Free",
+    "Link":"https:\/\/github.com\/CloudHealth\/agent-install-helpers",
+    "Remarks":null
+  },
+  {
+    "Type":"Propriotory",
+    "Name":"metricbeat.x86_64",
+    "Purpose":"Metricbeat comes with internal modules that collect metrics from services like Apache, Jolokia, NGINX, MongoDB, MySQL, PostgreSQL, Prometheus, and more. Installation is easy, requiring absolutely zero dependencies. Just enable the modules you want in the configuration file.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.elastic.co\/downloads\/beats\/metricbeat",
+    "Remarks":null
+  },
+  {
+    "Type":"Open Source",
+    "Name":"elasticsearch.x86_64",
+    "Purpose":"Elasticsearch is the distributed, RESTful search and analytics engine at the heart of the Elastic Stack. You can use Elasticsearch to store, search, and manage data for: Logs, Metrics, A search backend, Application monitoring, Endpoint security and more!",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.elastic.co\/downloads\/elasticsearch",
+    "Remarks":null
+  },
+  {
+    "Type":"Open Source",
+    "Name":"mozjs17.x86_64",
+    "Purpose":"JavaScript interpreter and libraries",
+    "License Type ":"Free",
+    "Link":"Centos Base Repo",
+    "Remarks":null
+  },
+  {
+    "Type":"SaaS, Data analytical tool",
+    "Name":"Tableau",
+    "Purpose":"Tableau report validation for ISAAC data refresh",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.tableau.com\/products\/desktop\/download",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"iMazing Profile Editor",
+    "Purpose":"build configuration profiles using GUI",
+    "License Type ":"Free",
+    "Link":"https:\/\/imazing.com\/profile-editor",
+    "Remarks":"#474368"
+  },
+  {
+    "Type":"Migration Tool",
+    "Name":"Prowfiz tool",
+    "Purpose":"AD migration",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.forensit.com\/Downloads\/Profwiz.msi",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"NUnit console",
+    "Purpose":"This is a text-based runner for listing and running tests from the command line.",
+    "License Type ":"Free",
+    "Link":"https:\/\/github.com\/nunit\/nunit-console\/releases",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"dbForge SQL Decryptor",
+    "Purpose":"For decrypting database objects.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.devart.com\/dbforge\/sql\/sqldecryptor\/download.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Kubectl",
+    "Purpose":"The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters.",
+    "License Type ":"Free",
+    "Link":"https:\/\/docs.aws.amazon.com\/eks\/latest\/userguide\/install-kubectl.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"eksctl",
+    "Purpose":"CLI tool for creating and managing clusters on EKS - Amazon's managed Kubernetes service for EC2",
+    "License Type ":"Free",
+    "Link":"https:\/\/docs.aws.amazon.com\/eks\/latest\/userguide\/eksctl.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Terraform CLI",
+    "Purpose":"Infrastructure as code",
+    "License Type ":"Free",
+    "Link":"https:\/\/learn.hashicorp.com\/tutorials\/terraform\/install-cli",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Helm",
+    "Purpose":"Package manager for Kubernetes",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.eksworkshop.com\/beginner\/060_helm\/helm_intro\/install\/index.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"DOxygen",
+    "Purpose":"Doxygen is the de facto standard tool for generating documentation from annotated C++ sources, but it also supports other popular programming languages such as C, Objective-C, C#",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.doxygen.nl\/files\/doxygen-1.9.2-setup.exe",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"GraphViZ",
+    "Purpose":"Graphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks.",
+    "License Type ":"Free",
+    "Link":"https:\/\/gitlab.com\/api\/v4\/projects\/4207231\/packages\/generic\/graphviz-releases\/2.49.0\/stable_windows_10_cmake_Release_x64_graphviz-install-2.49.0-win64.exe",
+    "Remarks":null
+  },
+  {
+    "Type":"Database",
+    "Name":"RavenDB",
+    "Purpose":"It is used as a database.",
+    "License Type ":"Free",
+    "Link":"https:\/\/ravendb.net",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Make SFX",
+    "Purpose":"This is a free program that lets you make self-extracting archives under Windows (x86 & x64) platform.",
+    "License Type ":"Free",
+    "Link":"Make SFX (Self-extracting archive) (revocue.cz)",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"InstallShield",
+    "Purpose":"InstallShield is a software tool for creating installers or software packages.",
+    "License Type ":"Trial",
+    "Link":"https:\/\/info.revenera.com\/is-eval-installshield-professional?lead_source=Website%20Visitor&id=Revenera.com",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"MS Visual Basic",
+    "Purpose":"MS Access is a database management system used for creating business applications.",
+    "License Type ":"Free",
+    "Link":"https:\/\/drive.google.com\/file\/d\/0B2XHy_G4QwVid1lTME81UzlJcjQ\/view?resourcekey=0-jMkHvjhaMfEs_4Vl6FpE_Q",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"GraaVM",
+    "Purpose":"a software which you may refer as JDK for java development.",
+    "License Type ":"Free",
+    "Link":"https:\/\/github.com\/graalvm\/graalvm-ce-builds\/releases",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Scoop",
+    "Purpose":"the package installer for window.",
+    "License Type ":"Free",
+    "Link":"https:\/\/github.com\/ScoopInstaller\/Java",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Neoload",
+    "Purpose":"Integrations with CI servers for Agile and DevOps, APM tools for code-level diagnostics, and functional testing tools for end-user experience metrics",
+    "License Type ":"Trial",
+    "Link":"https:\/\/www.neotys.com\/download-neoload-performance-testing-tool",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"VNC with TLS",
+    "Purpose":"screen sharing software",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.realvnc.com\/en\/connect\/download\/viewer\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"iClaimsDataExtractor",
+    "Purpose":"CedarGate's internal desktop application to extract claims and charges along with the configurations for Bundle, AP\/AR and Fee schedules from the iClaims Database. ",
+    "License Type ":"Licensed",
+    "Link":"Cedar Gate",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Report Builder",
+    "Purpose":"For generating reports by fetching data from Microsoft SQL Server database.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=53613&e6b34bbe-475b-1abd-2c51-b5034bcdd6d2=True",
+    "Remarks":null
+  },
+  {
+    "Type":"PowerShell Module ",
+    "Name":"PnP PowerShell",
+    "Purpose":"perform complex actions in SharePoint",
+    "License Type ":"Free",
+    "Link":"https:\/\/github.com\/pnp\/powershell",
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":"through PowerShell script",
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":"Accounting",
+    "Name":"Saral Billing",
+    "Purpose":"to issue Computerized Invoice",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/saral-billing.software.informer.com\/8.0\/",
+    "Remarks":null
+  },
+  {
+    "Type":"VS Code Extension",
+    "Name":"TSQLLint",
+    "Purpose":"It is used for describing, identifying, and reporting on undesirable patterns in TSQL scripts. This extension provides this functionality within VS Code.",
+    "License Type ":"Free",
+    "Link":"https:\/\/marketplace.visualstudio.com\/items?itemName=tsqllint.tsqllint&ssr=false#overview",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Dll",
+    "Name":"Cryptosys Api",
+    "Purpose":"This is used in CapCheck and Eligilibity manager for encryption",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.cryptosys.net\/api.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Business Intelligence tool",
+    "Name":"Power BI Desktop",
+    "Purpose":"create interactive dashboards and reports",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=58494",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility software",
+    "Name":"Pingplotter",
+    "Purpose":"Network Troubleshooting Tool",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.pingplotter.com\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Open Source",
+    "Name":"Linqpad",
+    "Purpose":"LINQPad is a software utility targeted at .NET Framework and .NET Core development",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.linqpad.net\/Download.aspx",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility software",
+    "Name":"SQL Prompt",
+    "Purpose":"It develops tools for developers and data professionals and maintains community websites such as SQL Server Central and Simple Talk",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.red-gate.com\/products\/sql-prompt\/trial\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility software",
+    "Name":"KubeClarity",
+    "Purpose":"KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems. It scans both runtime K8s clusters and CI\/CD pipelines for enhanced software supply chain security.",
+    "License Type ":"Free",
+    "Link":"https:\/\/github.com\/openclarity\/kubeclarity",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Software",
+    "Name":"HelpNDoc",
+    "Purpose":"HelpNDoc is a Windows-based help authoring tool published by French company IBE Software.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.helpndoc.com\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Windows Software",
+    "Name":"Advance Installer",
+    "Purpose":"Advanced Installer is a Windows installer authoring tool for installing, updating, and configuring your products safely, securely, and reliably.",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.advancedinstaller.com\/download.html",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility",
+    "Name":"Aver Webcam Driver\u00a0",
+    "Purpose":"Connect Aver camera to endpoint",
+    "License Type ":"free",
+    "Link":"https:\/\/www.aver.com\/download-center",
+    "Remarks":null
+  },
+  {
+    "Type":"Data",
+    "Name":"AlertyX",
+    "Purpose":"Alteryx Analytics Automation Platform delivers end-to-end automation of analytics, machine learning, and data science processes",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.alteryx.com\/designer-trial\/free-trial-alteryx",
+    "Remarks":null
+  },
+  {
+    "Type":"MS 365 addon",
+    "Name":"PerfectIt",
+    "Purpose":"PerfectIt is the leading add-in among professional editors, with thousands of editors around the world using it. PerfectIt locates errors that no spelling or grammar checker can find",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/appsource.microsoft.com\/en-us\/product\/office\/wa104380773?tab=overview&exp=ubp8",
+    "Remarks":null
+  },
+  {
+    "Type":"Productivity",
+    "Name":"DocumentConverter ",
+    "Purpose":"Bulk convert your documents in seconds on Windows",
+    "License Type ":"Free",
+    "Link":"https:\/\/documentconverter.pro\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Monitoring",
+    "Name":"OpenMPI",
+    "Purpose":"Used by Horovod to distribute the training process",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.open-mpi.org\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility",
+    "Name":"NVDA Reader",
+    "Purpose":"access to technology for blind and vision impaired people.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.nvaccess.org\/download\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility",
+    "Name":"Go Lang",
+    "Purpose":null,
+    "License Type ":"Free",
+    "Link":"https:\/\/go.dev\/dl\/go1.21.0.windows-amd64.msi",
+    "Remarks":null
+  },
+  {
+    "Type":"Business Intelligence tool",
+    "Name":"Power BI Connector for Jira",
+    "Purpose":"Connect Jira to Power BI and build custom Jira reports easily",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/marketplace.atlassian.com\/apps\/1221150\/power-bi-connector-for-jira?tab=overview&hosting=cloud&utm_source=google&utm_medium=cpc&utm_campaign=sn_pbi_jira_other&utm_vendorID=1216274&utm_term=jira%20power%20bi%20connector&hsa_acc=5924481196&hsa_cam=17867500517&hsa_grp=139060449283&hsa_ad=628724164541&hsa_src=g&hsa_tgt=kwd-859082026971&hsa_kw=jira%20power%20bi%20connector&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad=1&gclid=Cj0KCQiAuqKqBhDxARIsAFZELmIROsuW9is52SwmiaPDVwc45hLfMWfW3DXSzW7lRvKxOVW9rQZuZyAaAljhEALw_wcB",
+    "Remarks":null
+  },
+  {
+    "Type":"Basic Mac Software",
+    "Name":"Mongo Cli",
+    "Purpose":"Store data in flexible documents and develop applications designed to adapt and scale, backed by Atlas, a fully managed platform with always-on security and an ecosystem of tools and integrations.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.mongodb.com\/docs\/v4.4\/mongo\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility Software",
+    "Name":"Johns Hopkins ACG 13.0.1",
+    "Purpose":"The ACG\u00ae System has been used in commercial and research settings worldwide, longer and more extensively than any other system on the market today. The software component is tried and true, continuously undergoing improvements and modifications in response to user needs.",
+    "License Type ":"Licensed",
+    "Link":"https:\/\/www.hopkinsacg.org\/document\/download-v13\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Productivity",
+    "Name":"DAX Studio",
+    "Purpose":"DAX Studio is a free, open-source tool that helps in the authoring of DAX queries in Power BI and Power BI Report Builder and helps in DAX query profiling and performance analysis.It is governed by the Microsoft Reciprocal License (License | DAX Studio). The tool was created by Darren Gosbell (https:\/\/darren.gosbell.com\/about\/) and later donated to the public domain. The open source code is available at https:\/\/github.com\/daxstudio\/daxstudio.",
+    "License Type ":"Free",
+    "Link":"https:\/\/daxstudio.org\/downloads\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility",
+    "Name":"Colour Contrast Analyzer",
+    "Purpose":"As a part of Analytics EA accessibility audit and changes, we are required to test the color contrast accessibility changes using tool 'Colour Contrast Analyzer'",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.tpgi.com\/color-contrast-checker",
+    "Remarks":null
+  },
+  {
+    "Type":"VPN",
+    "Name":"SonicWall NetExtender VPN",
+    "Purpose":"SonicWall VPN Clients provide your employees safe, easy access to the data they need from any device",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.sonicwall.com\/products\/remote-access\/vpn-clients\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Development Tool",
+    "Name":"Goland IDE",
+    "Purpose":"GoLand is a powerful platform with many features designed specifically for Go developers.",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.jetbrains.com\/go\/",
+    "Remarks":null
+  },
+  {
+    "Type":"Remote Connection",
+    "Name":"SecureLink Connection Manager",
+    "Purpose":"The SecureLink Connection Manager is a software tool designed to facilitate secure remote access to client systems and networks. ",
+    "License Type ":"Free",
+    "Link":"https:\/\/SecureLink.Trinity-Health.org",
+    "Remarks":null
+  },
+  {
+    "Type":"Utility",
+    "Name":"irfanview",
+    "Purpose":"image viewer, editor, organiser and converter program for Microsoft Windows",
+    "License Type ":"Free",
+    "Link":"https:\/\/www.irfanview.com\/",
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  },
+  {
+    "Type":null,
+    "Name":null,
+    "Purpose":null,
+    "License Type ":null,
+    "Link":null,
+    "Remarks":null
+  }
 
   // Add more items as needed
 ];
