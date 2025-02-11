@@ -157,7 +157,7 @@ export const softwareList: Software[] = [
   {
     "type": "Basic CentOS software",
     "name": "dpkg.x86_64",
-    "purpose": "Package mainte" "ce system for Debian Linux",
+    "purpose": "Package maintenance system for Debian Linux",
     "licenseType": "Free",
     "link": "https://pkgs.org/download/dpkg",
     "remarks": " "
@@ -3628,10 +3628,10 @@ export const softwareList: Software[] = [
   },
   {
     "type":"Browser Service",
-    "name":"Mozilla Mainte" "ce Service",
+    "name":"Mozilla Maintenance Service",
     "purpose":"Enables automatic allows application updates to occur in the background",
     "licenseType":"Free",
-    "link":"https://support.mozilla.org/en-US/kb/what-mozilla-mainte" "ce-service",
+    "link":"https://support.mozilla.org/en-US/kb/what-mozilla-maintenance service",
     "remarks":" "
   },
   {
