@@ -32,7 +32,7 @@ export const softwareList: Software[] = [
     "purpose": "Apache HTTP Server",
     "licenseType": "Free",
     "link": "https://httpd.apache.org/download.cgi",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -40,7 +40,7 @@ export const softwareList: Software[] = [
     "purpose": "Concurrent Versions System",
     "licenseType": "Free",
     "link": "http://cvs.nongnu.org/",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -48,7 +48,7 @@ export const softwareList: Software[] = [
     "purpose": "High-performance and highly configurable free RADIUS server",
     "licenseType": "Free",
     "link": "https://freeradius.org/",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -56,7 +56,7 @@ export const softwareList: Software[] = [
     "purpose": "Remote Desktop Protocol client",
     "licenseType": "Free",
     "link": "http://www.freerdp.com/",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -64,7 +64,7 @@ export const softwareList: Software[] = [
     "purpose": "Graph Visualization Tools",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/centos-x86_64/graphviz-2.30.1-21.el7.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -72,7 +72,7 @@ export const softwareList: Software[] = [
     "purpose": "Apache HTTP Server",
     "licenseType": "Free",
     "link": "https://httpd.apache.org/docs/2.4/platform/rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -80,7 +80,7 @@ export const softwareList: Software[] = [
     "purpose": "Font for Nepali language",
     "licenseType": "Free",
     "link": "https://pkgs.org/download/madan-fonts",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -88,7 +88,7 @@ export const softwareList: Software[] = [
     "purpose": "An utility for finding files by name",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/centos-x86_64/mlocate-0.26-8.el7.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -96,7 +96,7 @@ export const softwareList: Software[] = [
     "purpose": "A network diagnostic tool",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/centos-x86_64/mtr-0.85-7.el7.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -104,7 +104,7 @@ export const softwareList: Software[] = [
     "purpose": "An interface to MySQL",
     "licenseType": "Free",
     "link": "http://rpmfind.net/linux/RPM/MySQL-python.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -112,7 +112,7 @@ export const softwareList: Software[] = [
     "purpose": "English thesaurus",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/6/centos-x86_64/mythes-en-3.0-6.el6.noarch.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -120,7 +120,7 @@ export const softwareList: Software[] = [
     "purpose": "A collection of SNMP protocol tools and libraries",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/centos-x86_64/net-snmp-5.7.2-37.el7.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -128,7 +128,7 @@ export const softwareList: Software[] = [
     "purpose": "Round Robin Database Tool to store and display time-series data",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/centos-x86_64/rrdtool-1.4.8-9.el7.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -136,7 +136,7 @@ export const softwareList: Software[] = [
     "purpose": "Enhanced system logging and kernel message trapping daemon",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/centos-x86_64/rsyslog-8.24.0-34.el7.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -144,7 +144,7 @@ export const softwareList: Software[] = [
     "purpose": "Files used by both Samba servers and clients",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/centos-x86_64/samba-common-4.8.3-4.el7.noarch.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -152,15 +152,15 @@ export const softwareList: Software[] = [
     "purpose": "A Modern Concurrent Version Control System",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/centos-x86_64/subversion-1.7.14-14.el7.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
     "name": "dpkg.x86_64",
-    "purpose": "Package maintenance system for Debian Linux",
+    "purpose": "Package mainte" "ce system for Debian Linux",
     "licenseType": "Free",
     "link": "https://pkgs.org/download/dpkg",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -168,7 +168,7 @@ export const softwareList: Software[] = [
     "purpose": "Scriptable, parallelized ping-like utility",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/repoforge-x86_64/fping-3.10-1.el7.rf.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -176,7 +176,7 @@ export const softwareList: Software[] = [
     "purpose": "Interactive process viewer",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/epel-x86_64/htop-2.2.0-3.el7.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -184,7 +184,7 @@ export const softwareList: Software[] = [
     "purpose": "Internet whois/nicname client",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/epel-x86_64/jwhois-4.0-45.el7.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -192,7 +192,7 @@ export const softwareList: Software[] = [
     "purpose": "A RRDtool frontend for Mail statistics",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/epel-x86_64/mailgraph-1.14-31.el7.noarch.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -200,7 +200,7 @@ export const softwareList: Software[] = [
     "purpose": "Replacement for crypt()",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/epel-x86_64/mcrypt-2.6.8-11.el7.x86_64.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic CentOS software",
@@ -208,7 +208,7 @@ export const softwareList: Software[] = [
     "purpose": "Latency Logging and Graphing System",
     "licenseType": "Free",
     "link": "https://centos.pkgs.org/7/ghettoforge-x86_64/smokeping-2.6.11-1.gf.el7.noarch.rpm.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -216,7 +216,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -224,7 +224,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -232,7 +232,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -240,7 +240,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -248,7 +248,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -256,7 +256,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -264,7 +264,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -272,7 +272,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -280,7 +280,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -288,7 +288,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -296,7 +296,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -304,7 +304,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -312,7 +312,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -320,7 +320,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -328,7 +328,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -336,7 +336,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -344,7 +344,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -352,7 +352,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -360,7 +360,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -368,7 +368,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -376,7 +376,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -384,7 +384,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -392,7 +392,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -400,7 +400,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -408,7 +408,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -416,7 +416,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -424,7 +424,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -432,7 +432,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -440,7 +440,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -448,7 +448,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -456,7 +456,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -464,7 +464,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -472,7 +472,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -480,7 +480,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -488,7 +488,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -496,7 +496,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -504,7 +504,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -512,7 +512,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -520,7 +520,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -528,7 +528,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -536,7 +536,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -544,7 +544,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -552,7 +552,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -560,7 +560,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -568,7 +568,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -576,7 +576,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -584,7 +584,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -592,7 +592,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -600,7 +600,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -608,7 +608,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -616,7 +616,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -624,7 +624,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -632,7 +632,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -640,7 +640,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -648,7 +648,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -656,7 +656,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -664,7 +664,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -672,7 +672,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -680,7 +680,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -688,7 +688,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -696,7 +696,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -704,7 +704,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -712,7 +712,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -720,7 +720,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -728,7 +728,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -736,7 +736,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -744,7 +744,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -752,7 +752,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -760,7 +760,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -768,7 +768,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -776,7 +776,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -784,7 +784,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -792,7 +792,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -800,7 +800,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -808,7 +808,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -816,7 +816,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -824,7 +824,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -832,7 +832,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -840,7 +840,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -848,7 +848,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -856,7 +856,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -864,7 +864,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -872,7 +872,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -880,7 +880,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -888,7 +888,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -896,7 +896,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -904,7 +904,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -912,7 +912,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -920,7 +920,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -928,7 +928,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -936,7 +936,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -944,7 +944,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -952,7 +952,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -960,7 +960,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -968,7 +968,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -976,7 +976,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -984,7 +984,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -992,7 +992,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1000,7 +1000,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1008,7 +1008,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1016,7 +1016,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1024,7 +1024,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1032,7 +1032,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1040,7 +1040,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1048,7 +1048,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1056,7 +1056,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1064,7 +1064,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1072,7 +1072,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1080,7 +1080,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1088,7 +1088,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1096,7 +1096,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1104,7 +1104,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1112,7 +1112,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1120,7 +1120,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1128,7 +1128,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1136,7 +1136,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1144,7 +1144,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1152,7 +1152,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1160,7 +1160,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1168,7 +1168,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1176,7 +1176,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1184,7 +1184,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1192,7 +1192,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1200,7 +1200,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1208,7 +1208,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1216,7 +1216,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1224,7 +1224,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1232,7 +1232,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1240,7 +1240,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1248,7 +1248,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1256,7 +1256,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1264,7 +1264,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1272,7 +1272,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1280,7 +1280,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1288,7 +1288,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1296,7 +1296,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1304,7 +1304,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1312,7 +1312,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1320,7 +1320,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1328,7 +1328,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1336,7 +1336,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1344,7 +1344,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1352,7 +1352,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1360,7 +1360,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1368,7 +1368,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1376,7 +1376,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1384,7 +1384,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1392,7 +1392,7 @@ export const softwareList: Software[] = [
     "purpose": "Mac keyboard shortcut",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1400,7 +1400,7 @@ export const softwareList: Software[] = [
     "purpose": "To-do list software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1408,7 +1408,7 @@ export const softwareList: Software[] = [
     "purpose": "Screen shot",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1416,7 +1416,7 @@ export const softwareList: Software[] = [
     "purpose": "Construct and manage a graphical, event-driven user interface",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1424,7 +1424,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Basic Mac Software",
@@ -1432,7 +1432,7 @@ export const softwareList: Software[] = [
     "purpose": "Basic Mac Software",
     "licenseType": "Free",
     "link": "https://support.apple.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Accounting",
@@ -1440,7 +1440,7 @@ export const softwareList: Software[] = [
     "purpose": "ERP system for accounting,inventory and data integrity.",
     "licenseType": "Licensed",
     "link": "https://tallysolutions.com/ ",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Accounting",
@@ -1448,7 +1448,7 @@ export const softwareList: Software[] = [
     "purpose": "Deerwalk's product for monthly salary sheet's auto email ",
     "licenseType": "Licensed",
     "link": "Deerwalk",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Anti Virus",
@@ -1464,7 +1464,7 @@ export const softwareList: Software[] = [
     "purpose": "Facilitates communications between client and ERA Server.",
     "licenseType": "Licensed",
     "link": "https://www.eset.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "Anti Virus",
@@ -1472,7 +1472,7 @@ export const softwareList: Software[] = [
     "purpose": "Antivirus and internet security solutions for CentOS",
     "licenseType": "Licensed",
     "link": "https://www.eset.com",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "API",
@@ -1488,7 +1488,7 @@ export const softwareList: Software[] = [
     "purpose": "API testing tool ",
     "licenseType": "Free",
     "link": "https://www.getpostman.com/apps",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "API ",
@@ -1496,7 +1496,7 @@ export const softwareList: Software[] = [
     "purpose": "Command line tool for applying XSLT stylesheets to XML documents",
     "licenseType": "Free",
     "link": "http://www.sagehill.net/docbookxsl/InstallingAProcessor.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "API ",
@@ -1504,7 +1504,7 @@ export const softwareList: Software[] = [
     "purpose": "Deployment Tool",
     "licenseType": "Free",
     "link": "https://docs.docker.com/docker-for-mac/install/",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "API ",
@@ -1512,7 +1512,7 @@ export const softwareList: Software[] = [
     "purpose": "Developer Tool",
     "licenseType": "Free",
     "link": "https://xcode-mac.en.softonic.com/mac",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "API ",
@@ -1520,7 +1520,7 @@ export const softwareList: Software[] = [
     "purpose": "Component of Docker",
     "licenseType": "Free",
     "link": "https://docs.docker.com/docker-for-mac/install/",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "API ",
@@ -1528,7 +1528,7 @@ export const softwareList: Software[] = [
     "purpose": "Component of Xcode",
     "licenseType": "Free",
     "link": "https://xcode-mac.en.softonic.com/mac",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "API ",
@@ -1544,7 +1544,7 @@ export const softwareList: Software[] = [
     "purpose": "Component of Xcode",
     "licenseType": "Free",
     "link": "https://xcode-mac.en.softonic.com/mac",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "API ",
@@ -1552,7 +1552,7 @@ export const softwareList: Software[] = [
     "purpose": "Rest client required for development. Alternative to PostMan.",
     "licenseType": "Free",
     "link": "https://insomnia.rest/",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "API ",
@@ -1560,7 +1560,7 @@ export const softwareList: Software[] = [
     "purpose": "Component of Xcode",
     "licenseType": "Free",
     "link": "https://apple.stackexchange.com/questions/42345/where-can-i-download-filemerge-the-app-for-comparing-two-tools-and-merging-the",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "AWS Related",
@@ -1568,7 +1568,7 @@ export const softwareList: Software[] = [
     "purpose": "Needed for aurora conversion",
     "licenseType": "Free",
     "link": "https://aws.amazon.com/documentation/SchemaConversionTool/",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "AWS Related",
@@ -1576,7 +1576,7 @@ export const softwareList: Software[] = [
     "purpose": "Needed for redshift connection",
     "licenseType": "Free",
     "link": "https://docs.aws.amazon.com/redshift/latest/mgmt/configuring-connections.html",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "AWS Related",
@@ -1584,7 +1584,7 @@ export const softwareList: Software[] = [
     "purpose": "AWS related scripting and execution",
     "licenseType": "Free",
     "link": "https://aws.amazon.com/cli/",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "AWS Related",
@@ -1592,7 +1592,7 @@ export const softwareList: Software[] = [
     "purpose": "Universal Command Line Environment for AWS",
     "licenseType": "Free",
     "link": "https://aws.amazon.com/cli/",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "type": "AWS Related",
@@ -1600,7 +1600,7 @@ export const softwareList: Software[] = [
     "purpose": "For AWS config project, to connect to DB",
     "licenseType": "Free",
     "link": "https://syslog-ng.com/blog/installing-syslog-ng-aws-linux-ami/",
-    "remarks": NaN
+    "remarks": " "
   },
   {
     "Type":"Basic Mac Software",
@@ -1608,7 +1608,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1616,7 +1616,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1624,7 +1624,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1632,7 +1632,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1640,7 +1640,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1648,7 +1648,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1656,7 +1656,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1664,7 +1664,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1672,7 +1672,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1680,7 +1680,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1688,7 +1688,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1696,7 +1696,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1704,7 +1704,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1712,7 +1712,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1720,7 +1720,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1728,7 +1728,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1736,7 +1736,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1744,7 +1744,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1752,7 +1752,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1760,7 +1760,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1768,7 +1768,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1776,7 +1776,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1784,7 +1784,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1792,7 +1792,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1800,7 +1800,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1808,7 +1808,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1816,7 +1816,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1824,7 +1824,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1832,7 +1832,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1840,7 +1840,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1848,7 +1848,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1856,7 +1856,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1864,7 +1864,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1872,7 +1872,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1880,7 +1880,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1888,7 +1888,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1896,7 +1896,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1904,7 +1904,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1912,7 +1912,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1920,7 +1920,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1928,7 +1928,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1936,7 +1936,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1944,7 +1944,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1952,7 +1952,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1960,7 +1960,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1968,7 +1968,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1976,7 +1976,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1984,7 +1984,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -1992,7 +1992,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2000,7 +2000,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2008,7 +2008,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2016,7 +2016,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2024,7 +2024,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2032,7 +2032,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2040,7 +2040,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2048,7 +2048,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2056,7 +2056,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2064,7 +2064,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2072,7 +2072,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2080,7 +2080,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2088,7 +2088,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2096,7 +2096,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2104,7 +2104,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2112,7 +2112,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2120,7 +2120,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2128,7 +2128,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2136,7 +2136,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2144,7 +2144,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2152,7 +2152,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2160,7 +2160,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2168,7 +2168,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2176,7 +2176,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2184,7 +2184,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2192,7 +2192,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2200,7 +2200,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2208,7 +2208,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2216,7 +2216,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2224,7 +2224,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2232,7 +2232,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2240,7 +2240,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2248,7 +2248,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2256,7 +2256,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2264,7 +2264,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2272,7 +2272,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2280,7 +2280,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2288,7 +2288,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2296,7 +2296,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2304,7 +2304,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2312,7 +2312,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2320,7 +2320,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2328,7 +2328,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2336,7 +2336,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2344,7 +2344,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2352,7 +2352,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2360,7 +2360,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2368,7 +2368,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2376,7 +2376,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2384,7 +2384,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2392,7 +2392,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2400,7 +2400,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2408,7 +2408,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2416,7 +2416,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2424,7 +2424,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2432,7 +2432,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2440,7 +2440,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2448,7 +2448,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2456,7 +2456,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2464,7 +2464,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2472,7 +2472,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2480,7 +2480,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2488,7 +2488,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2496,7 +2496,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2504,7 +2504,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2512,7 +2512,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2520,7 +2520,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2528,7 +2528,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2536,7 +2536,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2544,7 +2544,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2552,7 +2552,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2560,7 +2560,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2568,7 +2568,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2576,7 +2576,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2584,7 +2584,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2592,7 +2592,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2600,7 +2600,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2608,7 +2608,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2616,7 +2616,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2624,7 +2624,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2632,7 +2632,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2640,7 +2640,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2648,7 +2648,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2656,7 +2656,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2664,7 +2664,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2672,7 +2672,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2680,7 +2680,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2688,7 +2688,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2696,7 +2696,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2704,7 +2704,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2712,7 +2712,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2720,7 +2720,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2728,7 +2728,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2736,7 +2736,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2744,7 +2744,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2752,7 +2752,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2760,7 +2760,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2768,7 +2768,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2776,7 +2776,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2784,7 +2784,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2792,7 +2792,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2800,7 +2800,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2808,7 +2808,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2816,7 +2816,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2824,7 +2824,7 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Mac Software",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -2832,7 +2832,7 @@ export const softwareList: Software[] = [
     "Purpose":"Google Voice Plugin For Mac",
     "License Type ":"Free",
     "Link":"https:\/\/tools.google.com\/dlpage\/hangoutplugin",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2840,7 +2840,7 @@ export const softwareList: Software[] = [
     "Purpose":"blacklist configuration user interface for Zeitgeist",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/activity-log-manager",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2848,7 +2848,7 @@ export const softwareList: Software[] = [
     "Purpose":"GTK+ frontend for the apport crash report system",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.ubuntu.com\/Apport",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2856,7 +2856,7 @@ export const softwareList: Software[] = [
     "Purpose":"install packages using the apt protocol - GTK+ frontend",
     "License Type ":"Free",
     "Link":"https:\/\/pkgs.org\/download\/apturl",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2864,7 +2864,7 @@ export const softwareList: Software[] = [
     "Purpose":"CD\/DVD burning application for GNOME",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Brasero",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2872,7 +2872,7 @@ export const softwareList: Software[] = [
     "Purpose":"testing tool for all Ubuntu devices",
     "License Type ":"Free",
     "Link":"https:\/\/pkgs.org\/download\/checkbox-converged",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2880,7 +2880,7 @@ export const softwareList: Software[] = [
     "Purpose":"tool to take pictures and videos from your webcam",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Cheese",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2888,7 +2888,7 @@ export const softwareList: Software[] = [
     "Purpose":"Innovative and comfortable desktop",
     "License Type ":"Free",
     "Link":"http:\/\/cinnamon.linuxmint.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2896,7 +2896,7 @@ export const softwareList: Software[] = [
     "Purpose":"utilities to configure the Cinnamon desktop",
     "License Type ":"Free",
     "Link":"http:\/\/cinnamon.linuxmint.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2904,7 +2904,7 @@ export const softwareList: Software[] = [
     "Purpose":"Cinnamon screen saver and locker",
     "License Type ":"Free",
     "Link":"http:\/\/cinnamon.linuxmint.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2912,7 +2912,7 @@ export const softwareList: Software[] = [
     "Purpose":"daemon handling the Cinnamon session settings",
     "License Type ":"Free",
     "Link":"http:\/\/cinnamon.linuxmint.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2920,7 +2920,7 @@ export const softwareList: Software[] = [
     "Purpose":"OpenGL window and compositing manager",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/compiz",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2928,7 +2928,7 @@ export const softwareList: Software[] = [
     "Purpose":"Back up your files",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/deja-dup",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2936,7 +2936,7 @@ export const softwareList: Software[] = [
     "Purpose":"GNU Emacs editor (with GTK+ user interface)",
     "License Type ":"Free",
     "Link":"https:\/\/www.gnu.org\/software\/emacs\/download.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2944,7 +2944,7 @@ export const softwareList: Software[] = [
     "Purpose":"GNOME multi-protocol chat and call client",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Empathy",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2952,7 +2952,7 @@ export const softwareList: Software[] = [
     "Purpose":"Eye of GNOME graphics viewer program",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/EyeOfGnome",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2960,7 +2960,7 @@ export const softwareList: Software[] = [
     "Purpose":"Document (PostScript, PDF) viewer",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Evince",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2968,7 +2968,7 @@ export const softwareList: Software[] = [
     "Purpose":"archive manager for GNOME",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/FileRoller",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2976,7 +2976,7 @@ export const softwareList: Software[] = [
     "Purpose":"Safe and easy web browser from Mozilla",
     "License Type ":"Free",
     "Link":"https:\/\/www.mozilla.org\/en-US\/firefox\/new\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2984,7 +2984,7 @@ export const softwareList: Software[] = [
     "Purpose":"official text editor of the GNOME desktop environment",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Gedit",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -2992,7 +2992,7 @@ export const softwareList: Software[] = [
     "Purpose":"The GNU Image Manipulation Program",
     "License Type ":"Free",
     "Link":"http:\/\/www.gimp.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3000,7 +3000,7 @@ export const softwareList: Software[] = [
     "Purpose":"graphical front-end to su and sudo",
     "License Type ":"Free",
     "Link":"http:\/\/www.nongnu.org\/gksu",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3008,7 +3008,7 @@ export const softwareList: Software[] = [
     "Purpose":"GNOME desktop",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3016,7 +3016,7 @@ export const softwareList: Software[] = [
     "Purpose":"GNOME desktop calculator",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Calculator",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3024,7 +3024,7 @@ export const softwareList: Software[] = [
     "Purpose":"utilities to configure the GNOME desktop",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/gnome-control-center",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3032,7 +3032,7 @@ export const softwareList: Software[] = [
     "Purpose":"classic Eastern tile game for GNOME",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Mahjongg",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3040,7 +3040,7 @@ export const softwareList: Software[] = [
     "Purpose":"popular minesweeper puzzle game for GNOME",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Mines",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3048,7 +3048,7 @@ export const softwareList: Software[] = [
     "Purpose":"graphical shell for the GNOME desktop",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Projects\/GnomeShell",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3056,7 +3056,7 @@ export const softwareList: Software[] = [
     "Purpose":"Sudoku puzzle game for GNOME",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Sudoku",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3064,7 +3064,7 @@ export const softwareList: Software[] = [
     "Purpose":"system log viewer for GNOME",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Attic\/GnomeUtils",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3072,7 +3072,7 @@ export const softwareList: Software[] = [
     "Purpose":"Process viewer and system resource monitor for GNOME",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/SystemMonitor",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3080,7 +3080,7 @@ export const softwareList: Software[] = [
     "Purpose":"GNOME terminal emulator application",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Terminal",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3088,7 +3088,7 @@ export const softwareList: Software[] = [
     "Purpose":"helps easily configure your language, keyboard layout",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/ubuntu\/bionic\/+package\/gnome-initial-setup",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3096,7 +3096,7 @@ export const softwareList: Software[] = [
     "Purpose":"Graphical interface for advanced GNOME 3 settings.",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/action\/show\/Apps\/Tweaks?action=show&redirect=Apps%2FGnomeTweakTool",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3104,7 +3104,7 @@ export const softwareList: Software[] = [
     "Purpose":"popular minesweeper puzzle game for GNOME (transitional package)",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Terminal",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3112,7 +3112,7 @@ export const softwareList: Software[] = [
     "Purpose":"simple tool to view and install deb files - GNOME GUI",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Terminal",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3120,7 +3120,7 @@ export const softwareList: Software[] = [
     "Purpose":"GNOME partition editor",
     "License Type ":"Free",
     "Link":"http:\/\/gparted.sourceforge.net",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3128,7 +3128,7 @@ export const softwareList: Software[] = [
     "Purpose":"Unicode character picker and font browser",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Gucharmap",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3136,7 +3136,7 @@ export const softwareList: Software[] = [
     "Purpose":"guidus - GUI for dus, tool to create boot drives",
     "License Type ":"Free",
     "Link":"https:\/\/help.ubuntu.com\/community\/mkusb",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3144,7 +3144,7 @@ export const softwareList: Software[] = [
     "Purpose":"HP Linux Printing and Imaging System (HPLIP)",
     "License Type ":"Free",
     "Link":"http:\/\/hplipopensource.com\/hplip-web\/index.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3152,7 +3152,7 @@ export const softwareList: Software[] = [
     "Purpose":"Input method configuration framework",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/xenial\/im-config",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3160,7 +3160,7 @@ export const softwareList: Software[] = [
     "Purpose":"Graphical system load indicator for CPU",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.ubuntu.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3168,7 +3168,7 @@ export const softwareList: Software[] = [
     "Purpose":"office productivity suite -- database",
     "License Type ":"Free",
     "Link":"http:\/\/www.libreoffice.org",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3176,7 +3176,7 @@ export const softwareList: Software[] = [
     "Purpose":"office productivity suite -- spreadsheet",
     "License Type ":"Free",
     "Link":"http:\/\/www.libreoffice.org",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3184,7 +3184,7 @@ export const softwareList: Software[] = [
     "Purpose":"office productivity suite -- drawing",
     "License Type ":"Free",
     "Link":"http:\/\/www.libreoffice.org",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3192,7 +3192,7 @@ export const softwareList: Software[] = [
     "Purpose":"office productivity suite -- presentation",
     "License Type ":"Free",
     "Link":"http:\/\/www.libreoffice.org",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3200,7 +3200,7 @@ export const softwareList: Software[] = [
     "Purpose":"office productivity suite -- equation editor",
     "License Type ":"Free",
     "Link":"http:\/\/www.libreoffice.org",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3208,7 +3208,7 @@ export const softwareList: Software[] = [
     "Purpose":"office productivity suite -- word processor",
     "License Type ":"Free",
     "Link":"http:\/\/www.libreoffice.org",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3216,7 +3216,7 @@ export const softwareList: Software[] = [
     "Purpose":"mkusb - tool to create boot drives",
     "License Type ":"Free",
     "Link":"https:\/\/help.ubuntu.com\/community\/mkusb",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3224,7 +3224,7 @@ export const softwareList: Software[] = [
     "Purpose":"lightweight GTK+ window manager",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/trusty\/x11\/mutter",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3232,7 +3232,7 @@ export const softwareList: Software[] = [
     "Purpose":"file manager and graphical shell for GNOME",
     "License Type ":"Free",
     "Link":"http:\/\/www.gnome.org\/projects\/nautilus\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3240,7 +3240,7 @@ export const softwareList: Software[] = [
     "Purpose":"daemon for displaying passive pop-up notifications",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/source\/trusty\/notification-daemon",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3248,7 +3248,7 @@ export const softwareList: Software[] = [
     "Purpose":"File manager and graphical shell for Cinnamon",
     "License Type ":"Free",
     "Link":"http:\/\/cinnamon.linuxmint.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3256,7 +3256,7 @@ export const softwareList: Software[] = [
     "Purpose":"Simple On-screen Keyboard",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/onboard",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3264,7 +3264,7 @@ export const softwareList: Software[] = [
     "Purpose":"secure shell (SSH) client",
     "License Type ":"Free",
     "Link":"https:\/\/help.ubuntu.com\/community\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3272,7 +3272,7 @@ export const softwareList: Software[] = [
     "Purpose":"secure shell (SSH) server",
     "License Type ":"Free",
     "Link":"https:\/\/help.ubuntu.com\/community\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3280,7 +3280,7 @@ export const softwareList: Software[] = [
     "Purpose":"Chase Monsters in a Labyrinth",
     "License Type ":"Free",
     "Link":"https:\/\/pkgs.org\/download\/pacman",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3288,7 +3288,7 @@ export const softwareList: Software[] = [
     "Purpose":"PulseAudio Volume Control",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.ubuntu.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3296,7 +3296,7 @@ export const softwareList: Software[] = [
     "Purpose":"Equalizer sink module for PulseAudio sound server",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.ubuntu.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3304,7 +3304,7 @@ export const softwareList: Software[] = [
     "Purpose":"graphical frontend for the par2 utility",
     "License Type ":"Free",
     "Link":"http:\/\/pypar2.silent-blade.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3312,7 +3312,7 @@ export const softwareList: Software[] = [
     "Purpose":"remote desktop client for GNOME desktop environment",
     "License Type ":"Free",
     "Link":"http:\/\/remmina.sourceforge.net\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3320,7 +3320,7 @@ export const softwareList: Software[] = [
     "Purpose":"music player and organizer for GNOME",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Rhythmbox",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3328,7 +3328,7 @@ export const softwareList: Software[] = [
     "Purpose":"Safe Eyes",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.ubuntu.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3336,7 +3336,7 @@ export const softwareList: Software[] = [
     "Purpose":"allows you to use multiple terminal sessions within one window",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.ubuntu.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3344,7 +3344,7 @@ export const softwareList: Software[] = [
     "Purpose":"GNOME front end for GnuPG",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Seahorse",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3352,7 +3352,7 @@ export const softwareList: Software[] = [
     "Purpose":"digital photo organizer",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Shotwell",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3360,7 +3360,7 @@ export const softwareList: Software[] = [
     "Purpose":"Dummy transitional package for signon-ui",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/signon-ui",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3368,7 +3368,7 @@ export const softwareList: Software[] = [
     "Purpose":"Simple Scanning Utility",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/simple-scan",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3376,7 +3376,7 @@ export const softwareList: Software[] = [
     "Purpose":"client for Skype VOIP and instant messaging service",
     "License Type ":"Free",
     "Link":"http:\/\/www.skype.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3384,7 +3384,7 @@ export const softwareList: Software[] = [
     "Purpose":"manage the repositories that you install software from (gtk)",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/trusty\/gnome\/software-properties-gtk",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3392,7 +3392,7 @@ export const softwareList: Software[] = [
     "Purpose":"graphical interface to configure the printing system        ",
     "License Type ":"Free",
     "Link":"https:\/\/pkgs.org\/download\/system-config-printer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3400,7 +3400,7 @@ export const softwareList: Software[] = [
     "Purpose":"GNU time program for measuring CPU resource usage",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.ubuntu.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3408,7 +3408,7 @@ export const softwareList: Software[] = [
     "Purpose":"Email, RSS and newsgroup client with integrated spam filter",
     "License Type ":"Free",
     "Link":"https:\/\/mozilla-thunderbird.en.uptodown.com\/ubuntu",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3416,7 +3416,7 @@ export const softwareList: Software[] = [
     "Purpose":"Simple media player for the GNOME desktop based on GStreamer",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Videos",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3424,7 +3424,7 @@ export const softwareList: Software[] = [
     "Purpose":"installer of Linux\/BSD distributions to a partition or USB drive",
     "License Type ":"Free",
     "Link":"http:\/\/unetbootin.sourceforge.net",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3432,7 +3432,7 @@ export const softwareList: Software[] = [
     "Purpose":"utilities to configure the GNOME desktop",
     "License Type ":"Free",
     "Link":"https:\/\/pkgs.org\/download\/unity-control-center",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3440,7 +3440,7 @@ export const softwareList: Software[] = [
     "Purpose":"Photos lens for Unity",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/xenial\/gnome\/unity-lens-photos",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3448,7 +3448,7 @@ export const softwareList: Software[] = [
     "Purpose":"Google Drive scope for Unity",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/unity-scope-gdrive",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3456,7 +3456,7 @@ export const softwareList: Software[] = [
     "Purpose":"GNOME application that manages apt updates",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/trusty-updates\/update-manager",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3464,7 +3464,7 @@ export const softwareList: Software[] = [
     "Purpose":"create a startup disk using a CD or disc image (for GNOME)",
     "License Type ":"Free",
     "Link":"https:\/\/pkgs.org\/download\/usb-creator-gtk",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3472,7 +3472,7 @@ export const softwareList: Software[] = [
     "Purpose":"Wallpaper changer",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.ubuntu.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3480,7 +3480,7 @@ export const softwareList: Software[] = [
     "Purpose":"Vi IMproved - enhanced vi editor",
     "License Type ":"Free",
     "Link":"http:\/\/www.vim.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3488,7 +3488,7 @@ export const softwareList: Software[] = [
     "Purpose":"multimedia player and streamer",
     "License Type ":"Free",
     "Link":"http:\/\/www.videolan.org\/vlc\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3496,7 +3496,7 @@ export const softwareList: Software[] = [
     "Purpose":"Ubuntu web browser",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/webbrowser-app",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3504,7 +3504,7 @@ export const softwareList: Software[] = [
     "Purpose":"X.org diagnosis tool",
     "License Type ":"Free",
     "Link":"http:\/\/wiki.ubuntu.com\/X",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3512,7 +3512,7 @@ export const softwareList: Software[] = [
     "Purpose":"Sticky Notes Application",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/indicator-stickynotes",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3520,7 +3520,7 @@ export const softwareList: Software[] = [
     "Purpose":"sticky note application for X",
     "License Type ":"Free",
     "Link":"http:\/\/mterry.name\/xpad\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3528,7 +3528,7 @@ export const softwareList: Software[] = [
     "Purpose":"featureful graphical frontend for SANE (Scanner Access Now Easy)",
     "License Type ":"Free",
     "Link":"http:\/\/www.xsane.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3536,7 +3536,7 @@ export const softwareList: Software[] = [
     "Purpose":"Help browser for GNOME",
     "License Type ":"Free",
     "Link":"https:\/\/wiki.gnome.org\/Apps\/Yelp",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Ubuntu Software",
@@ -3544,7 +3544,7 @@ export const softwareList: Software[] = [
     "Purpose":"An utility for finding files by name",
     "License Type ":"Free",
     "Link":"https:\/\/pkgs.org\/download\/mlocate",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser",
@@ -3552,7 +3552,7 @@ export const softwareList: Software[] = [
     "Purpose":"Mozilla's Web Browser in Linux",
     "License Type ":"Free",
     "Link":"https:\/\/www.ubuntu.com\/download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser",
@@ -3560,7 +3560,7 @@ export const softwareList: Software[] = [
     "Purpose":"Mozilla's Web Browser",
     "License Type ":"Free",
     "Link":"https:\/\/www.mozilla.org\/en-US\/firefox\/new\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser",
@@ -3568,7 +3568,7 @@ export const softwareList: Software[] = [
     "Purpose":"Google's Web Browser",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/chrome\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser",
@@ -3576,7 +3576,7 @@ export const softwareList: Software[] = [
     "Purpose":"Google's Web Browser for Ubuntu",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/chrome\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser",
@@ -3584,7 +3584,7 @@ export const softwareList: Software[] = [
     "Purpose":"Microsoft's Web Browser by default",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/internet-explorer.aspx",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser",
@@ -3592,7 +3592,7 @@ export const softwareList: Software[] = [
     "Purpose":"Microsoft's Web Browser by default",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/edge",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser",
@@ -3600,7 +3600,7 @@ export const softwareList: Software[] = [
     "Purpose":"Browser",
     "License Type ":"Free",
     "Link":"https:\/\/www.chromium.org\/getting-involved\/download-chromium",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser",
@@ -3608,7 +3608,7 @@ export const softwareList: Software[] = [
     "Purpose":"Browser",
     "License Type ":"Free",
     "Link":"https:\/\/www.ubuntu.com\/download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser",
@@ -3616,7 +3616,7 @@ export const softwareList: Software[] = [
     "Purpose":"Chromium web browser, open-source version of Chrome",
     "License Type ":"Free",
     "Link":"https:\/\/chromium.googlesource.com\/chromium\/src\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser Service",
@@ -3624,15 +3624,15 @@ export const softwareList: Software[] = [
     "Purpose":"Basic Ubuntu Software",
     "License Type ":"Free",
     "Link":"https:\/\/www.ubuntu.com\/download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser Service",
-    "Name":"Mozilla Maintenance Service",
+    "Name":"Mozilla Mainte" "ce Service",
     "Purpose":"Enables automatic allows application updates to occur in the background",
     "License Type ":"Free",
-    "Link":"https:\/\/support.mozilla.org\/en-US\/kb\/what-mozilla-maintenance-service",
-    "Remarks":null
+    "Link":"https:\/\/support.mozilla.org\/en-US\/kb\/what-mozilla-mainte" "ce-service",
+    "Remarks":" "
   },
   {
     "Type":"Browser Service",
@@ -3640,7 +3640,7 @@ export const softwareList: Software[] = [
     "Purpose":"Google Docs",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/chrome\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser Service",
@@ -3648,7 +3648,7 @@ export const softwareList: Software[] = [
     "Purpose":"Google Sheets",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/chrome\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Browser Service",
@@ -3656,7 +3656,7 @@ export const softwareList: Software[] = [
     "Purpose":"Google Slides",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/chrome\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Build Automation Tool",
@@ -3664,7 +3664,7 @@ export const softwareList: Software[] = [
     "Purpose":"Build Dependency",
     "License Type ":"Free",
     "Link":"https:\/\/maven.apache.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"CCTV Camera Software ",
@@ -3672,7 +3672,7 @@ export const softwareList: Software[] = [
     "Purpose":"For CCTV streaming and storing videos",
     "License Type ":"Free",
     "Link":"Supplied by vendor",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Cloud Service",
@@ -3680,7 +3680,7 @@ export const softwareList: Software[] = [
     "Purpose":"Microsoft's cloud computing platform",
     "License Type ":"Licensed",
     "Link":"https:\/\/azure.microsoft.com\/en-us\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Cloud Service",
@@ -3688,7 +3688,7 @@ export const softwareList: Software[] = [
     "Purpose":"cross-platform database tool",
     "License Type ":"Free",
     "Link":"https:\/\/docs.microsoft.com\/en-us\/sql\/azure-data-studio\/download-azure-data-studio?view=sql-server-ver15",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Command line utility",
@@ -3696,7 +3696,7 @@ export const softwareList: Software[] = [
     "Purpose":"Python Dependency",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/astrand\/xclip",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Command line utility",
@@ -3704,7 +3704,7 @@ export const softwareList: Software[] = [
     "Purpose":"S3 API",
     "License Type ":"Free",
     "Link":"http:\/\/s3tools.org\/s3cmd",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Command line utility",
@@ -3712,7 +3712,7 @@ export const softwareList: Software[] = [
     "Purpose":"command line tool for transferring data with URL syntax",
     "License Type ":"Free",
     "Link":"https:\/\/curl.haxx.se\/download.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3720,7 +3720,7 @@ export const softwareList: Software[] = [
     "Purpose":"Communications",
     "License Type ":"Free",
     "Link":"https:\/\/www.skype.com\/en\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3728,7 +3728,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote conferencing services",
     "License Type ":"Licensed",
     "Link":"https:\/\/zoom.us\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3736,7 +3736,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote conferencing services",
     "License Type ":"Free",
     "Link":"https:\/\/zoom.us\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3744,7 +3744,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote conferencing services",
     "License Type ":"Free",
     "Link":"https:\/\/zoom.us\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3752,7 +3752,7 @@ export const softwareList: Software[] = [
     "Purpose":"Prospect and enrich new leads, contacts and accounts with ZoomInfo data.",
     "License Type ":"Licensed",
     "Link":"https:\/\/appexchange.salesforce.com\/appxListingDetail?listingId=a0N30000008a8ljEAA",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3760,7 +3760,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote conferencing services",
     "License Type ":"Free",
     "Link":"https:\/\/www.ringcentral.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3768,7 +3768,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote conferencing services for MAC",
     "License Type ":"Free",
     "Link":"https:\/\/www.ringcentral.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3776,15 +3776,15 @@ export const softwareList: Software[] = [
     "Purpose":"Communications",
     "License Type ":"Free",
     "Link":"https:\/\/hangouts.google.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
-    "Name":null,
+    "Name":" ",
     "Purpose":"Communications",
     "License Type ":"Free",
     "Link":"https:\/\/hangouts.google.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3792,7 +3792,7 @@ export const softwareList: Software[] = [
     "Purpose":"Application used by GoTo Opener to launch a user in Active session",
     "License Type ":"Free",
     "Link":"https:\/\/support.logmeininc.com\/gotomeeting\/help\/about-the-goto-opener-g2m850000",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3800,7 +3800,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote Desktop",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.logmein.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3808,7 +3808,7 @@ export const softwareList: Software[] = [
     "Purpose":"Google Chat properties for MAC",
     "License Type ":"Free",
     "Link":"https:\/\/google-talk-plugin.soft32.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3816,7 +3816,7 @@ export const softwareList: Software[] = [
     "Purpose":"Google Chat properties",
     "License Type ":"Free",
     "Link":"https:\/\/google-talk-plugin.soft32.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3824,7 +3824,7 @@ export const softwareList: Software[] = [
     "Purpose":"Uninstall AnyConnect from Mac",
     "License Type ":"Free",
     "Link":"https:\/\/www.cisco.com\/c\/en\/us\/support\/security\/anyconnect-secure-mobility-client\/tsd-products-support-series-home.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3832,7 +3832,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote conferencing services",
     "License Type ":"Free",
     "Link":"https:\/\/www.webex.com\/downloads.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3840,7 +3840,7 @@ export const softwareList: Software[] = [
     "Purpose":"Communications",
     "License Type ":"Free",
     "Link":"https:\/\/www.viber.com\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3848,7 +3848,7 @@ export const softwareList: Software[] = [
     "Purpose":"Webinar tool",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.adobe.com\/products\/adobeconnect.html?sdid=SEMBREXCT&gclid=EAIaIQobChMI7Z3B0buM4wIVxECGCh0uWgr-EAAYASAAEgKCZ_D_BwE",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication ",
@@ -3856,7 +3856,7 @@ export const softwareList: Software[] = [
     "Purpose":"Online meeting, desktop sharing, and video conferencing software ",
     "License Type ":"Free",
     "Link":"https:\/\/www.gotomeeting.com\/b",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication ",
@@ -3864,7 +3864,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by GoToMeeting",
     "License Type ":"Free",
     "Link":"https:\/\/www.gotomeeting.com\/b",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Communication",
@@ -3872,7 +3872,7 @@ export const softwareList: Software[] = [
     "Purpose":"Team collaboration tool",
     "License Type ":"Free",
     "Link":"https:\/\/slack.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Compiler ",
@@ -3880,7 +3880,7 @@ export const softwareList: Software[] = [
     "Purpose":"Dependency for Protocal Buffer",
     "License Type ":"Free",
     "Link":"https:\/\/gcc.gnu.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3888,7 +3888,7 @@ export const softwareList: Software[] = [
     "Purpose":"DBMS tool",
     "License Type ":"Free",
     "Link":"https:\/\/dev.mysql.com\/downloads\/workbench\/?utm_source=tuicool",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3896,7 +3896,7 @@ export const softwareList: Software[] = [
     "Purpose":"DBMS tool",
     "License Type ":"Free",
     "Link":"https:\/\/dev.mysql.com\/downloads\/workbench\/?utm_source=tuicool",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3904,7 +3904,7 @@ export const softwareList: Software[] = [
     "Purpose":"DBMS tool",
     "License Type ":"Free",
     "Link":"https:\/\/dev.mysql.com\/downloads\/workbench\/?utm_source=tuicool",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3912,7 +3912,7 @@ export const softwareList: Software[] = [
     "Purpose":"DBMS tool for CentOS",
     "License Type ":"Free",
     "Link":"https:\/\/linuxize.com\/post\/install-mysql-on-centos-7\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3920,7 +3920,7 @@ export const softwareList: Software[] = [
     "Purpose":"DBMS tool for data analysts and developers",
     "License Type ":"Free",
     "Link":"http:\/\/www.aginity.com\/workbench-overview\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3928,7 +3928,7 @@ export const softwareList: Software[] = [
     "Purpose":"DBMS tool for data analysts and developers",
     "License Type ":"Free",
     "Link":"http:\/\/www.aginity.com\/workbench-overview\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3936,7 +3936,7 @@ export const softwareList: Software[] = [
     "Purpose":"Stores and retrieves data as requested by other software applications",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Microsoft-SQL-Server-2017-Standard-license-1-server\/4817457",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3944,7 +3944,7 @@ export const softwareList: Software[] = [
     "Purpose":"Needed for db connection",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=50420",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3952,7 +3952,7 @@ export const softwareList: Software[] = [
     "Purpose":"Database GUI editor.",
     "License Type ":"Free",
     "Link":"https:\/\/dbeaver.io\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3960,7 +3960,7 @@ export const softwareList: Software[] = [
     "Purpose":"Stores and retrieves data as requested by other software applications",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-gb\/sql-server\/sql-server-downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3976,7 +3976,7 @@ export const softwareList: Software[] = [
     "Purpose":"A database management system (DBMS) from Microsoft",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/confirmation.aspx?id=50040",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3984,7 +3984,7 @@ export const softwareList: Software[] = [
     "Purpose":"Administration platform for PostgreSQL",
     "License Type ":"Free",
     "Link":"https:\/\/www.pgadmin.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -3992,7 +3992,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by SQL Server",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Microsoft-SQL-Server-2017-Standard-license-1-server\/4817457",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -4000,7 +4000,7 @@ export const softwareList: Software[] = [
     "Purpose":"managing and developing your databases",
     "License Type ":"Free",
     "Link":"https:\/\/www.postgresql.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -4016,7 +4016,7 @@ export const softwareList: Software[] = [
     "Purpose":"Dependancy of Microsoft SSMS",
     "License Type ":"Free",
     "Link":"https:\/\/docs.microsoft.com\/en-us\/sql\/ssms\/download-sql-server-management-studio-ssms?view=sql-server-2017",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -4024,7 +4024,7 @@ export const softwareList: Software[] = [
     "Purpose":"Dependancy of Microsoft SSMS",
     "License Type ":"Free",
     "Link":"https:\/\/docs.microsoft.com\/en-us\/sql\/ssms\/download-sql-server-management-studio-ssms?view=sql-server-2017",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -4032,7 +4032,7 @@ export const softwareList: Software[] = [
     "Purpose":"Mongodb client to query mongodb. Mysql workbench equivalent.",
     "License Type ":"Free",
     "Link":"https:\/\/robomongo.org\/download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -4040,7 +4040,7 @@ export const softwareList: Software[] = [
     "Purpose":"Studio 3T, Robo 3T's big brother.",
     "License Type ":"Free",
     "Link":"https:\/\/robomongo.org\/download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -4048,7 +4048,7 @@ export const softwareList: Software[] = [
     "Purpose":"distributed search and analytics engine",
     "License Type ":"Free",
     "Link":"https:\/\/www.elastic.co\/downloads\/elasticsearch",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -4056,7 +4056,7 @@ export const softwareList: Software[] = [
     "Purpose":"MySQL Workbench - a visual database modeling, administration and queuing tool",
     "License Type ":"Free",
     "Link":"http:\/\/dev.mysql.com\/workbench\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -4064,7 +4064,7 @@ export const softwareList: Software[] = [
     "Purpose":"Developing database management solutions",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=10910",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -4072,7 +4072,7 @@ export const softwareList: Software[] = [
     "Purpose":"Open-source relational database management system",
     "License Type ":"Free",
     "Link":"https:\/\/mariadb.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database ",
@@ -4080,7 +4080,7 @@ export const softwareList: Software[] = [
     "Purpose":"Open-source relational database management system",
     "License Type ":"Free",
     "Link":"https:\/\/www.mysql.com\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database Design ",
@@ -4088,7 +4088,7 @@ export const softwareList: Software[] = [
     "Purpose":"Redshift",
     "License Type ":"Free",
     "Link":"https:\/\/dev.mysql.com\/downloads\/workbench\/?utm_source=tuicool",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database Design ",
@@ -4096,7 +4096,7 @@ export const softwareList: Software[] = [
     "Purpose":"Redshift",
     "License Type ":"Free",
     "Link":"https:\/\/www.sql-workbench.eu\/downloads.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database Design ",
@@ -4104,7 +4104,7 @@ export const softwareList: Software[] = [
     "Purpose":"Redshift",
     "License Type ":"Free",
     "Link":"https:\/\/dbeaver.io\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database Design ",
@@ -4112,7 +4112,7 @@ export const softwareList: Software[] = [
     "Purpose":"Development",
     "License Type ":"Free",
     "Link":"https:\/\/developers.google.com\/protocol-buffers\/docs\/downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4120,7 +4120,7 @@ export const softwareList: Software[] = [
     "Purpose":"needed for web browser (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/ubuntu\/precise\/+package\/adobe-flash-properties-gtk",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4128,7 +4128,7 @@ export const softwareList: Software[] = [
     "Purpose":"needed for installing rpm packages (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/search?keywords=alien",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4136,7 +4136,7 @@ export const softwareList: Software[] = [
     "Purpose":"Docker and Kubernetics (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/docs.ansible.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4144,7 +4144,7 @@ export const softwareList: Software[] = [
     "Purpose":"Docker and Kubernetics (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/trusty\/docbook-xml",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4152,7 +4152,7 @@ export const softwareList: Software[] = [
     "Purpose":"Docker and Kubernetics (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/sourceforge.net\/projects\/docbook\/files\/docbook-xsl\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4160,7 +4160,7 @@ export const softwareList: Software[] = [
     "Purpose":"Docker and Kubernetics (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/docs.docker.com\/install\/linux\/docker-ce\/ubuntu\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4168,7 +4168,7 @@ export const softwareList: Software[] = [
     "Purpose":"Needed for audio\/video (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/www.ffmpeg.org\/download.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4176,7 +4176,7 @@ export const softwareList: Software[] = [
     "Purpose":"Needed for audio\/video (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/launchpad.net\/ubuntu\/+source\/freepats",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4184,7 +4184,7 @@ export const softwareList: Software[] = [
     "Purpose":"Needed for audio\/video (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/search?keywords=frei0r-plugins",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4192,7 +4192,7 @@ export const softwareList: Software[] = [
     "Purpose":"Automates interactive applications",
     "License Type ":"Free",
     "Link":"https:\/\/sourceforge.net\/projects\/expect\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4200,7 +4200,7 @@ export const softwareList: Software[] = [
     "Purpose":"user information lookup program",
     "License Type ":"Free",
     "Link":"https:\/\/pkgs.org\/download\/finger",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Dependency software",
@@ -4208,7 +4208,7 @@ export const softwareList: Software[] = [
     "Purpose":"convert text file line endings between CRLF and LF",
     "License Type ":"Free",
     "Link":"https:\/\/sourceforge.net\/projects\/dos2unix\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4216,7 +4216,7 @@ export const softwareList: Software[] = [
     "Purpose":"PDF Document Editor",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -4224,7 +4224,7 @@ export const softwareList: Software[] = [
     "Purpose":"PDF Document Reader",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4232,7 +4232,7 @@ export const softwareList: Software[] = [
     "Purpose":"converting documents from PostScript format to Adobe PDF",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4240,7 +4240,7 @@ export const softwareList: Software[] = [
     "Purpose":"Software that creates a cinematic movie titles, intros, and transition",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=E85DE6CDAA9C40FB8553B52564B2176A&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=2XBSC4R3&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4248,7 +4248,7 @@ export const softwareList: Software[] = [
     "Purpose":"Software that creates and edits vector graphics",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=43538F47236C326E137A08307BFA70F2&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=4SC998QL&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4256,7 +4256,7 @@ export const softwareList: Software[] = [
     "Purpose":"Desktop publishing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=4C0BE17691903B5FFB8DA282DEAC55FE&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=4X3B94ZK&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4264,7 +4264,7 @@ export const softwareList: Software[] = [
     "Purpose":"Image editing software application ",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=30404A88D89A328584307175B8B27616&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=5F1G8N2F&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4272,7 +4272,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4280,7 +4280,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4288,7 +4288,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4296,7 +4296,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4304,7 +4304,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4312,7 +4312,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4320,7 +4320,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4328,7 +4328,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4336,7 +4336,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4344,7 +4344,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4352,7 +4352,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4360,7 +4360,7 @@ export const softwareList: Software[] = [
     "Purpose":"digital visual effects",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design ",
@@ -4368,7 +4368,7 @@ export const softwareList: Software[] = [
     "Purpose":"Edits image files",
     "License Type ":"Free",
     "Link":"https:\/\/www.bricelam.net\/ImageResizer\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design ",
@@ -4376,7 +4376,7 @@ export const softwareList: Software[] = [
     "Purpose":"Used by Balsamique",
     "License Type ":"Licensed",
     "Link":"https:\/\/get.adobe.com\/air\/otherversions\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4384,7 +4384,7 @@ export const softwareList: Software[] = [
     "Purpose":"ID Card priner design tool",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.alphacard.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Design",
@@ -4392,7 +4392,7 @@ export const softwareList: Software[] = [
     "Purpose":"Working with raw video files",
     "License Type ":"Free",
     "Link":"https:\/\/www.blackmagicdesign.com\/support\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Development",
@@ -4400,7 +4400,7 @@ export const softwareList: Software[] = [
     "Purpose":"Localsite opened with https",
     "License Type ":"Free",
     "Link":"https:\/\/cpriego.github.io\/valet-linux\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Development",
@@ -4408,7 +4408,7 @@ export const softwareList: Software[] = [
     "Purpose":"programming environment for Android",
     "License Type ":"Free",
     "Link":"https:\/\/developer.android.com\/studio\/#downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Development",
@@ -4416,7 +4416,7 @@ export const softwareList: Software[] = [
     "Purpose":"load test functional behavior and measure performance",
     "License Type ":"Free",
     "Link":"https:\/\/jmeter.apache.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Development",
@@ -4424,7 +4424,7 @@ export const softwareList: Software[] = [
     "Purpose":"application for Letter Tool",
     "License Type ":"Free",
     "Link":"https:\/\/www.textcontrol.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Diagnostic tool",
@@ -4432,7 +4432,7 @@ export const softwareList: Software[] = [
     "Purpose":"Cisco AnyConnect Diagnostic tool",
     "License Type ":"Free",
     "Link":"http:\/\/www.opendns.com\/download\/mac\/diagnostic",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Directory Service",
@@ -4440,7 +4440,7 @@ export const softwareList: Software[] = [
     "Purpose":"Directory Service",
     "License Type ":"Licensed",
     "Link":"https:\/\/support.jumpcloud.com\/customer\/portal\/articles\/2403462-jumpcloud-agent-windows-installation-walkthrough",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Directory Service",
@@ -4448,7 +4448,7 @@ export const softwareList: Software[] = [
     "Purpose":"Directory Service",
     "License Type ":"Licensed",
     "Link":"https:\/\/support.jumpcloud.com\/customer\/portal\/articles\/2403462-jumpcloud-agent-windows-installation-walkthrough",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4456,7 +4456,7 @@ export const softwareList: Software[] = [
     "Purpose":"driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.geforce.com\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4464,7 +4464,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.usa.canon.com\/internet\/portal\/us\/home\/support\/details\/printers\/support-laser-printers-imageclass\/imageclass-mf4450",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4472,7 +4472,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver",
     "License Type ":"Free",
     "Link":"http:\/\/www.driversepson.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4480,7 +4480,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4488,7 +4488,7 @@ export const softwareList: Software[] = [
     "Purpose":"Part of HP Printer Driver",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4496,7 +4496,7 @@ export const softwareList: Software[] = [
     "Purpose":"Audio Driver for computers",
     "License Type ":"Free",
     "Link":"https:\/\/www.dolby.com\/us\/en\/drivers.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4504,7 +4504,7 @@ export const softwareList: Software[] = [
     "Purpose":"Audio Driver for computers",
     "License Type ":"Free",
     "Link":"https:\/\/www.dolby.com\/us\/en\/drivers.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4512,7 +4512,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4520,7 +4520,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4528,7 +4528,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4536,7 +4536,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4544,7 +4544,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4552,7 +4552,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4560,7 +4560,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4568,7 +4568,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4576,7 +4576,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4584,7 +4584,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4592,7 +4592,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4600,7 +4600,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hp Printer Basic Software Drivers ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers\/selfservice\/hp-universal-fax-driver-series-for-windows\/7529318",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4608,7 +4608,7 @@ export const softwareList: Software[] = [
     "Purpose":"Software that controls a computer's video adapter ",
     "License Type ":"Free",
     "Link":"https:\/\/downloadcenter.intel.com\/product\/80939\/Graphics-Drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4616,7 +4616,7 @@ export const softwareList: Software[] = [
     "Purpose":"Intel Graphics Driver",
     "License Type ":"Free",
     "Link":"https:\/\/downloadcenter.intel.com\/product\/80939\/Graphics-Drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4624,7 +4624,7 @@ export const softwareList: Software[] = [
     "Purpose":"Enables Lenevo Camera for skype and other applications",
     "License Type ":"Free",
     "Link":"https:\/\/support.lenovo.com\/de\/en\/downloads\/ds031749",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4632,7 +4632,7 @@ export const softwareList: Software[] = [
     "Purpose":"Service program to or enable keyboard and touchpad",
     "License Type ":"Free",
     "Link":"https:\/\/pcsupport.lenovo.com\/de\/en\/products\/laptops-and-netbooks\/yoga-series\/yoga-3-pro-1370-laptop-lenovo\/downloads\/ds104833",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4640,7 +4640,7 @@ export const softwareList: Software[] = [
     "Purpose":"Audio Driver for computers ",
     "License Type ":"Free",
     "Link":"http:\/\/www.realtek.com.tw\/DOWNLOADS\/downloadsCheck.aspx?Langid=1&PNid=14&PFid=24&Level=4&Conn=3&DownTypeID=3",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4648,7 +4648,7 @@ export const softwareList: Software[] = [
     "Purpose":"Check estimated ink or toner levels for HP Printer ",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/lt-en\/document\/c04927206",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4656,7 +4656,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provide lower overhead and controll over the GPU and lower CPU usage",
     "License Type ":"Free",
     "Link":"https:\/\/www.lunarg.com\/vulkan-sdk\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4664,7 +4664,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provide lower overhead and controll over the GPU and lower CPU usage",
     "License Type ":"Free",
     "Link":"https:\/\/www.lunarg.com\/vulkan-sdk\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4672,7 +4672,7 @@ export const softwareList: Software[] = [
     "Purpose":"Read digital camera media cards via a USB port ",
     "License Type ":"Free",
     "Link":"http:\/\/www.realtek.com.tw\/Downloads\/downloadsView.aspx?Conn=3&DownTypeID=3&Level=4&PFid=25&PNid=15",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4680,7 +4680,7 @@ export const softwareList: Software[] = [
     "Purpose":"USB2.0 To Fast Ethernet Adapter Driver",
     "License Type ":"Free",
     "Link":"https:\/\/drp.su\/en\/devices\/lan\/corechip\/rd9700-usb2-0-to-fast-ethernet-adapter",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4688,7 +4688,7 @@ export const softwareList: Software[] = [
     "Purpose":"Driver for Wifi ",
     "License Type ":"Free",
     "Link":"https:\/\/www.ath-drivers.eu\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4696,7 +4696,7 @@ export const softwareList: Software[] = [
     "Purpose":"Synaptics Pointing Device Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.quora.com\/What-is-a-synaptic-pointing-device-Should-you-remove-it-from-your-PC",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4704,7 +4704,7 @@ export const softwareList: Software[] = [
     "Purpose":"DVR plugin driver",
     "License Type ":"Free",
     "Link":"http:\/\/10.100.255.130\/DvrWebClient.exe",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4712,7 +4712,7 @@ export const softwareList: Software[] = [
     "Purpose":"Laptop touchpad driver",
     "License Type ":"Free",
     "Link":"http:\/\/drivers.softpedia.com\/get\/KEYBOARD-and-MOUSE\/Elantech\/ELAN-Touchpad-Driver-152123-for-Windows-10-Anniversary-Update.shtml",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4720,7 +4720,7 @@ export const softwareList: Software[] = [
     "Purpose":"Dell Touchpad Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.dell.com\/support\/home\/us\/en\/04\/drivers\/driversdetails?driverid=1jw07",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4728,7 +4728,7 @@ export const softwareList: Software[] = [
     "Purpose":"AMD Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.amd.com\/en\/support\/kb\/release-notes\/rn-rad-win-15-7-1",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4736,7 +4736,7 @@ export const softwareList: Software[] = [
     "Purpose":"AMD Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.amd.com\/en\/support\/kb\/release-notes\/rn-rad-win-15-7-1",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4744,7 +4744,7 @@ export const softwareList: Software[] = [
     "Purpose":"Dell's Audio driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.dell.com\/support\/home\/us\/en\/04\/drivers\/driversdetails?driverid=r70v3",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4752,7 +4752,7 @@ export const softwareList: Software[] = [
     "Purpose":"Audio driver",
     "License Type ":"Free",
     "Link":"https:\/\/drivers.softpedia.com\/get\/SOUND-CARD\/Conexant\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4760,7 +4760,7 @@ export const softwareList: Software[] = [
     "Purpose":"Audio driver",
     "License Type ":"Free",
     "Link":"https:\/\/realtek-hd-audio-drivers-vista.en.softonic.com\/download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4768,7 +4768,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver",
     "License Type ":"Free",
     "Link":"https:\/\/support-th.canon-asia.com\/contents\/TH\/EN\/0100297401.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4776,7 +4776,7 @@ export const softwareList: Software[] = [
     "Purpose":"Intel chip based driver",
     "License Type ":"Free",
     "Link":"https:\/\/downloadcenter.intel.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4784,7 +4784,7 @@ export const softwareList: Software[] = [
     "Purpose":"Lenovo driver",
     "License Type ":"Free",
     "Link":"https:\/\/support.lenovo.com\/us\/en\/solutions\/tvsu-update",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4792,7 +4792,7 @@ export const softwareList: Software[] = [
     "Purpose":"ALPS Touch Pad Driver",
     "License Type ":"Free",
     "Link":"https:\/\/drivers.softpedia.com\/get\/KEYBOARD-and-MOUSE\/ALPS\/Alps-Pointing-Device-Driver-100404114-for-Windows-10.shtml",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4800,7 +4800,7 @@ export const softwareList: Software[] = [
     "Purpose":"Acer driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.acer.com\/ac\/en\/US\/content\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4808,7 +4808,7 @@ export const softwareList: Software[] = [
     "Purpose":"Acer driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.acer.com\/ac\/en\/US\/content\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4816,7 +4816,7 @@ export const softwareList: Software[] = [
     "Purpose":"Acer driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.acer.com\/ac\/en\/US\/content\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4824,7 +4824,7 @@ export const softwareList: Software[] = [
     "Purpose":"Acer driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.acer.com\/ac\/en\/US\/content\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4832,7 +4832,7 @@ export const softwareList: Software[] = [
     "Purpose":"Acer driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.acer.com\/ac\/en\/US\/content\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4840,7 +4840,7 @@ export const softwareList: Software[] = [
     "Purpose":"Catalyst Graphics Adapter software configuration program for ATI graphic cards",
     "License Type ":"Free",
     "Link":"https:\/\/www.amd.com\/en\/support\/kb\/faq\/ccc-install#faq-How-to-install-AMD-Catalyst%E2%84%A2-Drivers-in-a-Windows-10-based-system",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4848,7 +4848,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.geforce.com\/hardware\/technology\/ansel",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4856,7 +4856,7 @@ export const softwareList: Software[] = [
     "Purpose":"Display card driver",
     "License Type ":"Free",
     "Link":"https:\/\/developer.nvidia.com\/vulkan-driver",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4864,7 +4864,7 @@ export const softwareList: Software[] = [
     "Purpose":"Qualcomm drivers for Windows",
     "License Type ":"Free",
     "Link":"https:\/\/www.ath-drivers.eu\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4872,7 +4872,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.driverdouble.com\/drivers\/lm129.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4880,7 +4880,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4888,7 +4888,7 @@ export const softwareList: Software[] = [
     "Purpose":"Management application",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=48234",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4896,7 +4896,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4904,7 +4904,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hewlett-Packard",
     "License Type ":"Free",
     "Link":"https:\/\/support.hp.com\/us-en\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4912,7 +4912,7 @@ export const softwareList: Software[] = [
     "Purpose":"Marvell Semiconductor Pvt Ltd",
     "License Type ":"Free",
     "Link":"https:\/\/www.marvell.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4920,7 +4920,7 @@ export const softwareList: Software[] = [
     "Purpose":"NVIDIA Corporation",
     "License Type ":"Free",
     "Link":"https:\/\/www.geforce.com\/drivers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4928,7 +4928,7 @@ export const softwareList: Software[] = [
     "Purpose":"Catalyst Graphics Adapter software configuration program for ATI graphic cards",
     "License Type ":"Free",
     "Link":"https:\/\/www.amd.com\/en\/support\/kb\/faq\/ccc-install#faq-How-to-install-AMD-Catalyst%E2%84%A2-Drivers-in-a-Windows-10-based-system",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4936,7 +4936,7 @@ export const softwareList: Software[] = [
     "Purpose":"Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.dashlane.com\/download#downloaded",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4944,7 +4944,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver for Mac",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4960,7 +4960,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver for Mac",
     "License Type ":"Free",
     "Link":"https:\/\/www.drivers.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4968,7 +4968,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver for Mac",
     "License Type ":"Free",
     "Link":"https:\/\/www.drivers.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4976,7 +4976,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver for Mac",
     "License Type ":"Free",
     "Link":"https:\/\/www.drivers.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4984,7 +4984,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver for Mac",
     "License Type ":"Free",
     "Link":"https:\/\/www.drivers.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -4992,7 +4992,7 @@ export const softwareList: Software[] = [
     "Purpose":"management application for Ruby",
     "License Type ":"Free",
     "Link":"https:\/\/www.drivers.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -5000,7 +5000,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver for Mac",
     "License Type ":"Free",
     "Link":"https:\/\/www.drivers.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -5008,7 +5008,7 @@ export const softwareList: Software[] = [
     "Purpose":"Audio Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.dell.com\/support\/home\/us\/en\/04\/drivers\/driversdetails?driverid=r70v3",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -5016,7 +5016,7 @@ export const softwareList: Software[] = [
     "Purpose":"Fringer Print Driver",
     "License Type ":"Free",
     "Link":"https:\/\/drivers.softpedia.com\/get\/KEYBOARD-and-MOUSE\/Elantech\/ELAN-Fingerprint-Driver-1-1-0-2111-for-Windows-10-Creators-Update.shtml",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -5024,7 +5024,7 @@ export const softwareList: Software[] = [
     "Purpose":"Projector Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.optoma.com\/hdcastpro\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -5032,7 +5032,7 @@ export const softwareList: Software[] = [
     "Purpose":"ID card printer driver",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.alphacard.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -5040,7 +5040,7 @@ export const softwareList: Software[] = [
     "Purpose":"Logitech Mouse Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.logitech.com\/en-us\/product\/options",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File Compression",
@@ -5048,7 +5048,7 @@ export const softwareList: Software[] = [
     "Purpose":"File archiver with a high compression ratio",
     "License Type ":"Free",
     "Link":"https:\/\/www.7-zip.org\/download.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File Compression",
@@ -5064,7 +5064,7 @@ export const softwareList: Software[] = [
     "Purpose":"Archive file extractor for MacOS",
     "License Type ":"Free",
     "Link":"https:\/\/itunes.apple.com\/us\/app\/izip-unarchiver-rar-7z-zip-decompressor\/id717545828?mt=12",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File Compression",
@@ -5072,7 +5072,7 @@ export const softwareList: Software[] = [
     "Purpose":"Very high compression ratio file archiver",
     "License Type ":"Free",
     "Link":"https:\/\/centos.pkgs.org\/7\/slce-x86_64\/p7zip-9.20.1-1.el7.x86_64.rpm.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File storage and backup",
@@ -5080,7 +5080,7 @@ export const softwareList: Software[] = [
     "Purpose":"File storage and synchronization service ",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/drive\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File storage and backup",
@@ -5088,7 +5088,7 @@ export const softwareList: Software[] = [
     "Purpose":"File storage and synchronization service ",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/drive\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File storage and backup",
@@ -5096,7 +5096,7 @@ export const softwareList: Software[] = [
     "Purpose":"Safely backups and synchronize files from goole drive",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/drive\/download\/backup-and-sync\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File storage and backup",
@@ -5104,7 +5104,7 @@ export const softwareList: Software[] = [
     "Purpose":"Web based file storage and synchronization service",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/drive\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File storage and backup",
@@ -5112,7 +5112,7 @@ export const softwareList: Software[] = [
     "Purpose":"File storage and synchronization service ",
     "License Type ":"Free",
     "Link":"https:\/\/onedrive.live.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File Transfer",
@@ -5120,7 +5120,7 @@ export const softwareList: Software[] = [
     "Purpose":"Windows client for Amazon S3 and Amazon CloudFront",
     "License Type ":"Free",
     "Link":"http:\/\/s3browser.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File Transfer",
@@ -5128,7 +5128,7 @@ export const softwareList: Software[] = [
     "Purpose":"for s3 bucket",
     "License Type ":"Licensed",
     "Link":"https:\/\/commander-one.en.softonic.com\/mac",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"File Trasnfer",
@@ -5136,7 +5136,7 @@ export const softwareList: Software[] = [
     "Purpose":"For FTP client",
     "License Type ":"Licensed",
     "Link":"https:\/\/panic.com\/transmit\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Healthcare",
@@ -5144,7 +5144,7 @@ export const softwareList: Software[] = [
     "Purpose":"Custom application needed to deploy for some client CM",
     "License Type ":"Licensed",
     "Link":"https:\/\/um5.rchitexas.org:8087\/rm\/iqm\/html\/index.html?Admin=N&integration=&appType=CERME&locale=en_US&b2sw=N&",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5152,7 +5152,7 @@ export const softwareList: Software[] = [
     "Purpose":"Integrated Development Environment for Python Developers",
     "License Type ":"Free",
     "Link":"https:\/\/www.jetbrains.com\/pycharm\/download\/#section=linux",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5160,7 +5160,7 @@ export const softwareList: Software[] = [
     "Purpose":"Integrated Development Environment for JAVA Developers",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.jetbrains.com\/idea\/buy\/#edition=commercial",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5168,7 +5168,7 @@ export const softwareList: Software[] = [
     "Purpose":"Integrated Development Environment for JAVA Developers",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.jetbrains.com\/idea\/buy\/#edition=commercial",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5176,7 +5176,7 @@ export const softwareList: Software[] = [
     "Purpose":"Integrated Development Environment based on Windows API",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Microsoft-Visual-Studio-Professional-2017-license-1-user\/4568487?RecommendedForEDC=4564659&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5184,7 +5184,7 @@ export const softwareList: Software[] = [
     "Purpose":"Included as part of Microsoft Visual Studio",
     "License Type ":"Free",
     "Link":"https:\/\/support.microsoft.com\/en-us\/help\/2977003\/the-latest-supported-visual-c-downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5200,7 +5200,7 @@ export const softwareList: Software[] = [
     "Purpose":"Hadoop\/ Spark",
     "License Type ":"Free",
     "Link":"https:\/\/www.jetbrains.com\/idea\/download\/#section=linux",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5208,7 +5208,7 @@ export const softwareList: Software[] = [
     "Purpose":"A lightweight but powerful source code editor",
     "License Type ":"Free",
     "Link":"https:\/\/code.visualstudio.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5216,7 +5216,7 @@ export const softwareList: Software[] = [
     "Purpose":"Python Dependency",
     "License Type ":"Free",
     "Link":"https:\/\/pypi.org\/project\/pip\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5224,7 +5224,7 @@ export const softwareList: Software[] = [
     "Purpose":"Python Dependency",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/seznam\/pyoo",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5232,7 +5232,7 @@ export const softwareList: Software[] = [
     "Purpose":"Python Dependency",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/boto\/boto",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5240,7 +5240,7 @@ export const softwareList: Software[] = [
     "Purpose":"An integrated development environment for Java",
     "License Type ":"Free",
     "Link":"http:\/\/netbeans.org\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5256,7 +5256,7 @@ export const softwareList: Software[] = [
     "Purpose":"Open-source server-side web application framework.",
     "License Type ":"Free",
     "Link":"https:\/\/www.asp.net\/downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5264,7 +5264,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=48742 ",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5272,7 +5272,7 @@ export const softwareList: Software[] = [
     "Purpose":"Extension tool for Visual Studio",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/net\/download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5280,7 +5280,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio",
     "License Type ":"Licensed",
     "Link":"https:\/\/support.microsoft.com\/en-us\/help\/2977003\/the-latest-supported-visual-c-downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5288,7 +5288,7 @@ export const softwareList: Software[] = [
     "Purpose":"An extension to Visual Studio",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=34685",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5296,7 +5296,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio",
     "License Type ":"Licensed",
     "Link":"https:\/\/support.microsoft.com\/en-us\/help\/2977003\/the-latest-supported-visual-c-downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5304,7 +5304,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio",
     "License Type ":"Licensed",
     "Link":"https:\/\/support.microsoft.com\/en-us\/help\/2977003\/the-latest-supported-visual-c-downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5312,7 +5312,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio",
     "License Type ":"Licensed",
     "Link":"https:\/\/support.microsoft.com\/en-us\/help\/2977003\/the-latest-supported-visual-c-downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5320,7 +5320,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio",
     "License Type ":"Free",
     "Link":"https:\/\/developercommunity.visualstudio.com\/content\/problem\/245109\/packageidmicrosoftintellitraceprofilerproxymsipack-4.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5328,7 +5328,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio",
     "License Type ":"Free",
     "Link":"https:\/\/developercommunity.visualstudio.com\/content\/problem\/245109\/packageidmicrosoftintellitraceprofilerproxymsipack-4.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5336,7 +5336,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio",
     "License Type ":"Free",
     "Link":"https:\/\/developercommunity.visualstudio.com\/content\/problem\/245109\/packageidmicrosoftintellitraceprofilerproxymsipack-4.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5344,7 +5344,7 @@ export const softwareList: Software[] = [
     "Purpose":"The Most Intelligent Python IDE",
     "License Type ":"Free",
     "Link":"https:\/\/www.jetbrains.com\/pycharm\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5352,7 +5352,7 @@ export const softwareList: Software[] = [
     "Purpose":"Primarily this would be for the machine learning team.",
     "License Type ":"Free",
     "Link":"https:\/\/jupyter.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -5360,7 +5360,7 @@ export const softwareList: Software[] = [
     "Purpose":"IDE for R",
     "License Type ":"Free",
     "Link":"https:\/\/www.r-project.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Management application",
@@ -5368,7 +5368,7 @@ export const softwareList: Software[] = [
     "Purpose":"management application for Ruby",
     "License Type ":"Free",
     "Link":"https:\/\/www.heatware.net\/ruby-rails\/how-to-install-rubygems-linux-ubuntu-10\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Management application",
@@ -5376,7 +5376,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by rubygems",
     "License Type ":"Free",
     "Link":"https:\/\/www.heatware.net\/ruby-rails\/how-to-install-rubygems-linux-ubuntu-10\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Management application",
@@ -5384,7 +5384,7 @@ export const softwareList: Software[] = [
     "Purpose":"collects and forwards Microsoft Windows events to Alienvault",
     "License Type ":"Free",
     "Link":"https:\/\/nxlog.co\/products\/nxlog-community-edition\/download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Media",
@@ -5392,7 +5392,7 @@ export const softwareList: Software[] = [
     "Purpose":"Media Player",
     "License Type ":"Free",
     "Link":"https:\/\/www.videolan.org\/vlc\/index.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Media",
@@ -5400,7 +5400,7 @@ export const softwareList: Software[] = [
     "Purpose":"application used for creating whiteboard animation video.",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.videoscribe.co\/en\/Login?ReturnURL=\/en\/Download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Media",
@@ -5408,7 +5408,7 @@ export const softwareList: Software[] = [
     "Purpose":"Media Player",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com\/kb\/DL837?locale=en_GB",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Media",
@@ -5416,7 +5416,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by QuickTime",
     "License Type ":"Free",
     "Link":"https:\/\/support.apple.com\/kb\/DL923?locale=en_GB",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Media",
@@ -5424,7 +5424,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Media",
@@ -5432,7 +5432,7 @@ export const softwareList: Software[] = [
     "Purpose":"Video editing software application",
     "License Type ":"Licensed",
     "Link":"https:\/\/commerce.adobe.com\/anyware\/checkout\/?clientId=creative&countryCode=US&languageCode=en&marketSegment=COM&items%5B0%5D%5BofferId%5D=19AEE5AC1C9242C37657987E009E6553&items%5B0%5D%5Bquantity%5D=1&returnUrl=undefined&promoid=61PM81D8&mv=other&landscape=prod",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Microsoft",
@@ -5440,7 +5440,7 @@ export const softwareList: Software[] = [
     "Purpose":"Office Package for Mac",
     "License Type ":"Licensed",
     "Link":"https:\/\/products.office.com\/en-ww\/mac",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Microsoft",
@@ -5448,7 +5448,7 @@ export const softwareList: Software[] = [
     "Purpose":"Office Package for Mac",
     "License Type ":"Licensed",
     "Link":"https:\/\/products.office.com\/en-ww\/mac",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Microsoft",
@@ -5456,7 +5456,7 @@ export const softwareList: Software[] = [
     "Purpose":"Office Package for Mac",
     "License Type ":"Licensed",
     "Link":"https:\/\/products.office.com\/en-ww\/mac",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Microsoft",
@@ -5464,7 +5464,7 @@ export const softwareList: Software[] = [
     "Purpose":"Office Package for Mac",
     "License Type ":"Licensed",
     "Link":"https:\/\/products.office.com\/en-ww\/mac",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Microsoft",
@@ -5472,7 +5472,7 @@ export const softwareList: Software[] = [
     "Purpose":"Office Package for Mac",
     "License Type ":"Licensed",
     "Link":"https:\/\/products.office.com\/en-ww\/mac",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Microsoft",
@@ -5480,7 +5480,7 @@ export const softwareList: Software[] = [
     "Purpose":"Office Package for Mac",
     "License Type ":"Licensed",
     "Link":"https:\/\/products.office.com\/en-ww\/mac",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Microsoft",
@@ -5488,7 +5488,7 @@ export const softwareList: Software[] = [
     "Purpose":"Office Package for Mac",
     "License Type ":"Licensed",
     "Link":"https:\/\/products.office.com\/en-ww\/mac",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Microsoft",
@@ -5496,7 +5496,7 @@ export const softwareList: Software[] = [
     "Purpose":"Needed to evaluate compliance settings.",
     "License Type ":"Free",
     "Link":"https:\/\/docs.microsoft.com\/en-us\/sccm\/core\/clients\/deploy\/prerequisites-for-deploying-clients-to-windows-computers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Microsoft",
@@ -5504,7 +5504,7 @@ export const softwareList: Software[] = [
     "Purpose":"Report Viewer",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=35747",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Miscellaneous",
@@ -5512,7 +5512,7 @@ export const softwareList: Software[] = [
     "Purpose":"Shareware software",
     "License Type ":"Free",
     "Link":"https:\/\/winrt-intellisense-uap-en-us.updatestar.com\/en",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Miscellaneous",
@@ -5520,7 +5520,7 @@ export const softwareList: Software[] = [
     "Purpose":"Music Player",
     "License Type ":"Free",
     "Link":"https:\/\/www.googleplaymusicdesktopplayer.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Miscellaneous",
@@ -5528,7 +5528,7 @@ export const softwareList: Software[] = [
     "Purpose":"Color combination tool",
     "License Type ":"Free",
     "Link":"www.tucows.com\/preview\/1294630\/Color-Picker",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Mockup",
@@ -5536,7 +5536,7 @@ export const softwareList: Software[] = [
     "Purpose":"Mockup tool",
     "License Type ":"Licensed",
     "Link":"https:\/\/balsamiq.com\/wireframes\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Mockup",
@@ -5544,7 +5544,7 @@ export const softwareList: Software[] = [
     "Purpose":"Mockup tool",
     "License Type ":"Free",
     "Link":"https:\/\/mockflow.com\/desktop\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Mockup",
@@ -5552,7 +5552,7 @@ export const softwareList: Software[] = [
     "Purpose":"Mockup tool",
     "License Type ":"Free",
     "Link":"https:\/\/www.adobe.com\/products\/xd.html?sdid=12B9F15S&mv=Search&ef_id=EAIaIQobChMI1uPA3POi4QIVzksNCh3NigdQEAAYASAAEgIQCfD_BwE:G:s&s_kwcid=AL!3085!3!315233774100!b!!g!!adobe%20xd%20free",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5560,7 +5560,7 @@ export const softwareList: Software[] = [
     "Purpose":"SysLog and Network Monitoring",
     "License Type ":"Free",
     "Link":"http:\/\/www.observium.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5568,7 +5568,7 @@ export const softwareList: Software[] = [
     "Purpose":"Config change tracker",
     "License Type ":"Free",
     "Link":"http:\/\/www.shrubbery.net\/rancid\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5576,7 +5576,7 @@ export const softwareList: Software[] = [
     "Purpose":"IT Asset Management",
     "License Type ":"Free",
     "Link":"https:\/\/www.belarc.com\/products_belarc_advisor",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5584,7 +5584,7 @@ export const softwareList: Software[] = [
     "Purpose":"Network Diagnostic Tool",
     "License Type ":"Free",
     "Link":"http:\/\/winmtr.net\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5592,7 +5592,7 @@ export const softwareList: Software[] = [
     "Purpose":"Network Diagnostic Tool",
     "License Type ":"Free",
     "Link":"https:\/\/www.tecmint.com\/mtr-a-network-diagnostic-tool-for-linux\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5600,7 +5600,7 @@ export const softwareList: Software[] = [
     "Purpose":"Mikrotik Administration Tool",
     "License Type ":"Free",
     "Link":"https:\/\/mikrotik.com\/download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5608,7 +5608,7 @@ export const softwareList: Software[] = [
     "Purpose":"Network Latency Tracker",
     "License Type ":"Free",
     "Link":"https:\/\/oss.oetiker.ch\/smokeping\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5616,7 +5616,7 @@ export const softwareList: Software[] = [
     "Purpose":"NCell's Internet dongle connection tool",
     "License Type ":"Free",
     "Link":"https:\/\/www.ncell.axiata.com\/Internet\/Rates-and-Information\/How-to-setup-internet-in-my-computer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5624,7 +5624,7 @@ export const softwareList: Software[] = [
     "Purpose":"Angry IP Scanner - fast and friendly IP Scanner",
     "License Type ":"Free",
     "Link":"http:\/\/angryip.org\/download\/#linux",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5632,7 +5632,7 @@ export const softwareList: Software[] = [
     "Purpose":"Angry IP Scanner - fast and friendly IP Scanner",
     "License Type ":"Free",
     "Link":"http:\/\/angryip.org\/download\/#linux",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5640,7 +5640,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remotely configure SNMP on Windows servers and workstations",
     "License Type ":"Free",
     "Link":"https:\/\/www.solarwinds.com\/free-tools\/snmp-enabler-for-windows",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5648,7 +5648,7 @@ export const softwareList: Software[] = [
     "Purpose":"Free, open source host-based intrusion detection system (HIDS)",
     "License Type ":"Free",
     "Link":"https:\/\/www.ossec.net\/downloads.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5672,7 +5672,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provides inventory of PCs (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/www.ocsinventory-ng.org\/en\/download-en\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5680,7 +5680,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provides inventory of PCs (MacOS)",
     "License Type ":"Free",
     "Link":"https:\/\/www.ocsinventory-ng.org\/en\/download-en\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5688,7 +5688,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provides inventory of PCs (WinOS)",
     "License Type ":"Free",
     "Link":"https:\/\/www.ocsinventory-ng.org\/en\/download-en\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5696,7 +5696,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provides inventory of PCs (WinOS)",
     "License Type ":"Free",
     "Link":"https:\/\/www.ocsinventory-ng.org\/en\/download-en\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5704,7 +5704,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provides inventory of PCs",
     "License Type ":"Free",
     "Link":"https:\/\/www.ocsinventory-ng.org\/en\/download-en\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5712,7 +5712,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provides inventory of PCs",
     "License Type ":"Free",
     "Link":"https:\/\/www.ocsinventory-ng.org\/en\/download-en\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5728,7 +5728,7 @@ export const softwareList: Software[] = [
     "Purpose":"Door Access Control Software",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.zkteco.com\/en\/product_category\/70.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5736,7 +5736,7 @@ export const softwareList: Software[] = [
     "Purpose":"Door Access Control Software (updated software version)",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.zkteco.com\/en\/product_category\/70.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5744,7 +5744,7 @@ export const softwareList: Software[] = [
     "Purpose":"Door Access Control Software (updated software version)",
     "License Type ":"Licensed",
     "Link":"http:\/\/www.kantech.com\/Products\/Default.aspx",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5752,7 +5752,7 @@ export const softwareList: Software[] = [
     "Purpose":"Used by SCCM to manage the Windows Firewall using a Group Policy ",
     "License Type ":"Free",
     "Link":"https:\/\/www.prajwaldesai.com\/configuring-firewall-settings-for-configuration-manager-2012-r2\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5760,7 +5760,7 @@ export const softwareList: Software[] = [
     "Purpose":"SCCM's client",
     "License Type ":"Free",
     "Link":"https:\/\/www.prajwaldesai.com\/install-configuration-manager-clients-using-client-push\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5768,7 +5768,7 @@ export const softwareList: Software[] = [
     "Purpose":"A collection of SNMP protocol tools and libraries",
     "License Type ":"Free",
     "Link":"www.net-snmp.org\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5776,7 +5776,7 @@ export const softwareList: Software[] = [
     "Purpose":"Internet whois\/nicname client",
     "License Type ":"Free",
     "Link":"https:\/\/www.gnu.org\/software\/jwhois\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5784,7 +5784,7 @@ export const softwareList: Software[] = [
     "Purpose":"Scriptable, parallelized ping-like utility",
     "License Type ":"Free",
     "Link":"https:\/\/fping.org",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5792,7 +5792,7 @@ export const softwareList: Software[] = [
     "Purpose":"Graph Visualization Tools",
     "License Type ":"Free",
     "Link":"https:\/\/www.graphviz.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5800,7 +5800,7 @@ export const softwareList: Software[] = [
     "Purpose":"Postfix Mail Transport Agent",
     "License Type ":"Free",
     "Link":"www.postfix.org\/download.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5808,7 +5808,7 @@ export const softwareList: Software[] = [
     "Purpose":"Round Robin Database Tool to store and display time-series data",
     "License Type ":"Free",
     "Link":"https:\/\/oss.oetiker.ch\/rrdtool",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5816,7 +5816,7 @@ export const softwareList: Software[] = [
     "Purpose":"Replacement for crypt()",
     "License Type ":"Free",
     "Link":"https:\/\/sourceforge.net\/projects\/mcrypt\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5824,7 +5824,7 @@ export const softwareList: Software[] = [
     "Purpose":"Interactive process viewer",
     "License Type ":"Free",
     "Link":"https:\/\/sourceforge.net\/projects\/htop\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5832,7 +5832,7 @@ export const softwareList: Software[] = [
     "Purpose":"Enhanced system logging and kernel message trapping daemon",
     "License Type ":"Free",
     "Link":"https:\/\/www.rsyslog.com\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5840,7 +5840,7 @@ export const softwareList: Software[] = [
     "Purpose":"High-performance and highly configurable free RADIUS server",
     "License Type ":"Free",
     "Link":"http:\/\/freeradius.net\/Downloads.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5848,7 +5848,7 @@ export const softwareList: Software[] = [
     "Purpose":"Files used by both Samba servers and clients",
     "License Type ":"Free",
     "Link":"https:\/\/pkgs.org\/download\/samba-common",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5856,7 +5856,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote Desktop Protocol client",
     "License Type ":"Free",
     "Link":"http:\/\/www.freerdp.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5864,7 +5864,7 @@ export const softwareList: Software[] = [
     "Purpose":"Email filter with virus scanner and spamassassin support",
     "License Type ":"Free",
     "Link":"http:\/\/amavis.sourceforge.net\/download.php",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5872,7 +5872,7 @@ export const softwareList: Software[] = [
     "Purpose":"Use a Razor catalogue server to filter spam messages",
     "License Type ":"Free",
     "Link":"https:\/\/centos.pkgs.org\/7\/epel-x86_64\/perl-Razor-Agent-2.85-15.el7.x86_64.rpm.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5880,7 +5880,7 @@ export const softwareList: Software[] = [
     "Purpose":"Spam filter for email which can be invoked from mail delivery agents",
     "License Type ":"Free",
     "Link":"https:\/\/sourceforge.net\/projects\/spamassassin\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5888,7 +5888,7 @@ export const softwareList: Software[] = [
     "Purpose":"Nessus Scanner",
     "License Type ":"Licensed",
     "Link":"https:\/\/docs.tenable.com\/nessus\/6_7\/Content\/DownloadNessus.htm",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5896,7 +5896,7 @@ export const softwareList: Software[] = [
     "Purpose":"small, powerful, scalable web\/proxy server",
     "License Type ":"Free",
     "Link":"http:\/\/nginx.net",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -5904,7 +5904,7 @@ export const softwareList: Software[] = [
     "Purpose":"command-line network traffic analyzer",
     "License Type ":"Free",
     "Link":"http:\/\/www.tcpdump.org\/        ",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Operating System",
@@ -5912,7 +5912,7 @@ export const softwareList: Software[] = [
     "Purpose":"Windows package that allows user to select the Windows language.",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Plugin",
@@ -5920,7 +5920,7 @@ export const softwareList: Software[] = [
     "Purpose":"To enforce the password strength in CM db servers",
     "License Type ":"Free",
     "Link":"https:\/\/mariadb.com\/kb\/en\/library\/cracklib-password-check-plugin\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -5928,7 +5928,7 @@ export const softwareList: Software[] = [
     "Purpose":"Office Suite",
     "License Type ":"Free",
     "Link":"https:\/\/www.libreoffice.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -5936,7 +5936,7 @@ export const softwareList: Software[] = [
     "Purpose":"Open-source office software suite",
     "License Type ":"Free",
     "Link":"https:\/\/www.openoffice.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -5944,7 +5944,7 @@ export const softwareList: Software[] = [
     "Purpose":"Free Office Suite",
     "License Type ":"Free",
     "Link":"https:\/\/www.wps.com\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -5952,7 +5952,7 @@ export const softwareList: Software[] = [
     "Purpose":"PDF Document Reader",
     "License Type ":"Free",
     "Link":"https:\/\/acrobat.adobe.com\/us\/en\/acrobat\/pdf-reader.html?promoid=C4SZ2XDR&mv=other",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -5960,7 +5960,7 @@ export const softwareList: Software[] = [
     "Purpose":"Mircosoft Office Suite",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.microsoft.com\/en-us\/store\/d\/office-professional-2016\/cfq7ttc0k5f8?activetab=pivot:overviewtab",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -5968,7 +5968,7 @@ export const softwareList: Software[] = [
     "Purpose":"Organizational Chart, Workflows",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.ecrater.com\/p\/30322707\/microsoft-visio-professional-2016-lifetime-license?keywords=microsoft+visio",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -5976,7 +5976,7 @@ export const softwareList: Software[] = [
     "Purpose":"Free English dictionary and thesaurus",
     "License Type ":"Free",
     "Link":"https:\/\/wordweb.info\/free\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -5984,7 +5984,7 @@ export const softwareList: Software[] = [
     "Purpose":"PDF reader ",
     "License Type ":"Free",
     "Link":"https:\/\/www.foxitsoftware.com\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -5992,7 +5992,7 @@ export const softwareList: Software[] = [
     "Purpose":"PDF reader",
     "License Type ":"Free",
     "Link":"https:\/\/acrobat.adobe.com\/us\/en\/acrobat\/pdf-reader.html?promoid=C4SZ2XDR&mv=other",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6000,7 +6000,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6008,7 +6008,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6016,7 +6016,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6024,7 +6024,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6032,7 +6032,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6040,7 +6040,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6048,7 +6048,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6056,7 +6056,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6064,7 +6064,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6072,7 +6072,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6080,7 +6080,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6088,7 +6088,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6096,7 +6096,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6104,7 +6104,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6112,7 +6112,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6120,7 +6120,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6128,7 +6128,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6136,7 +6136,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6144,7 +6144,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6152,7 +6152,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6160,7 +6160,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6168,7 +6168,7 @@ export const softwareList: Software[] = [
     "Purpose":"Ebook reader for some of the programming books.",
     "License Type ":"Free",
     "Link":"https:\/\/calibre-ebook.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6176,7 +6176,7 @@ export const softwareList: Software[] = [
     "Purpose":"Clipboard app for MAC to store multiple cut items.",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/TermiT\/Flycut",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6184,7 +6184,7 @@ export const softwareList: Software[] = [
     "Purpose":"2 step verification",
     "License Type ":"Free",
     "Link":"https:\/\/itunes.apple.com\/us\/app\/google-authenticator\/id388497605?mt=8",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6192,7 +6192,7 @@ export const softwareList: Software[] = [
     "Purpose":"Component of Adobe",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6208,7 +6208,7 @@ export const softwareList: Software[] = [
     "Purpose":"Needed for blue screen glare reflection after sunset hours.",
     "License Type ":"Free",
     "Link":"https:\/\/justgetflux.com\/linux.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6216,7 +6216,7 @@ export const softwareList: Software[] = [
     "Purpose":"Expanding predefined text in text editor and emails",
     "License Type ":"Licensed",
     "Link":"https:\/\/textexpander.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6224,7 +6224,7 @@ export const softwareList: Software[] = [
     "Purpose":"Makes Open and Save dialogs work as quickly as you do",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.stclairsoft.com\/DefaultFolderX\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6232,7 +6232,7 @@ export const softwareList: Software[] = [
     "Purpose":"MAC cleaning tool",
     "License Type ":"Licensed",
     "Link":"https:\/\/macpaw.com\/cleanmymac-3",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6240,7 +6240,7 @@ export const softwareList: Software[] = [
     "Purpose":"Taking and storing notes",
     "License Type ":"Free",
     "Link":"https:\/\/evernote.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6248,7 +6248,7 @@ export const softwareList: Software[] = [
     "Purpose":"Open source taskbar for Linux",
     "License Type ":"Free",
     "Link":"https:\/\/pkgs.org\/download\/tint2",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6256,7 +6256,7 @@ export const softwareList: Software[] = [
     "Purpose":"Control screen colour to suit your eyes",
     "License Type ":"Free",
     "Link":"https:\/\/justgetflux.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6264,7 +6264,7 @@ export const softwareList: Software[] = [
     "Purpose":"grammar checker software",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.grammarly.com\/?q=brand&utm_source=google&utm_medium=cpc&utm_campaign=brand_f1&utm_content=229881030226&utm_term=grammarly%20for%20mac&matchtype=e&placement=&network=g&gclid=EAIaIQobChMIv-r32P6Z4AIVT6aWCh32EwaPEAAYASAAEgKG1fD_BwE",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6272,7 +6272,7 @@ export const softwareList: Software[] = [
     "Purpose":"PDF opening tool",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.locklizard.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6280,7 +6280,7 @@ export const softwareList: Software[] = [
     "Purpose":"Password management",
     "License Type ":"Licensed",
     "Link":"https:\/\/support.1password.com\/explore\/whats-new-mac\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6288,7 +6288,7 @@ export const softwareList: Software[] = [
     "Purpose":"Calendar utility",
     "License Type ":"Licensed",
     "Link":"https:\/\/flexibits.com\/fantastical",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6296,7 +6296,7 @@ export const softwareList: Software[] = [
     "Purpose":"Copy past utility",
     "License Type ":"Licensed",
     "Link":"https:\/\/pasteapp.me\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6304,7 +6304,7 @@ export const softwareList: Software[] = [
     "Purpose":"Productivity Tool",
     "License Type ":"Licensed",
     "Link":"https:\/\/apps.apple.com\/us\/app\/things-3\/id904280696?mt=12",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6312,7 +6312,7 @@ export const softwareList: Software[] = [
     "Purpose":"File Explorer",
     "License Type ":"Licensed",
     "Link":"https:\/\/eternalstorms.at\/yoink\/mac\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -6320,7 +6320,7 @@ export const softwareList: Software[] = [
     "Purpose":"develop a version of the X.Org X Window System",
     "License Type ":"Free",
     "Link":"https:\/\/www.xquartz.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Programming Language",
@@ -6328,7 +6328,7 @@ export const softwareList: Software[] = [
     "Purpose":"Python is a programming language",
     "License Type ":"Free",
     "Link":"https:\/\/www.python.org\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Programming Language",
@@ -6336,7 +6336,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Python",
     "License Type ":"Free",
     "Link":"https:\/\/www.python.org\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Programming Language",
@@ -6344,7 +6344,7 @@ export const softwareList: Software[] = [
     "Purpose":"Python is a programming language",
     "License Type ":"Free",
     "Link":"https:\/\/www.python.org\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Programming Language",
@@ -6352,7 +6352,7 @@ export const softwareList: Software[] = [
     "Purpose":"Server side scripting language",
     "License Type ":"Free",
     "Link":"http:\/\/www.php.net\/downloads.php",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Programming Language",
@@ -6360,7 +6360,7 @@ export const softwareList: Software[] = [
     "Purpose":"Development",
     "License Type ":"Free",
     "Link":"https:\/\/www.scala-lang.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Programming Language",
@@ -6368,7 +6368,7 @@ export const softwareList: Software[] = [
     "Purpose":"Microsoft's object-oriented programming tool for IE",
     "License Type ":"Free",
     "Link":"https:\/\/download.cnet.com\/DownloadX-ActiveX-Download-Control\/3000-2206_4-10911713.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Programming Language",
@@ -6376,7 +6376,7 @@ export const softwareList: Software[] = [
     "Purpose":"JavaScript runtime open source server environment.",
     "License Type ":"Free",
     "Link":"https:\/\/nodejs.org\/en\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Programming Language",
@@ -6384,7 +6384,7 @@ export const softwareList: Software[] = [
     "Purpose":"programming language",
     "License Type ":"Free",
     "Link":"https:\/\/www.r-project.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Programming Language",
@@ -6392,7 +6392,7 @@ export const softwareList: Software[] = [
     "Purpose":"Interactive high-level object-oriented language (version 2.7)",
     "License Type ":"Free",
     "Link":"https:\/\/www.python.org\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Programming Language",
@@ -6400,7 +6400,7 @@ export const softwareList: Software[] = [
     "Purpose":"Interactive high-level object-oriented language (version 3.5)",
     "License Type ":"Free",
     "Link":"https:\/\/www.python.org\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6408,7 +6408,7 @@ export const softwareList: Software[] = [
     "Purpose":"SSH ",
     "License Type ":"Free",
     "Link":"https:\/\/www.ssh.com\/ssh\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6416,7 +6416,7 @@ export const softwareList: Software[] = [
     "Purpose":"Network file transfer application",
     "License Type ":"Free",
     "Link":"https:\/\/www.putty.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6424,7 +6424,7 @@ export const softwareList: Software[] = [
     "Purpose":"Secure connection",
     "License Type ":"Free",
     "Link":"https:\/\/openvpn.net\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6432,7 +6432,7 @@ export const softwareList: Software[] = [
     "Purpose":"Secure connection",
     "License Type ":"Free",
     "Link":"https:\/\/openvpn.net\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6440,7 +6440,7 @@ export const softwareList: Software[] = [
     "Purpose":"Secure connection",
     "License Type ":"Free",
     "Link":"https:\/\/openvpn.net\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6448,7 +6448,7 @@ export const softwareList: Software[] = [
     "Purpose":"Secure connection",
     "License Type ":"Free",
     "Link":"https:\/\/openvpn.net\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6456,7 +6456,7 @@ export const softwareList: Software[] = [
     "Purpose":"Progeny Authenticator is an application created by Progeny for 2 factor authentication for access to their application called 'Baby Trax 1.5",
     "License Type ":"Free",
     "Link":"https:\/\/dev.babytrax.net\/progenyauthenticator\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6464,7 +6464,7 @@ export const softwareList: Software[] = [
     "Purpose":"Better tool for SSH from Windows machines. ",
     "License Type ":"Free",
     "Link":"https:\/\/mobaxterm.mobatek.net\/download.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6472,7 +6472,7 @@ export const softwareList: Software[] = [
     "Purpose":"VPN connect",
     "License Type ":"Licensed",
     "Link":"https:\/\/nordvpn.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6480,7 +6480,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote desktop software",
     "License Type ":"Free",
     "Link":"https:\/\/www.teamviewer.com\/en\/download\/windows\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6488,7 +6488,7 @@ export const softwareList: Software[] = [
     "Purpose":"OpenVPN VPN client server",
     "License Type ":"Free",
     "Link":"https:\/\/tunnelblick.net\/downloads.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6496,7 +6496,7 @@ export const softwareList: Software[] = [
     "Purpose":"OpenVPN VPN client server",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.ovpn.com\/en\/guides\/mac-viscosity",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6504,7 +6504,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote desktop software",
     "License Type ":"Free",
     "Link":"https:\/\/www.drivers.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6512,7 +6512,7 @@ export const softwareList: Software[] = [
     "Purpose":"Remote desktop software",
     "License Type ":"Free",
     "Link":"https:\/\/www.drivers.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -6520,7 +6520,7 @@ export const softwareList: Software[] = [
     "Purpose":"virtual private network daemon",
     "License Type ":"Free",
     "Link":"http:\/\/www.openvpn.net\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection ",
@@ -6528,7 +6528,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provides VPN access through SSL and IPsec IKEv2",
     "License Type ":"Free",
     "Link":"https:\/\/www.cisco.com\/c\/en\/us\/support\/security\/anyconnect-secure-mobility-client-v4-x\/model.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection ",
@@ -6536,7 +6536,7 @@ export const softwareList: Software[] = [
     "Purpose":"Download Cisco vpn",
     "License Type ":"Free",
     "Link":"https:\/\/www.cisco.com\/c\/en\/us\/support\/security\/anyconnect-secure-mobility-client\/tsd-products-support-series-home.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Revision Control",
@@ -6544,7 +6544,7 @@ export const softwareList: Software[] = [
     "Purpose":"Version control system",
     "License Type ":"Free",
     "Link":"http:\/\/cvs.nongnu.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Revision Control",
@@ -6552,7 +6552,7 @@ export const softwareList: Software[] = [
     "Purpose":"Command line programs which allow you to interface with the underlying git progra",
     "License Type ":"Free",
     "Link":"https:\/\/git-scm.com\/downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Revision Control",
@@ -6560,7 +6560,7 @@ export const softwareList: Software[] = [
     "Purpose":"Software to handle project processes with efficiency and speed",
     "License Type ":"Free",
     "Link":"https:\/\/git-scm.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Revision Control",
@@ -6568,7 +6568,7 @@ export const softwareList: Software[] = [
     "Purpose":"Fast Version Control System",
     "License Type ":"Free",
     "Link":"https:\/\/git-scm.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Revision Control",
@@ -6584,7 +6584,7 @@ export const softwareList: Software[] = [
     "Purpose":"differencing and merging tool for Windows",
     "License Type ":"Free",
     "Link":"http:\/\/winmerge.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Revision Control",
@@ -6592,7 +6592,7 @@ export const softwareList: Software[] = [
     "Purpose":"A Modern Concurrent Version Control System",
     "License Type ":"Free",
     "Link":"https:\/\/sourceforge.net\/projects\/subversion\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Screenshot",
@@ -6600,7 +6600,7 @@ export const softwareList: Software[] = [
     "Purpose":"Take Screenshot",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.techsmith.com\/store\/snagit?utm_source=google&utm_medium=cpc&utm_campaign=1524774662&utm_content=58548122295&utm_term=snagit&gclid=EAIaIQobChMI78GU_fGi4QIVjLbICh25eA1kEAAYASAAEgL-dvD_BwE",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Security",
@@ -6608,7 +6608,7 @@ export const softwareList: Software[] = [
     "Purpose":"Used for encryption in MAC",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.encrypt.me\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Security",
@@ -6616,7 +6616,7 @@ export const softwareList: Software[] = [
     "Purpose":"encrypt the client dump files using keys provided by different clients",
     "License Type ":"Free",
     "Link":"https:\/\/gnupg.org\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Security",
@@ -6624,7 +6624,7 @@ export const softwareList: Software[] = [
     "Purpose":"Rind security vulnerabilities in the web applications while developing and testing the application",
     "License Type ":"Free",
     "Link":"https:\/\/www.owasp.org\/index.php\/OWASP_Zed_Attack_Proxy_Project",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Software Platform",
@@ -6632,7 +6632,7 @@ export const softwareList: Software[] = [
     "Purpose":"System for developing and deploying application software",
     "License Type ":"Free",
     "Link":"https:\/\/java.com\/en\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Software Platform",
@@ -6640,7 +6640,7 @@ export const softwareList: Software[] = [
     "Purpose":"Java development kit",
     "License Type ":"Free",
     "Link":"https:\/\/www.oracle.com\/technetwork\/java\/javase\/downloads\/jdk8-downloads-2133151.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Software Platform",
@@ -6648,7 +6648,7 @@ export const softwareList: Software[] = [
     "Purpose":"Base package for Java runtimes",
     "License Type ":"Free",
     "Link":"https:\/\/java.com\/en\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Software Service ",
@@ -6656,7 +6656,7 @@ export const softwareList: Software[] = [
     "Purpose":"Checks for software updates and automatically downloads and install ",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/about\/products\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Sotware API SDK",
@@ -6664,7 +6664,7 @@ export const softwareList: Software[] = [
     "Purpose":"Registry entry that runs on each Windows boot for all user logins",
     "License Type ":"Free",
     "Link":"https:\/\/www.dolby.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Sotware Service ",
@@ -6672,7 +6672,7 @@ export const softwareList: Software[] = [
     "Purpose":"Keeps Google based software up to date",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.co.in\/chrome\/index.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Sync tool",
@@ -6680,7 +6680,7 @@ export const softwareList: Software[] = [
     "Purpose":"Syncing to team drive",
     "License Type ":"Free",
     "Link":"https:\/\/rclone.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Terminal Program",
@@ -6688,7 +6688,7 @@ export const softwareList: Software[] = [
     "Purpose":"Terminal",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/Guake\/guake",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Terminal Program",
@@ -6696,7 +6696,7 @@ export const softwareList: Software[] = [
     "Purpose":"Terminal for Mac",
     "License Type ":"Free",
     "Link":"https:\/\/www.iterm2.com\/downloads.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Terminal Program",
@@ -6704,7 +6704,7 @@ export const softwareList: Software[] = [
     "Purpose":"Terminal for Mac",
     "License Type ":"Free",
     "Link":"https:\/\/iterm2.com\/downloads\/stable\/latest",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Terminal Program",
@@ -6712,7 +6712,7 @@ export const softwareList: Software[] = [
     "Purpose":"Terminal Program",
     "License Type ":"Free",
     "Link":"https:\/\/gist.github.com\/bewest\/4632563",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Testing Tool",
@@ -6720,7 +6720,7 @@ export const softwareList: Software[] = [
     "Purpose":"Performing automated tests",
     "License Type ":"Free",
     "Link":"https:\/\/www.katalon.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Text Editor",
@@ -6728,7 +6728,7 @@ export const softwareList: Software[] = [
     "Purpose":"Editing text also used for source code edit",
     "License Type ":"Free",
     "Link":"https:\/\/notepad-plus-plus.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Text Editor",
@@ -6736,7 +6736,7 @@ export const softwareList: Software[] = [
     "Purpose":"Source code editor and Notepad replacement",
     "License Type ":"Free",
     "Link":"https:\/\/notepadqq.com\/s\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Text Editor",
@@ -6744,7 +6744,7 @@ export const softwareList: Software[] = [
     "Purpose":"Editing text also used for source code edit",
     "License Type ":"Free",
     "Link":"https:\/\/www.sublimetext.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Text Editor",
@@ -6752,7 +6752,7 @@ export const softwareList: Software[] = [
     "Purpose":"Sublime Text 2        ",
     "License Type ":"Free",
     "Link":"https:\/\/www.sublimetext.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Text Editor",
@@ -6760,7 +6760,7 @@ export const softwareList: Software[] = [
     "Purpose":"EDI file reader",
     "License Type ":"Free",
     "Link":"my ",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Text Editor",
@@ -6768,7 +6768,7 @@ export const softwareList: Software[] = [
     "Purpose":"Text Editor",
     "License Type ":"Free",
     "Link":"https:\/\/www.emeditor.com\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6776,7 +6776,7 @@ export const softwareList: Software[] = [
     "Purpose":"Used to view multimedia content",
     "License Type ":"Free",
     "Link":"https:\/\/www.adobe.com\/products\/flashplayer.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6784,7 +6784,7 @@ export const softwareList: Software[] = [
     "Purpose":"Launch adobe softwares on boot through a Windows Schedule Task ",
     "License Type ":"Free",
     "Link":"https:\/\/www.adobe.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6792,7 +6792,7 @@ export const softwareList: Software[] = [
     "Purpose":"Software plug-in for viewing multimedia and video games in web pages",
     "License Type ":"Free",
     "Link":"https:\/\/www.adobe.com\/products\/shockwaveplayer.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6800,7 +6800,7 @@ export const softwareList: Software[] = [
     "Purpose":"Input method editor to enter text in any of the supported languages",
     "License Type ":"Free",
     "Link":"https:\/\/www.google.com\/inputtools\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6808,7 +6808,7 @@ export const softwareList: Software[] = [
     "Purpose":"needed for web browser (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/get.adobe.com\/flashplayer\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6816,7 +6816,7 @@ export const softwareList: Software[] = [
     "Purpose":"Needed as offline dictionary for English words (Ubuntu)",
     "License Type ":"Free",
     "Link":"http:\/\/artha.sourceforge.net\/wiki\/index.php\/Download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6824,7 +6824,7 @@ export const softwareList: Software[] = [
     "Purpose":"Music Player (Ubuntu)",
     "License Type ":"Free",
     "Link":"http:\/\/banshee.fm\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6832,7 +6832,7 @@ export const softwareList: Software[] = [
     "Purpose":"Music Player (Ubuntu)",
     "License Type ":"Free",
     "Link":"http:\/\/banshee.fm\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6840,7 +6840,7 @@ export const softwareList: Software[] = [
     "Purpose":"https:\/\/adoptopenjdk.net\/",
     "License Type ":"Free",
     "Link":"https:\/\/www.clementine-player.org\/downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6848,7 +6848,7 @@ export const softwareList: Software[] = [
     "Purpose":"Music Player (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/www.spotify.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6856,7 +6856,7 @@ export const softwareList: Software[] = [
     "Purpose":"disk encryption (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/trusty\/admin\/cryptsetup",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6864,7 +6864,7 @@ export const softwareList: Software[] = [
     "Purpose":"disk encryption (Ubuntu)",
     "License Type ":"Free",
     "Link":"https:\/\/packages.ubuntu.com\/trusty\/admin\/cryptsetup",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6872,7 +6872,7 @@ export const softwareList: Software[] = [
     "Purpose":"Audio editor.",
     "License Type ":"Free",
     "Link":"https:\/\/www.audacityteam.org\/download\/linux\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6880,7 +6880,7 @@ export const softwareList: Software[] = [
     "Purpose":"Audio editor.",
     "License Type ":"Free",
     "Link":"https:\/\/www.audacityteam.org\/download\/linux\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6888,7 +6888,7 @@ export const softwareList: Software[] = [
     "Purpose":"Same as windows paint, a small image editing tool",
     "License Type ":"Free",
     "Link":"http:\/\/kolourpaint.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6896,7 +6896,7 @@ export const softwareList: Software[] = [
     "Purpose":"detect and help debug memory corruptions and critical security vulnerabilities",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=20028",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6904,7 +6904,7 @@ export const softwareList: Software[] = [
     "Purpose":"free multi-purpose color picker",
     "License Type ":"Free",
     "Link":"http:\/\/colorcop.net\/license\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6912,7 +6912,7 @@ export const softwareList: Software[] = [
     "Purpose":"English thesaurus",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/hunspell\/mythes",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -6920,7 +6920,7 @@ export const softwareList: Software[] = [
     "Purpose":"Font for Nepali language",
     "License Type ":"Free",
     "Link":"https:\/\/download.com.np\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Virtualization",
@@ -6928,7 +6928,7 @@ export const softwareList: Software[] = [
     "Purpose":"For virtual machines",
     "License Type ":"Free",
     "Link":"https:\/\/my.vmware.com\/en\/web\/vmware\/evalcenter?p=free-esxi6",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Vulnaribility Scanner",
@@ -6936,7 +6936,7 @@ export const softwareList: Software[] = [
     "Purpose":"Web vulnerability scanner",
     "License Type ":"Licensed",
     "Link":"https:\/\/portswigger.net\/burp",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Web based Development platform",
@@ -6944,7 +6944,7 @@ export const softwareList: Software[] = [
     "Purpose":"Apache distribution containing MariaDB, PHP, and Perl",
     "License Type ":"Free",
     "Link":"https:\/\/www.apachefriends.org\/index.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Web based Development platform",
@@ -6952,7 +6952,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by XAMPP in mac",
     "License Type ":"Free",
     "Link":"https:\/\/www.apachefriends.org\/index.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Web based Development platform",
@@ -6960,7 +6960,7 @@ export const softwareList: Software[] = [
     "Purpose":"Implements Java Servlet, JavaServer Pages (JSP)",
     "License Type ":"Free",
     "Link":"http:\/\/tomcat.apache.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Web based Development platform",
@@ -6968,7 +6968,7 @@ export const softwareList: Software[] = [
     "Purpose":"Software to develop and maintain an open-source HTTP server",
     "License Type ":"Free",
     "Link":"https:\/\/httpd.apache.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Web based Development platform",
@@ -6976,7 +6976,7 @@ export const softwareList: Software[] = [
     "Purpose":"Required for web deployment of  ASP.NET applications ",
     "License Type ":"Free",
     "Link":"https:\/\/www.iis.net\/downloads\/microsoft\/web-deploy",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Web based Development platform",
@@ -6984,7 +6984,7 @@ export const softwareList: Software[] = [
     "Purpose":"Microsoft's web server",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=48264",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Web based Development platform",
@@ -6992,7 +6992,7 @@ export const softwareList: Software[] = [
     "Purpose":"For adding Web Deploy component for IIS.",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/web\/downloads\/platform.aspx",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Web based Development platform",
@@ -7000,7 +7000,7 @@ export const softwareList: Software[] = [
     "Purpose":"Local webserver",
     "License Type ":"Free",
     "Link":"https:\/\/www.mamp.info\/en\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Web based Service",
@@ -7008,7 +7008,7 @@ export const softwareList: Software[] = [
     "Purpose":"Web based password management service ",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.lastpass.com\/business-password-manager",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Web Development platform",
@@ -7016,7 +7016,7 @@ export const softwareList: Software[] = [
     "Purpose":"Software stack to create web applications",
     "License Type ":"Free",
     "Link":"http:\/\/www.wampserver.com\/en\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"WebDriver and Remote Control",
@@ -7024,7 +7024,7 @@ export const softwareList: Software[] = [
     "Purpose":"Selenium automates browsers",
     "License Type ":"Free",
     "Link":"https:\/\/www.seleniumhq.org\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7032,7 +7032,7 @@ export const softwareList: Software[] = [
     "Purpose":"Operating System",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.microsoft.com\/en-gb\/evalcenter\/evaluate-windows-10-enterprise",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7040,7 +7040,7 @@ export const softwareList: Software[] = [
     "Purpose":"Operating System",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.microsoft.com\/en-in\/evalcenter\/evaluate-windows-server-2016",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7048,7 +7048,7 @@ export const softwareList: Software[] = [
     "Purpose":"Mircrosoft Office installer",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.microsoft.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7056,7 +7056,7 @@ export const softwareList: Software[] = [
     "Purpose":"Microsoft update patch",
     "License Type ":"Free",
     "Link":"https:\/\/support.microsoft.com\/en-us\/help\/3159635\/windows-10-update-assistant",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7064,7 +7064,7 @@ export const softwareList: Software[] = [
     "Purpose":"Mircosoft periodic patches and updates",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.microsoft.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7072,7 +7072,7 @@ export const softwareList: Software[] = [
     "Purpose":"Windows 10 update assistant",
     "License Type ":"Free",
     "Link":"https:\/\/support.microsoft.com\/en-us\/help\/3159635\/windows-10-update-assistant",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7080,7 +7080,7 @@ export const softwareList: Software[] = [
     "Purpose":"Windows updates",
     "License Type ":"Free",
     "Link":"https:\/\/support.microsoft.com\/en-us\/help\/3159635\/windows-10-update-assistant",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7088,7 +7088,7 @@ export const softwareList: Software[] = [
     "Purpose":"Software development kits (SDKs) from Microsoft",
     "License Type ":"Free",
     "Link":"https:\/\/developer.microsoft.com\/en-us\/windows\/downloads\/windows-10-sdk",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7096,7 +7096,7 @@ export const softwareList: Software[] = [
     "Purpose":"Offline help system (local help) developed by Microsoft",
     "License Type ":"Free",
     "Link":"https:\/\/docs.microsoft.com\/en-us\/visualstudio\/ide\/microsoft-help-viewer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7104,7 +7104,7 @@ export const softwareList: Software[] = [
     "Purpose":"Microsoft implementation of the Message Passing Interface standard",
     "License Type ":"Free",
     "Link":"https:\/\/docs.microsoft.com\/en-us\/message-passing-interface\/microsoft-mpi",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7112,7 +7112,7 @@ export const softwareList: Software[] = [
     "Purpose":"Crash reporting technology by Microsoft",
     "License Type ":"Free",
     "Link":"https:\/\/social.microsoft.com\/Forums\/en-US\/268910ec-9107-4c89-bb2a-7ded1b6a9ad6\/install-microsoft-application-error-reporting-tool?forum=crmdeployment",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7120,7 +7120,7 @@ export const softwareList: Software[] = [
     "Purpose":"Targeting Pack for Microsoft .NET Framework",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=27757",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7128,7 +7128,7 @@ export const softwareList: Software[] = [
     "Purpose":"Framework for building service-oriented applications by Microsoft",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=21459",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7136,7 +7136,7 @@ export const softwareList: Software[] = [
     "Purpose":"Essential tools for building managed applications.",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=48159",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7144,7 +7144,7 @@ export const softwareList: Software[] = [
     "Purpose":"provides the latest headers, libraries, metadata, and tools for building Windows 10 apps",
     "License Type ":"Free",
     "Link":"https:\/\/developer.microsoft.com\/en-us\/windows\/downloads\/windows-10-sdk",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7152,7 +7152,7 @@ export const softwareList: Software[] = [
     "Purpose":"enabling collaboration and offline scenarios for applications, services and devices",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=17616",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7160,7 +7160,7 @@ export const softwareList: Software[] = [
     "Purpose":"test your app for Windows",
     "License Type ":"Free",
     "Link":"https:\/\/developer.microsoft.com\/en-us\/windows\/develop\/app-certification-kit",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7168,7 +7168,7 @@ export const softwareList: Software[] = [
     "Purpose":"provides the latest headers, libraries, metadata, and tools for building Windows 10 apps",
     "License Type ":"Free",
     "Link":"https:\/\/developer.microsoft.com\/en-us\/windows\/downloads\/windows-10-sdk",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7176,7 +7176,7 @@ export const softwareList: Software[] = [
     "Purpose":"provides the latest headers, libraries, metadata, and tools for building Windows 10 apps",
     "License Type ":"Free",
     "Link":"https:\/\/developer.microsoft.com\/en-us\/windows\/downloads\/windows-10-sdk",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7184,7 +7184,7 @@ export const softwareList: Software[] = [
     "Purpose":"command line tool that can use to deploy a Universal Windows Platform (UWP) app from a Windows 10 PC",
     "License Type ":"Free",
     "Link":"https:\/\/winappdeploy.updatestar.com\/en",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Operating System",
@@ -7192,7 +7192,7 @@ export const softwareList: Software[] = [
     "Purpose":"WebPI provides a simplified installation workflow for installing common open source web applications and web platform technologies",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/web\/downloads\/platform.aspx",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7200,7 +7200,7 @@ export const softwareList: Software[] = [
     "Purpose":"For check printing",
     "License Type ":"Free",
     "Link":"https:\/\/en.freedownloadmanager.org\/Windows-PC\/Chrysanth-Cheque-Writer-FREE.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Printer Driver",
@@ -7208,7 +7208,7 @@ export const softwareList: Software[] = [
     "Purpose":"Printer Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.epson.com.sg\/Support\/Printers\/Dot-Matrix-Printers\/LQ-Series\/Epson-LQ-310\/s\/SPT_C11CC25301?review-filter=Windows+7+32-bit",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7216,7 +7216,7 @@ export const softwareList: Software[] = [
     "Purpose":"browser-based app for managing servers, clusters, hyper-converged infrastructure, and Windows 10 PCs",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/cloud-platform\/windows-admin-center",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7224,7 +7224,7 @@ export const softwareList: Software[] = [
     "Purpose":"remote connection for NVR",
     "License Type ":"Free",
     "Link":"http:\/\/muinintl.com\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7232,7 +7232,7 @@ export const softwareList: Software[] = [
     "Purpose":"package for all 3D artists (installed by adobe)",
     "License Type ":"Free",
     "Link":"https:\/\/www.maxon.net\/en-us\/support\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7240,7 +7240,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7248,7 +7248,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7256,7 +7256,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7264,7 +7264,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7272,7 +7272,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7280,7 +7280,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7288,7 +7288,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7296,7 +7296,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7304,7 +7304,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7312,7 +7312,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7320,7 +7320,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7328,7 +7328,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7336,7 +7336,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7344,7 +7344,7 @@ export const softwareList: Software[] = [
     "Purpose":"installed by adobe",
     "License Type ":"Free",
     "Link":"https:\/\/www.cdw.com\/product\/Adobe-Acrobat-Standard-DC-Team-Licensing-Subscription-New-1-year-1-us\/3555347?RecommendedForEDC=4668011&RecoType=RP&cm_sp=Product-_-Session&ProgramIdentifier=3#PO",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Management application",
@@ -7352,7 +7352,7 @@ export const softwareList: Software[] = [
     "Purpose":"Command-line tool to manage ruby environments",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/rvm\/ubuntu_rvm",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Management application",
@@ -7360,7 +7360,7 @@ export const softwareList: Software[] = [
     "Purpose":"Manages an application's dependencies through its entire life.",
     "License Type ":"Free",
     "Link":"https:\/\/rubygems.org\/gems\/bundler\/versions\/2.0.2",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"CCTV Camera Software ",
@@ -7368,7 +7368,7 @@ export const softwareList: Software[] = [
     "Purpose":"For CCTV streaming and storing videos",
     "License Type ":"Free",
     "Link":"https:\/\/www.unifore.net\/analog-surveillance\/xmeye-for-windows-mac-pc-software-vms.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"CCTV Camera Software ",
@@ -7376,7 +7376,7 @@ export const softwareList: Software[] = [
     "Purpose":"For CCTV streaming and storing videos",
     "License Type ":"Free",
     "Link":"https:\/\/www.unifore.net\/analog-surveillance\/xmeye-for-windows-mac-pc-software-vms.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7384,7 +7384,7 @@ export const softwareList: Software[] = [
     "Purpose":"Data Loss Prevention (DLP) tool",
     "License Type ":"Licensed",
     "Link":"https:\/\/support.forcepoint.com\/Login?startURL=%2FDownloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7392,7 +7392,7 @@ export const softwareList: Software[] = [
     "Purpose":"Data Loss Prevention (DLP) tool",
     "License Type ":"Licensed",
     "Link":"https:\/\/support.forcepoint.com\/Login?startURL=%2FDownloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7400,7 +7400,7 @@ export const softwareList: Software[] = [
     "Purpose":"Data Loss Prevention (DLP) tool",
     "License Type ":"Licensed",
     "Link":"https:\/\/support.forcepoint.com\/Login?startURL=%2FDownloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database ",
@@ -7408,7 +7408,7 @@ export const softwareList: Software[] = [
     "Purpose":"in-memory data structure store",
     "License Type ":"Free",
     "Link":"dbforge-sq-decrypter-3.1.24-installer_I0-B5J1.exe",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Angular",
@@ -7416,7 +7416,7 @@ export const softwareList: Software[] = [
     "Purpose":"an app-design framework and development platform",
     "License Type ":"Free",
     "Link":"https:\/\/angular.io\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"IDE",
@@ -7424,7 +7424,7 @@ export const softwareList: Software[] = [
     "Purpose":"All-in-One Java Troubleshooting Tool",
     "License Type ":"Free",
     "Link":"https:\/\/visualvm.github.io\/download.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Webex Client",
@@ -7432,7 +7432,7 @@ export const softwareList: Software[] = [
     "Purpose":"Call with Comcast",
     "License Type ":"Free",
     "Link":"https:\/\/conferencebridge.comcast.com\/webexclients\/VoIP-Client-Mac-1.3.pkg.zip",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Extension",
@@ -7440,7 +7440,7 @@ export const softwareList: Software[] = [
     "Purpose":"Extension to block ads",
     "License Type ":"Free",
     "Link":"https:\/\/chrome.google.com\/webstore\/detail\/adblock-plus-free-ad-bloc\/cfhdojbkjhnklbpkdaibdccddilifddb",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Network",
@@ -7448,7 +7448,7 @@ export const softwareList: Software[] = [
     "Purpose":"Central log server",
     "License Type ":"Licensed",
     "Link":"https:\/\/cybersecurity.att.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Project Management",
@@ -7456,7 +7456,7 @@ export const softwareList: Software[] = [
     "Purpose":"Project Management Tool",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.projectwizards.net\/en",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database ",
@@ -7472,7 +7472,7 @@ export const softwareList: Software[] = [
     "Purpose":"Java application profiling tool",
     "License Type ":"Free",
     "Link":"https:\/\/www.ej-technologies.com\/download\/jprofiler\/files",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7488,7 +7488,7 @@ export const softwareList: Software[] = [
     "Purpose":"build configuration profiles using GUI",
     "License Type ":"Free",
     "Link":"https:\/\/apps.apple.com\/us\/app\/apple-configurator-2\/id1037126344?mt=12",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Medicare",
@@ -7496,7 +7496,7 @@ export const softwareList: Software[] = [
     "Purpose":"compare the DRG-classification by SE-feature",
     "License Type ":"Free",
     "Link":"https:\/\/www.cms.gov\/files\/zip\/ms-drg-grouper-mce-v38-0-r1-icd-10-pc-software.zip",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Medicare",
@@ -7504,7 +7504,7 @@ export const softwareList: Software[] = [
     "Purpose":"Allows to predict reimbursement to a renal dialysis facility",
     "License Type ":"Free",
     "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer\/ESRD_Pricer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Medicare",
@@ -7512,7 +7512,7 @@ export const softwareList: Software[] = [
     "Purpose":"Medicare pricer",
     "License Type ":"Free",
     "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Medicare",
@@ -7520,7 +7520,7 @@ export const softwareList: Software[] = [
     "Purpose":"Medicare pricer",
     "License Type ":"Free",
     "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Medicare",
@@ -7528,7 +7528,7 @@ export const softwareList: Software[] = [
     "Purpose":"Medicare pricer",
     "License Type ":"Free",
     "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Medicare",
@@ -7536,7 +7536,7 @@ export const softwareList: Software[] = [
     "Purpose":"Medicare pricer",
     "License Type ":"Free",
     "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Medicare",
@@ -7544,7 +7544,7 @@ export const softwareList: Software[] = [
     "Purpose":"Medicare pricer",
     "License Type ":"Free",
     "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Medicare",
@@ -7552,7 +7552,7 @@ export const softwareList: Software[] = [
     "Purpose":"Medicare pricer",
     "License Type ":"Free",
     "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Medicare",
@@ -7560,7 +7560,7 @@ export const softwareList: Software[] = [
     "Purpose":"Medicare pricer",
     "License Type ":"Free",
     "Link":"https:\/\/www.cms.gov\/Medicare\/Medicare-Fee-for-Service-Payment\/PCPricer",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -7568,7 +7568,7 @@ export const softwareList: Software[] = [
     "Purpose":"Secure connection",
     "License Type ":"Free",
     "Link":"https:\/\/filestore.fortinet.com\/forticlient\/downloads\/FortiClientVPNOnlineInstaller_6.4.dmg",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Testing Tool",
@@ -7582,9 +7582,9 @@ export const softwareList: Software[] = [
     "Type":"VPN",
     "Name":"Perimeter 81",
     "Purpose":"VPN client",
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -7616,7 +7616,7 @@ export const softwareList: Software[] = [
     "Purpose":"It is a GUI for connecting to the MongoDB. The MongoDB Compass allows you to make smarter decisions about document structure, querying, indexing, document validation, and more.\u00a0",
     "License Type ":"Free",
     "Link":"https:\/\/www.mongodb.com\/try\/download\/compass",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -7632,7 +7632,7 @@ export const softwareList: Software[] = [
     "Purpose":"Silverlight is a powerful development tool for creating engaging, interactive user experiences for Web and mobile applications. Silverlight is a free plug-in, powered by the .NET framework and compatible with multiple browsers, devices and operating systems, bringing a new level of interactivity wherever the Web works. Project Field will use Internet Explorer so this is a must.",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/Silverlight\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"EDI toolkit",
@@ -7640,7 +7640,7 @@ export const softwareList: Software[] = [
     "Purpose":"EDI parser and constructor",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.edidev.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Reporting Tool",
@@ -7648,7 +7648,7 @@ export const softwareList: Software[] = [
     "Purpose":"Used in Project Valley",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.crystalreports.com\/reports\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Reporting Tool",
@@ -7656,7 +7656,7 @@ export const softwareList: Software[] = [
     "Purpose":"Used in Project Valley",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.crystalreports.com\/reports\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Reporting Tool",
@@ -7664,7 +7664,7 @@ export const softwareList: Software[] = [
     "Purpose":"Used in Project Valley",
     "License Type ":"Licensed",
     "Link":"One drive location",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Driver",
@@ -7672,7 +7672,7 @@ export const softwareList: Software[] = [
     "Purpose":"Dell Driver",
     "License Type ":"Free",
     "Link":"https:\/\/www.dell.com\/support\/home\/us\/en\/04\/drivers\/driversdetails?driverid=1jw07",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"VPN",
@@ -7680,15 +7680,15 @@ export const softwareList: Software[] = [
     "Purpose":"To connect to office network",
     "License Type ":"Free",
     "Link":"https:\/\/docs.paloaltonetworks.com\/globalprotect\/4-1\/globalprotect-app-user-guide\/globalprotect-app-for-windows\/download-and-install-the-globalprotect-app-for-windows.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
     "Name":"Microsoft Document Explorer 2008",
     "Purpose":"This is installed by Visual Studio 2008. It's the help viewer used with Visual Studio 2008.",
     "License Type ":"Free",
-    "Link":null,
-    "Remarks":null
+    "Link":" ",
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7696,7 +7696,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio. Microsoft Sync Framework is a comprehensive synchronization platform for enabling collaboration and offline scenarios for applications, services and devices.",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=17616",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7704,7 +7704,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio. Used for developing applications that integrate with TFS 2010.",
     "License Type ":"Free",
     "Link":"https:\/\/marketplace.visualstudio.com\/items?itemName=EdH-MSFT.TeamFoundationServer2010SP1ObjectModelInstaller",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7712,7 +7712,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed with Visual Studio 2019. Used to harden, protect, and prune desktop, mobile, server, and embedded applications to help secure trade secrets and other intellectual property (IP), reduce piracy and counterfeiting, and protect against tampering and unauthorized debugging.",
     "License Type ":"Free",
     "Link":"https:\/\/www.preemptive.com\/products\/dotfuscator\/downloads",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7720,15 +7720,15 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Visual Studio. The WCF RIA Services is a framework that provides a pattern to write application logic that runs on the mid-tier and controls access to data for queries, changes and custom.",
     "License Type ":"Free",
     "Link":"https:\/\/www.shouldiremoveit.com\/WCF-RIA-Services-V-SP2-11010-program.aspx",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
     "Name":"Windows Phone 8.1 Emulators - ENU",
     "Purpose":"This is installed by Visual Studio. The Windows Phone 8.1 Emulators package provides emulator images for use with Visual Studio 2013 Update 2 or later.",
     "License Type ":"Free",
-    "Link":null,
-    "Remarks":null
+    "Link":" ",
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7736,7 +7736,7 @@ export const softwareList: Software[] = [
     "Purpose":"Installed by Lenovo. Lenovo Quick Clean application allows healthcare professionals to lock keyboard and mouse input so the laptop keyboard can be wiped down to sanitize the device. This is provided by default in the Lenovo laptop.This package updates the Lenovo Quick Clean application to fix problems, add new functions, or expand function.",
     "License Type ":"Free",
     "Link":"https:\/\/support.lenovo.com\/np\/en\/downloads\/ds540666-lenovo-quick-clean-for-windows-10-thinkpad",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7744,7 +7744,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provide .NET developers with support for typed XML programming on top of LINQ to XML.",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-pk\/download\/search.aspx?q=visual+studio&p=2&r=10&t=1185&s=Relevancy%7EDescending&first=851",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Open Source",
@@ -7752,7 +7752,7 @@ export const softwareList: Software[] = [
     "Purpose":"This package provides a set of analysis plugins for use with setroubleshoot. Each plugin has the capacity to analyze SELinux AVC data and system data to provide user friendly reports describing how to interpret SELinux AVC denials.",
     "License Type ":"Free",
     "Link":"Centos Base Repo",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Open Source",
@@ -7760,7 +7760,7 @@ export const softwareList: Software[] = [
     "Purpose":"Provides tools to help diagnose SELinux problems. When AVC messages are generated an alert can be generated that will give information about the problem and help track its resolution. Alerts can be configured to user preference. The same tools can be run on existing log files.",
     "License Type ":"Free",
     "Link":"Centos Base Repo",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Open Source",
@@ -7768,7 +7768,7 @@ export const softwareList: Software[] = [
     "Purpose":"AIDE (Advanced Intrusion Detection Environment) is a file integrity checker and intrusion detection program.",
     "License Type ":"Free",
     "Link":"Centos Base Repo",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Open Source",
@@ -7776,7 +7776,7 @@ export const softwareList: Software[] = [
     "Purpose":"Telnet is a popular protocol for logging into remote systems over the Internet. The package provides a command line Telnet client",
     "License Type ":"Free",
     "Link":"Centos Base Repo",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Propriotory",
@@ -7784,7 +7784,7 @@ export const softwareList: Software[] = [
     "Purpose":"AWS Systems Manager Agent (SSM Agent) is Amazon software that can be installed and configured on an EC2 instance, an on-premises server, or a virtual machine (VM). SSM Agent makes it possible for Systems Manager to update, manage, and configure these resources. The agent processes requests from the Systems Manager service in the AWS Cloud, and then runs them as specified in the request. SSM Agent then sends status and execution information back to the Systems Manager service by using the Amazon Message Delivery Service (service prefix: ec2messages).",
     "License Type ":"Free",
     "Link":"https:\/\/docs.aws.amazon.com\/systems-manager\/latest\/userguide\/sysman-manual-agent-install.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Propriotory",
@@ -7792,7 +7792,7 @@ export const softwareList: Software[] = [
     "Purpose":"Infrastructure Monitoring in New Relic provides deep visibility into your entire estate, in one place. Capture your hosts' health and performance along with the services, containers, and resources into your overall monitoring needs. This will provide the richest set of metrics, events, logs, and configuration changes for application troubleshooting context. With New Relic, you get observability to tame the complexity of operating your entire infrastructure.",
     "License Type ":"Licensed",
     "Link":"https:\/\/docs.newrelic.com\/docs\/using-new-relic\/cross-product-functions\/install-configure\/install-new-relic\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Propriotory",
@@ -7800,7 +7800,7 @@ export const softwareList: Software[] = [
     "Purpose":"The CloudHealth Linux Agent allows us to collect instance-level metrics.",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/CloudHealth\/agent-install-helpers",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Propriotory",
@@ -7808,7 +7808,7 @@ export const softwareList: Software[] = [
     "Purpose":"Metricbeat comes with internal modules that collect metrics from services like Apache, Jolokia, NGINX, MongoDB, MySQL, PostgreSQL, Prometheus, and more. Installation is easy, requiring absolutely zero dependencies. Just enable the modules you want in the configuration file.",
     "License Type ":"Free",
     "Link":"https:\/\/www.elastic.co\/downloads\/beats\/metricbeat",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Open Source",
@@ -7816,7 +7816,7 @@ export const softwareList: Software[] = [
     "Purpose":"Elasticsearch is the distributed, RESTful search and analytics engine at the heart of the Elastic Stack. You can use Elasticsearch to store, search, and manage data for: Logs, Metrics, A search backend, Application monitoring, Endpoint security and more!",
     "License Type ":"Free",
     "Link":"https:\/\/www.elastic.co\/downloads\/elasticsearch",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Open Source",
@@ -7824,7 +7824,7 @@ export const softwareList: Software[] = [
     "Purpose":"JavaScript interpreter and libraries",
     "License Type ":"Free",
     "Link":"Centos Base Repo",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"SaaS, Data analytical tool",
@@ -7832,7 +7832,7 @@ export const softwareList: Software[] = [
     "Purpose":"Tableau report validation for ISAAC data refresh",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.tableau.com\/products\/desktop\/download",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7848,7 +7848,7 @@ export const softwareList: Software[] = [
     "Purpose":"AD migration",
     "License Type ":"Free",
     "Link":"https:\/\/www.forensit.com\/Downloads\/Profwiz.msi",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7856,7 +7856,7 @@ export const softwareList: Software[] = [
     "Purpose":"This is a text-based runner for listing and running tests from the command line.",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/nunit\/nunit-console\/releases",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7864,7 +7864,7 @@ export const softwareList: Software[] = [
     "Purpose":"For decrypting database objects.",
     "License Type ":"Free",
     "Link":"https:\/\/www.devart.com\/dbforge\/sql\/sqldecryptor\/download.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7872,7 +7872,7 @@ export const softwareList: Software[] = [
     "Purpose":"The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters.",
     "License Type ":"Free",
     "Link":"https:\/\/docs.aws.amazon.com\/eks\/latest\/userguide\/install-kubectl.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7880,7 +7880,7 @@ export const softwareList: Software[] = [
     "Purpose":"CLI tool for creating and managing clusters on EKS - Amazon's managed Kubernetes service for EC2",
     "License Type ":"Free",
     "Link":"https:\/\/docs.aws.amazon.com\/eks\/latest\/userguide\/eksctl.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7888,7 +7888,7 @@ export const softwareList: Software[] = [
     "Purpose":"Infrastructure as code",
     "License Type ":"Free",
     "Link":"https:\/\/learn.hashicorp.com\/tutorials\/terraform\/install-cli",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7896,7 +7896,7 @@ export const softwareList: Software[] = [
     "Purpose":"Package manager for Kubernetes",
     "License Type ":"Free",
     "Link":"https:\/\/www.eksworkshop.com\/beginner\/060_helm\/helm_intro\/install\/index.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7904,7 +7904,7 @@ export const softwareList: Software[] = [
     "Purpose":"Doxygen is the de facto standard tool for generating documentation from annotated C++ sources, but it also supports other popular programming languages such as C, Objective-C, C#",
     "License Type ":"Free",
     "Link":"https:\/\/www.doxygen.nl\/files\/doxygen-1.9.2-setup.exe",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7912,7 +7912,7 @@ export const softwareList: Software[] = [
     "Purpose":"Graphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks.",
     "License Type ":"Free",
     "Link":"https:\/\/gitlab.com\/api\/v4\/projects\/4207231\/packages\/generic\/graphviz-releases\/2.49.0\/stable_windows_10_cmake_Release_x64_graphviz-install-2.49.0-win64.exe",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Database",
@@ -7920,7 +7920,7 @@ export const softwareList: Software[] = [
     "Purpose":"It is used as a database.",
     "License Type ":"Free",
     "Link":"https:\/\/ravendb.net",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7928,7 +7928,7 @@ export const softwareList: Software[] = [
     "Purpose":"This is a free program that lets you make self-extracting archives under Windows (x86 & x64) platform.",
     "License Type ":"Free",
     "Link":"Make SFX (Self-extracting archive) (revocue.cz)",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7936,7 +7936,7 @@ export const softwareList: Software[] = [
     "Purpose":"InstallShield is a software tool for creating installers or software packages.",
     "License Type ":"Trial",
     "Link":"https:\/\/info.revenera.com\/is-eval-installshield-professional?lead_source=Website%20Visitor&id=Revenera.com",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7944,7 +7944,7 @@ export const softwareList: Software[] = [
     "Purpose":"MS Access is a database management system used for creating business applications.",
     "License Type ":"Free",
     "Link":"https:\/\/drive.google.com\/file\/d\/0B2XHy_G4QwVid1lTME81UzlJcjQ\/view?resourcekey=0-jMkHvjhaMfEs_4Vl6FpE_Q",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7952,7 +7952,7 @@ export const softwareList: Software[] = [
     "Purpose":"a software which you may refer as JDK for java development.",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/graalvm\/graalvm-ce-builds\/releases",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7960,7 +7960,7 @@ export const softwareList: Software[] = [
     "Purpose":"the package installer for window.",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/ScoopInstaller\/Java",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7968,7 +7968,7 @@ export const softwareList: Software[] = [
     "Purpose":"Integrations with CI servers for Agile and DevOps, APM tools for code-level diagnostics, and functional testing tools for end-user experience metrics",
     "License Type ":"Trial",
     "Link":"https:\/\/www.neotys.com\/download-neoload-performance-testing-tool",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7976,7 +7976,7 @@ export const softwareList: Software[] = [
     "Purpose":"screen sharing software",
     "License Type ":"Free",
     "Link":"https:\/\/www.realvnc.com\/en\/connect\/download\/viewer\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7984,7 +7984,7 @@ export const softwareList: Software[] = [
     "Purpose":"CedarGate's internal desktop application to extract claims and charges along with the configurations for Bundle, AP\/AR and Fee schedules from the iClaims Database. ",
     "License Type ":"Licensed",
     "Link":"Cedar Gate",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -7992,7 +7992,7 @@ export const softwareList: Software[] = [
     "Purpose":"For generating reports by fetching data from Microsoft SQL Server database.",
     "License Type ":"Free",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=53613&e6b34bbe-475b-1abd-2c51-b5034bcdd6d2=True",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"PowerShell Module ",
@@ -8000,15 +8000,15 @@ export const softwareList: Software[] = [
     "Purpose":"perform complex actions in SharePoint",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/pnp\/powershell",
-    "Remarks":null
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
+    "Type":" ",
+    "Name":" ",
     "Purpose":"through PowerShell script",
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
     "Type":"Accounting",
@@ -8016,7 +8016,7 @@ export const softwareList: Software[] = [
     "Purpose":"to issue Computerized Invoice",
     "License Type ":"Licensed",
     "Link":"https:\/\/saral-billing.software.informer.com\/8.0\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"VS Code Extension",
@@ -8024,7 +8024,7 @@ export const softwareList: Software[] = [
     "Purpose":"It is used for describing, identifying, and reporting on undesirable patterns in TSQL scripts. This extension provides this functionality within VS Code.",
     "License Type ":"Free",
     "Link":"https:\/\/marketplace.visualstudio.com\/items?itemName=tsqllint.tsqllint&ssr=false#overview",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Dll",
@@ -8032,7 +8032,7 @@ export const softwareList: Software[] = [
     "Purpose":"This is used in CapCheck and Eligilibity manager for encryption",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.cryptosys.net\/api.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Business Intelligence tool",
@@ -8040,7 +8040,7 @@ export const softwareList: Software[] = [
     "Purpose":"create interactive dashboards and reports",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.microsoft.com\/en-us\/download\/details.aspx?id=58494",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility software",
@@ -8048,7 +8048,7 @@ export const softwareList: Software[] = [
     "Purpose":"Network Troubleshooting Tool",
     "License Type ":"Free",
     "Link":"https:\/\/www.pingplotter.com\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Open Source",
@@ -8056,7 +8056,7 @@ export const softwareList: Software[] = [
     "Purpose":"LINQPad is a software utility targeted at .NET Framework and .NET Core development",
     "License Type ":"Free",
     "Link":"https:\/\/www.linqpad.net\/Download.aspx",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility software",
@@ -8064,7 +8064,7 @@ export const softwareList: Software[] = [
     "Purpose":"It develops tools for developers and data professionals and maintains community websites such as SQL Server Central and Simple Talk",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.red-gate.com\/products\/sql-prompt\/trial\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility software",
@@ -8072,7 +8072,7 @@ export const softwareList: Software[] = [
     "Purpose":"KubeClarity is a tool for detection and management of Software Bill Of Materials (SBOM) and vulnerabilities of container images and filesystems. It scans both runtime K8s clusters and CI\/CD pipelines for enhanced software supply chain security.",
     "License Type ":"Free",
     "Link":"https:\/\/github.com\/openclarity\/kubeclarity",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Software",
@@ -8080,7 +8080,7 @@ export const softwareList: Software[] = [
     "Purpose":"HelpNDoc is a Windows-based help authoring tool published by French company IBE Software.",
     "License Type ":"Free",
     "Link":"https:\/\/www.helpndoc.com\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Windows Software",
@@ -8088,7 +8088,7 @@ export const softwareList: Software[] = [
     "Purpose":"Advanced Installer is a Windows installer authoring tool for installing, updating, and configuring your products safely, securely, and reliably.",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.advancedinstaller.com\/download.html",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility",
@@ -8096,7 +8096,7 @@ export const softwareList: Software[] = [
     "Purpose":"Connect Aver camera to endpoint",
     "License Type ":"free",
     "Link":"https:\/\/www.aver.com\/download-center",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Data",
@@ -8104,7 +8104,7 @@ export const softwareList: Software[] = [
     "Purpose":"Alteryx Analytics Automation Platform delivers end-to-end automation of analytics, machine learning, and data science processes",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.alteryx.com\/designer-trial\/free-trial-alteryx",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"MS 365 addon",
@@ -8112,7 +8112,7 @@ export const softwareList: Software[] = [
     "Purpose":"PerfectIt is the leading add-in among professional editors, with thousands of editors around the world using it. PerfectIt locates errors that no spelling or grammar checker can find",
     "License Type ":"Licensed",
     "Link":"https:\/\/appsource.microsoft.com\/en-us\/product\/office\/wa104380773?tab=overview&exp=ubp8",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -8120,7 +8120,7 @@ export const softwareList: Software[] = [
     "Purpose":"Bulk convert your documents in seconds on Windows",
     "License Type ":"Free",
     "Link":"https:\/\/documentconverter.pro\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Monitoring",
@@ -8128,7 +8128,7 @@ export const softwareList: Software[] = [
     "Purpose":"Used by Horovod to distribute the training process",
     "License Type ":"Free",
     "Link":"https:\/\/www.open-mpi.org\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility",
@@ -8136,15 +8136,15 @@ export const softwareList: Software[] = [
     "Purpose":"access to technology for blind and vision impaired people.",
     "License Type ":"Free",
     "Link":"https:\/\/www.nvaccess.org\/download\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility",
     "Name":"Go Lang",
-    "Purpose":null,
+    "Purpose":" ",
     "License Type ":"Free",
     "Link":"https:\/\/go.dev\/dl\/go1.21.0.windows-amd64.msi",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Business Intelligence tool",
@@ -8152,7 +8152,7 @@ export const softwareList: Software[] = [
     "Purpose":"Connect Jira to Power BI and build custom Jira reports easily",
     "License Type ":"Licensed",
     "Link":"https:\/\/marketplace.atlassian.com\/apps\/1221150\/power-bi-connector-for-jira?tab=overview&hosting=cloud&utm_source=google&utm_medium=cpc&utm_campaign=sn_pbi_jira_other&utm_vendorID=1216274&utm_term=jira%20power%20bi%20connector&hsa_acc=5924481196&hsa_cam=17867500517&hsa_grp=139060449283&hsa_ad=628724164541&hsa_src=g&hsa_tgt=kwd-859082026971&hsa_kw=jira%20power%20bi%20connector&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad=1&gclid=Cj0KCQiAuqKqBhDxARIsAFZELmIROsuW9is52SwmiaPDVwc45hLfMWfW3DXSzW7lRvKxOVW9rQZuZyAaAljhEALw_wcB",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Basic Mac Software",
@@ -8160,7 +8160,7 @@ export const softwareList: Software[] = [
     "Purpose":"Store data in flexible documents and develop applications designed to adapt and scale, backed by Atlas, a fully managed platform with always-on security and an ecosystem of tools and integrations.",
     "License Type ":"Free",
     "Link":"https:\/\/www.mongodb.com\/docs\/v4.4\/mongo\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility Software",
@@ -8168,7 +8168,7 @@ export const softwareList: Software[] = [
     "Purpose":"The ACG\u00ae System has been used in commercial and research settings worldwide, longer and more extensively than any other system on the market today. The software component is tried and true, continuously undergoing improvements and modifications in response to user needs.",
     "License Type ":"Licensed",
     "Link":"https:\/\/www.hopkinsacg.org\/document\/download-v13\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Productivity",
@@ -8176,7 +8176,7 @@ export const softwareList: Software[] = [
     "Purpose":"DAX Studio is a free, open-source tool that helps in the authoring of DAX queries in Power BI and Power BI Report Builder and helps in DAX query profiling and performance analysis.It is governed by the Microsoft Reciprocal License (License | DAX Studio). The tool was created by Darren Gosbell (https:\/\/darren.gosbell.com\/about\/) and later donated to the public domain. The open source code is available at https:\/\/github.com\/daxstudio\/daxstudio.",
     "License Type ":"Free",
     "Link":"https:\/\/daxstudio.org\/downloads\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility",
@@ -8184,7 +8184,7 @@ export const softwareList: Software[] = [
     "Purpose":"As a part of Analytics EA accessibility audit and changes, we are required to test the color contrast accessibility changes using tool 'Colour Contrast Analyzer'",
     "License Type ":"Free",
     "Link":"https:\/\/www.tpgi.com\/color-contrast-checker",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"VPN",
@@ -8192,7 +8192,7 @@ export const softwareList: Software[] = [
     "Purpose":"SonicWall VPN Clients provide your employees safe, easy access to the data they need from any device",
     "License Type ":"Free",
     "Link":"https:\/\/www.sonicwall.com\/products\/remote-access\/vpn-clients\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Development Tool",
@@ -8200,7 +8200,7 @@ export const softwareList: Software[] = [
     "Purpose":"GoLand is a powerful platform with many features designed specifically for Go developers.",
     "License Type ":"Free",
     "Link":"https:\/\/www.jetbrains.com\/go\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Remote Connection",
@@ -8208,7 +8208,7 @@ export const softwareList: Software[] = [
     "Purpose":"The SecureLink Connection Manager is a software tool designed to facilitate secure remote access to client systems and networks. ",
     "License Type ":"Free",
     "Link":"https:\/\/SecureLink.Trinity-Health.org",
-    "Remarks":null
+    "Remarks":" "
   },
   {
     "Type":"Utility",
@@ -8216,591 +8216,591 @@ export const softwareList: Software[] = [
     "Purpose":"image viewer, editor, organiser and converter program for Microsoft Windows",
     "License Type ":"Free",
     "Link":"https:\/\/www.irfanview.com\/",
-    "Remarks":null
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   },
   {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
-  },
-  {
-    "Type":null,
-    "Name":null,
-    "Purpose":null,
-    "License Type ":null,
-    "Link":null,
-    "Remarks":null
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
+  },
+  {
+    "Type":" ",
+    "Name":" ",
+    "Purpose":" ",
+    "License Type ":" ",
+    "Link":" ",
+    "Remarks":" "
   }
 
   // Add more items as needed
